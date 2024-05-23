@@ -10536,6 +10536,18 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id": 10,
+				"zoneCount": 10,
+				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 11,
+				"zoneCount": 12,
+				"name": "Guiding Lands"
+			}
+		],
 		"rewards": []
 	},
 	{
@@ -10640,6 +10652,24 @@
 				"element": "stun",
 				"stars": 2,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 1,
+				"zoneCount": 17,
+				"name": "Ancient Forest"
+			},
+			{
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"zoneCount": 12,
+				"name": "Guiding Lands"
+				
 			}
 		],
 		"rewards": []
@@ -10891,6 +10921,43 @@
 				"stars": 2,
 				"condition": null
 			}
+		],
+		"locations":[
+			{ "id": 1,
+				"zoneCount": 17,
+				"name": "Ancient Forest"
+			},
+			{
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 3,
+				"zoneCount": 7,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 10,
+				"name": "Rotten Vale"
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
+				"zoneCount": 11,
+				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
+			}
+				
 		],
 		"rewards": []
 	},
