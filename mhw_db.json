@@ -9623,7 +9623,7 @@
 		],
 		"locations": [
 			{
-				"id": 14,
+				"id": 15,
 				"zoneCount": 1,
 				"name": "Secluded Valley"
 			}
@@ -9703,7 +9703,7 @@
 		],
 		"locations": [
 			{
-				"id": 13,
+				"id": 11,
 				"zoneCount": 15,
 				"name": "Guiding Lands"
 			}
@@ -9782,7 +9782,7 @@
 		],
 		"locations": [
 			{
-				"id": 13,
+				"id": 11,
 				"zoneCount": 15,
 				"name": "Guiding Lands"
 			}
@@ -9906,7 +9906,7 @@
 		],
 		"locations": [
 			{
-				"id": 12,
+				"id": 10,
 				"zoneCount": 17,
 				"name": "Hoarfrost Reach"
 			}
@@ -10102,7 +10102,7 @@
 				"name": "Coral Highlands"
 			},
 			{
-				"id": 13,
+				"id": 11,
 				"zoneCount": 15,
 				"name": "Guiding Lands"
 			}
@@ -10217,7 +10217,7 @@
 		"locations": [
 			{
 				"id": 1,
-				"zoneCount": 17,
+				"zoneCount": 2,
 				"name": "Ancient Forest"
 			},
 			{
@@ -10226,7 +10226,29 @@
 				"name": "Coral Highlands"
 			},
 			{
-				"id": 13,
+				"id": 3,
+				"zoneCount": 7,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 10,
+				"name": "Rotten Vale"
+
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
+				"zoneCount": 11,
+				"name": "Hoarfrost Reach"
+			},
+
+			{
+				"id": 11,
 				"zoneCount": 15,
 				"name": "Guiding Lands"
 			}
@@ -10368,12 +10390,12 @@
 		"locations": [
 			{
 				"id": 8,
-				"zoneCount": 12,
+				"zoneCount": 10,
 				"name": "Hoarfrost Reach"
 			},
 			{
 				"id": 13,
-				"zoneCount": 15,
+				"zoneCount": 11,
 				"name": "Guiding Lands"
 			}
 		],
@@ -10955,6 +10977,20 @@
 				"stars": 2,
 				"condition": null
 			}
+		], "locations": [
+		
+			{
+				"id": 10,
+				"name": "Hoarfrost Reach",
+				"zoneCount": 8
+				
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 10
+				
+			}
 		],
 		"rewards": []
 	},
@@ -10966,7 +11002,7 @@
 			"ice"
 		],
 		"name": "Barioth",
-		"description": "he snow-white flying wyvern with huge tusks found in the frozen tundra. It uses its forelegs and tail to traverse ice with ease.",
+		"description": "A snow-white flying wyvern found in the frozen tundra. It uses its wings and tail to traverse ice with ease.",
 		"ailments": [
 			{
 				"id": 6,
@@ -11040,6 +11076,18 @@
 				"element": "stun",
 				"stars": 2,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 10,
+				"zoneCount": 12,
+				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
 		],
 		"rewards": []
@@ -11131,6 +11179,29 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"zoneCount": 7
+			},
+			{
+				"id": 3,
+				"name": "Wildspire Waste",
+				"zoneCount":5
+
+			},
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 8
+			},
+		{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 10
+			}
+		],
 		"rewards": []
 	},
 	{
@@ -11207,6 +11278,18 @@
 				"stars": 2,
 				"condition": null
 			}
+		], "locations": [
+			
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 8
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 10
+			}
 		],
 		"rewards": []
 	},
@@ -11257,7 +11340,7 @@
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"element": "water",
 				"stars": 3,
 				"condition": "When charged"
 			},
@@ -11295,6 +11378,35 @@
 				"element": "stun",
 				"stars": 2,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 2,
+				"name": "Coral Highlands",
+				"zoneCount": 6
+				
+			},
+			{
+				"id": 4,
+				"name": "Rotten Vale",
+				"zoneCount": 7
+			},
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 8
+			},
+			{
+				"id": 10,
+				"name": "Hoarfrost Reach",
+				"zoneCount": 4
+
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 10
 			}
 		],
 		"rewards": []
@@ -11500,6 +11612,23 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id":5,
+				"name": "Elder's Recess",
+				"zoneCount": 7
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 5
+			},
+			{
+				"id": 12,
+				"name": "Origin Isle",
+				"zoneCount": 1
+			}
+		],
 		"rewards": []
 	},
 	{
@@ -11532,7 +11661,7 @@
 		{
 			"id": 6,
 			"name": "Hoarfrost Reach",
-			"description": "A harsh, cold environment where Boaboa are commonly found."
+			"zoneCount": 12
 		}
 	],
 	"rewards": []
@@ -11619,6 +11748,18 @@
 				"element": "stun",
 				"stars": 2,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 2,
+				"name": "Coral Highlands",
+				"zoneCount": 8
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 5
 			}
 		],
 		"rewards": []
@@ -11711,6 +11852,23 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"zoneCount": 7
+			},
+			{
+				"id": 3,
+				"name": "Wildspire Waste",
+				"zoneCount": 9
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 3
+			}
+		],
 		"rewards": []
 	},
 	{
@@ -11790,6 +11948,13 @@
 				"element": "stun",
 				"stars": 1,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 12,
+				"name": "Origin Isle",
+				"zoneCount": 1
 			}
 		],
 		"rewards": []
@@ -12011,6 +12176,44 @@
 				"condition": null
 			}
 		],
+		"locations":[
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"zoneCount": 9
+			},
+			{
+				"id": 2,
+				"name": "Coral Highlands",
+				"zoneCount":8
+
+			}, 
+			{
+			"id": 3,
+			"name": "Wildspire Waste",
+			"zoneCount": 8
+			},
+			{
+				"id": 4,
+				"name": "Rotten Vale",
+				"zoneCount": 6
+			},
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 8
+			},
+			{
+				"id": 10,
+				"name": "Hoarfrost Reach",
+				"zoneCount": 8
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+		],
 		"rewards": []
 	},
 	{
@@ -12105,6 +12308,25 @@
 				"stars": 1,
 				"condition": null
 			}
+		],
+		"locations":[
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"zoneCount": 9
+			},
+			{
+				"id":4,
+				"name": "Rotten Vale",
+				"zoneCount":6
+
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+			
 		],
 		"rewards": []
 	},
@@ -12215,6 +12437,19 @@
 				"condition": null
 			}
 		],
+			"locations":[
+				{
+					"id": 5,
+					"name": "Elder's Recess",
+					"zoneCount": 9
+				},
+				{
+					"id": 11,
+					"name": "Guiding Lands",
+					"zoneCount": 15
+				}
+				
+			],
 		"rewards": []
 	},
 	{
@@ -12338,6 +12573,19 @@
 				"stars": 2,
 				"condition": null
 			}
+		],
+		"locations":[
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"zoneCount": 9
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+			
 		],
 		"rewards": []
 	},
@@ -12475,6 +12723,19 @@
 				"stars": 2,
 				"condition": null
 			}
+		],
+		"locations":[
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 9
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+			
 		],
 		"rewards": []
 	},
@@ -12764,6 +13025,7 @@
 		"rewards": []
 	},
 	{
+		"id": 86,
 		"type": "small",
 	"species": "herbivore",
 	"elements": [],
