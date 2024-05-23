@@ -10289,7 +10289,7 @@
 	{
 		"id": 62,
 		"type": "large",
-		"species": "brute wyverns",
+		"species": "brute wyvern",
 		"elements": [
 			"ice"
 		],
@@ -10363,6 +10363,18 @@
 					"items": [],
 					"skills": []
 				}
+			}
+		],
+		"locations": [
+			{
+				"id": 8,
+				"zoneCount": 12,
+				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 13,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
 		],
 		"resistances": [
@@ -11492,133 +11504,38 @@
 	},
 	{
 		"id": 74,
-		"type": "large",
-		"species": "fanged wyvern",
-		"elements": [],
-		"name": "Viper Tobi-Kadachi",
-		"description": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
-		"ailments": [
-			{
-				"id": 8,
-				"name": "Poison",
-				"description": "Poison slowly drains the target's health.",
-				"recovery": {
-					"actions": [],
-					"items": [
-						{
-							"id": 5,
-							"rarity": 1,
-							"value": 6,
-							"carryLimit": 10,
-							"name": "Antidote",
-							"description": "A cure for poison."
-						},
-						{
-							"id": 6,
-							"rarity": 2,
-							"value": 25,
-							"carryLimit": 5,
-							"name": "Herbal Medicine",
-							"description": "Removes all traces of poison and restores a slight amount of health."
-						}
-					]
-				},
-				"protection": {
-					"items": [],
-					"skills": [
-						{
-							"id": 1,
-							"name": "Poison Resistance",
-							"description": "Reduces damage while poisoned."
-						}
-					]
-				}
-			},
-			{
-				"id": 17,
-				"name": "Noxious poison",
-				"description": "Poison but ultra hardcore",
-				"recovery": {
-					"actions": [],
-					"items": []
-				},
-				"protection": {
-					"items": [],
-					"skills": []
-				}
-			},
-			{
-				"id": 7,
-				"name": "Paralysis",
-				"description": "Paralysis renders the hunter or monster immobilized and susceptible to increased damage for the duration. Hunters can unparalyzed if they are hit.",
-				"recovery": {
-					"actions": [],
-					"items": []
-				},
-				"protection": {
-					"items": [],
-					"skills": [
-						{
-							"id": 2,
-							"name": "Paralysis Resistance",
-							"description": "Reduces the duration of paralysis."
-						}
-					]
-				}
-			}
-		],
-		"resistances": [
-			{
-				"element": "water",
-				"condition": null
-			},
-			{
-				"element": "fire",
-				"condition": null
-			},
-			{
-				"element": "dragon",
-				"condition": null
-			}
-		],
-		"weaknesses": [
-			{
-				"element": "thunder",
-				"stars": 3,
-				"condition": null
-			},
-			{
-				"element": "ice",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "poison",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "sleep",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "paralysis",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "blast",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "stun",
-				"stars": 2,
-				"condition": null
-			}
-		],
-		"rewards": []
+		"type": "small",
+	"species": "lynian",
+	"elements": [],
+	"name": "Boaboa",
+	"description": "A tribe of Lynians residing in the cold regions of Hoarfrost Reach. They are known for their hunting skills and use of ice weapons.",
+	"ailments": [],
+	"resistances": [],
+	"weaknesses": [
+		{
+			"element": "fire",
+			"stars": 3,
+			"condition": null
+		},
+		{
+			"element": "thunder",
+			"stars": 2,
+			"condition": null
+		},
+		{
+			"element": "water",
+			"stars": 1,
+			"condition": null
+		}
+	],
+	"locations": [
+		{
+			"id": 6,
+			"name": "Hoarfrost Reach",
+			"description": "A harsh, cold environment where Boaboa are commonly found."
+		}
+	],
+	"rewards": []
 	},
 	{
 		"id": 75,
@@ -11786,130 +11703,6 @@
 			{
 				"element": "blast",
 				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "stun",
-				"stars": 2,
-				"condition": null
-			}
-		],
-		"rewards": []
-	},
-	{
-		"id": 77,
-		"type": "large",
-		"species": "bird wyvern",
-		"elements": [
-			"fire"
-		],
-		"name": "Yian Garuga",
-		"description": "A short-tempered bird wyvern marked by its hard, black scales and impressive mane. It strikes with its distinctive beak.",
-		"ailments": [
-			{
-				"id": 5,
-				"name": "Fireblight",
-				"description": "Fireblight causes damage over time, and negates regular health recovery.",
-				"recovery": {
-					"actions": [
-						"dodge"
-					],
-					"items": [
-						{
-							"id": 7,
-							"rarity": 2,
-							"value": 120,
-							"carryLimit": 10,
-							"name": "Nulberry",
-							"description": "A mysterious berry that cures various blights."
-						}
-					]
-				},
-				"protection": {
-					"items": [],
-					"skills": []
-				}
-			},
-			{
-				"id": 8,
-				"name": "Poison",
-				"description": "Poison slowly drains the target's health.",
-				"recovery": {
-					"actions": [],
-					"items": [
-						{
-							"id": 5,
-							"rarity": 1,
-							"value": 6,
-							"carryLimit": 10,
-							"name": "Antidote",
-							"description": "A cure for poison."
-						},
-						{
-							"id": 6,
-							"rarity": 2,
-							"value": 25,
-							"carryLimit": 5,
-							"name": "Herbal Medicine",
-							"description": "Removes all traces of poison and restores a slight amount of health."
-						}
-					]
-				},
-				"protection": {
-					"items": [],
-					"skills": [
-						{
-							"id": 1,
-							"name": "Poison Resistance",
-							"description": "Reduces damage while poisoned."
-						}
-					]
-				}
-			}
-		],
-		"resistances": [
-			{
-				"element": "ice",
-				"condition": null
-			},
-			{
-				"element": "thunder",
-				"condition": null
-			},
-			{
-				"element": "fire",
-				"condition": null
-			}
-		],
-		"weaknesses": [
-			{
-				"element": "water",
-				"stars": 3,
-				"condition": null
-			},
-			{
-				"element": "dragon",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "poison",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "sleep",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "paralysis",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "blast",
-				"stars": 3,
 				"condition": null
 			},
 			{
@@ -12692,7 +12485,7 @@
 		"elements": [
 			"fire"
 		],
-		"name": "Silver Rathian",
+		"name": "Silver Rathalos",
 		"description": "A rare silver-scaled Rathalos species. When weathering in hellfire, its breath grows more lethal and it gains a new set of attacks.",
 		"ailments": [
 			{
@@ -12807,12 +12600,25 @@
 				"condition": null
 			}
 		],
+		"locations":[
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 9
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+			
+		],
 		"rewards": []
 	},
 	{
 		"id": 85,
 		"type": "large",
-		"species": "fkying wyvern",
+		"species": "flying wyvern",
 		"elements": [],
 		"name": "Brute Tigrex",
 		"description": "Blackish brown scales and a stronger roar set this Tigrex subspecies apart. Extremely aggressive, even by Tigrex standards.",
@@ -12948,171 +12754,90 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+		],
 		"rewards": []
 	},
 	{
-		"id": 86,
-		"type": "large",
-		"species": "fanged beast",
-		"elements": [
-			"thunder"
-		],
-		"name": "Rajang",
-		"description": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry.",
-		"ailments": [
-			{
-				"id": 11,
-				"name": "Thunderblight",
-				"description": "Thunderblight increases the chance of being stunned.",
-				"recovery": {
-					"actions": [
-						"dodge"
-					],
-					"items": [
-						{
-							"id": 7,
-							"rarity": 2,
-							"value": 120,
-							"carryLimit": 10,
-							"name": "Nulberry",
-							"description": "A mysterious berry that cures various blights."
-						}
-					]
-				},
-				"protection": {
-					"items": [],
-					"skills": []
-				}
-			}
-		],
-		"resistances": [
-			{
-				"element": "thunder",
-				"condition": null
-			},
+		"type": "small",
+	"species": "herbivore",
+	"elements": [],
+	"name": "Popo",
+	"description": "Docile herbivores that travel in herds. They inhabit colder regions like Hoarfrost Reach and are known for their long tusks, which they use to dig through the snow for food.",
+	"ailments": [],
+	"resistances": [],
+	"weaknesses": [
+		{
+			"element": "fire",
+			"stars": 3,
+			"condition": null
+		},
+		{
+			"element": "thunder",
+			"stars": 2,
+			"condition": null
+		},
+		{
+			"element": "water",
+			"stars": 1,
+			"condition": null
+		},
+		{
+			"element": "ice",
+			"stars": 1,
+			"condition": null
+		}
+	],
+	"locations": [
+		{
+			"id": 10,
+			"name": "Hoarfrost Reach",
+			"zoneCount": 12
+		}
+	],
+	"rewards": []
+},
+	{
+		"id": 87,
+		"type": "small",
+		"species": "fanged wyvern",
+		"elements": [],
+		"name": "Wulg",
+		"description": "Small, wolf-like creatures that travel in packs. They inhabit the colder regions of the Hoarfrost Reach and are known for their agility and coordination when hunting prey.",
+		"ailments": [],
+		"resistances": [],
+		"weaknesses": [
 			{
 				"element": "fire",
+				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"element": "thunder",
+				"stars": 2,
 				"condition": null
 			},
 			{
 				"element": "water",
+				"stars": 1,
 				"condition": null
 			}
 		],
-		"weaknesses": [
+		"locations": [
 			{
-				"element": "ice",
-				"stars": 3,
-				"condition": null
-			},
-			{
-				"element": "poison",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "sleep",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "paralysis",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "blast",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "stun",
-				"stars": 1,
-				"condition": null
+				"id": 10,
+			"name": "Hoarfrost Reach",
+			"zoneCount": 12
 			}
 		],
 		"rewards": []
-	},
-	{
-		"id": 87,
-		"type": "large",
-		"species": "elder dragon",
-		"elements": [
-			"fire",
-			"dragon"
-		],
-		"name": "Safi'jiiva",
-		"description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
-		"ailments": [
-			{
-				"id": 5,
-				"name": "Fireblight",
-				"description": "Fireblight causes damage over time, and negates regular health recovery.",
-				"recovery": {
-					"actions": [
-						"dodge"
-					],
-					"items": [
-						{
-							"id": 7,
-							"rarity": 2,
-							"value": 120,
-							"carryLimit": 10,
-							"name": "Nulberry",
-							"description": "A mysterious berry that cures various blights."
-						}
-					]
-				},
-				"protection": {
-					"items": [],
-					"skills": []
-				}
-			}
-		],
-		"resistances": [],
-		"weaknesses": [
-			{
-				"element": "dragon",
-				"stars": 3,
-				"condition": "Elderseal"
-			},
-			{
-				"element": "dragon",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "poison",
-				"stars": 3,
-				"condition": null
-			},
-			{
-				"element": "sleep",
-				"stars": 1,
-				"condition": null
-			},
-			{
-				"element": "paralysis",
-				"stars": 2,
-				"condition": null
-			},
-			{
-				"element": "blast",
-				"stars": 3,
-				"condition": null
-			},
-			{
-				"element": "stun",
-				"stars": 2,
-				"condition": null
-			}
-		],
-		"rewards": []
-	},
+	}
+	,
 	{
 		"id": 88,
 		"type": "large",
@@ -13182,6 +12907,13 @@
 				"element": "stun",
 				"stars": 2,
 				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"rewards": []
@@ -13271,42 +13003,381 @@
 				"condition": null
 			}
 		],
+		"locations": [
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
+			}
+		],
 		"rewards": []
 	},
 	{
 		"id": 90,
 		"type": "large",
-		"species": "",
-		"elements": [],
+		"species": "elder dragon",
+		"elements": ["fire", "ice", "thunder", "dragon"],
 		"name": "Alatreon",
-		"description": "",
-		"ailments": [],
-		"resistances": [],
-		"weaknesses": [],
+		"description": "An Elder Dragon capable of switching between various elemental modes, making it a formidable and unpredictable foe.",
+		"ailments": [
+			{
+				"id": 1,
+				"name": "Blight",
+				"description": "Causes various elemental blights depending on Alatreon's current elemental mode.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"items": [],
+					"skills": [
+						{
+							"id": 12,
+							"name": "Blight Resistance",
+							"description": "Reduces the duration of blights."
+						}
+					]
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": null
+			},
+			{
+				"element": "ice",
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"condition": null
+			},
+			{
+				"element": "dragon",
+				"condition": null
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "water",
+				"stars": 3,
+				"condition": "fire mode"
+			},
+			{
+				"element": "ice",
+				"stars": 3,
+				"condition": "fire mode"
+			},
+			{
+				"element": "fire",
+				"stars": 3,
+				"condition": "ice mode"
+			},
+			{
+				"element": "thunder",
+				"stars": 3,
+				"condition": "dragon mode"
+			},
+			{
+				"element": "dragon",
+				"stars": 2,
+				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 15,
+				"name": "Secluded Valley",
+				"zoneCount": 10
+			}
+		],
 		"rewards": []
 	},
 	{
 		"id": 91,
 		"type": "large",
-		"species": "",
-		"elements": [],
+		"species": "flying wyvern",
+		"elements": [
+			"ice"
+		],
 		"name": "Frostfang Barioth",
-		"description": "",
-		"ailments": [],
-		"resistances": [],
-		"weaknesses": [],
+		"description": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. It is more aggressive than the standard Barioth and its fangs and claws are coated with frost.",
+		"ailments": [
+			{
+				"id": 6,
+				"name": "Iceblight",
+				"description": "Iceblight causes stamina usage to increase when performing actions.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"items": [],
+					"skills": []
+				}
+			},
+			{
+				"id": 12,
+				"name": "Waterblight",
+				"description": "Waterblight slows down stamina recovery rate.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"items": [],
+					"skills": []
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "ice",
+				"condition": null
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "fire",
+				"stars": 3,
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "dragon",
+				"stars": 2,
+				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 10,
+				"zoneCount": 15,
+				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 13,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
+			}
+		],
 		"rewards": []
-	},
+	}
+	,
 	{
 		"id": 92,
 		"type": "large",
-		"species": "",
-		"elements": [],
+		"species": "elder dragon",
+		"elements": [
+			"fire",
+			"dragon"
+		],
 		"name": "Fatalis",
-		"description": "",
+		"description": "An ancient dragon that appears in the legends of many cultures. It is said to have destroyed a kingdom in a single night, and its appearance forebodes calamity.",
+		"ailments": [
+			{
+				"id": 1,
+				"name": "Fireblight",
+				"description": "Fireblight causes damage over time, and negates regular health recovery.",
+				"recovery": {
+					"actions": [
+						"dodge"
+					],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"items": [],
+					"skills": []
+				}
+			},
+			{
+				"id": 3,
+				"name": "Dragonblight",
+				"description": "Dragonblight causes your weapon's elemental properties to be nullified.",
+				"recovery": {
+					"actions": [],
+					"items": [
+						{
+							"id": 7,
+							"rarity": 2,
+							"value": 120,
+							"carryLimit": 10,
+							"name": "Nulberry",
+							"description": "A mysterious berry that cures various blights."
+						}
+					]
+				},
+				"protection": {
+					"items": [],
+					"skills": []
+				}
+			}
+		],
+		"resistances": [
+			{
+				"element": "fire",
+				"condition": null
+			},
+			{
+				"element": "dragon",
+				"condition": null
+			}
+		],
+		"weaknesses": [
+			{
+				"element": "ice",
+				"stars": 3,
+				"condition": null
+			},
+			{
+				"element": "water",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"stars": 2,
+				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 14,
+				"name": "Castle Schrade",
+				"description": "The ruins of an ancient castle where Fatalis resides."
+			}
+		],
+		"rewards": []
+	},
+	{
+		"id": 93,
+		"type": "small",
+		"species": "lynian",
+		"elements": [],
+		"name": "Grimalkyne",
+		"description": "A tribe of Lynians allied with the Hunter's Palico. They offer assistance in battle and are found in various regions.",
 		"ailments": [],
 		"resistances": [],
-		"weaknesses": [],
+		"weaknesses": [
+			{
+				"element": "fire",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "thunder",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "water",
+				"stars": 1,
+				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 1,
+				"name": "Ancient Forest",
+				"description": "A dense, lush forest where Grimalkyne can be found."
+			},
+			{
+				"id": 2,
+				"name": "Coral Highlands",
+				"description": "A vibrant, coral-filled area where Grimalkyne can be found."
+			},
+			{
+				"id": 3,
+				"name": "Wildspire Waste",
+				"description": "A barren wasteland where Grimalkyne can be found."
+			},
+			{
+				"id": 4,
+				"name": "Rotten Vale",
+				"description": "A decaying, dangerous area where Grimalkyne can be found."
+			}
+		],
+		"rewards": []
+	},
+	{
+		"id": 94,
+		"type": "small",
+		"species": "lynian",
+		"elements": [],
+		"name": "Gajalaka",
+		"description": "A tribe of Lynians native to the Elder's Recess. They are known for their aggressive behavior and use of primitive weapons.",
+		"ailments": [],
+		"resistances": [],
+		"weaknesses": [
+			{
+				"element": "water",
+				"stars": 3,
+				"condition": null
+			},
+			{
+				"element": "fire",
+				"stars": 2,
+				"condition": null
+			},
+			{
+				"element": "ice",
+				"stars": 1,
+				"condition": null
+			}
+		],
+		"locations": [
+			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"description": "A treacherous environment where Gajalaka tribes can be found."
+			}
+		],
 		"rewards": []
 	}
+	
+	
+
+
+	
 ]
