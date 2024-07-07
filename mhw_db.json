@@ -13703,6 +13703,25 @@
 			}
 		],
 		"rewards": []
+	},
+	{
+		"id": 95,
+		"type": "small",
+		"species": "herbivore",
+		"elements": [],
+		"name": "Anteka",
+		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their large antlers to shovel snow and fend off attackers.",
+		"ailments": [],
+		"resistances": [],
+		"weaknesses": [],
+		"rewards": [],
+		"locations": [
+			{
+				"id": 10,
+				"name": "Hoarfrost Reach",
+				"zoneCount": 15
+			}
+		]
 	}
 	
 	
