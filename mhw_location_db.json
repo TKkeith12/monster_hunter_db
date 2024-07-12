@@ -218,6 +218,13 @@
         "name": "Origin Isle",
         "camps": []
       
+    }, 
+    {
+        "id": 15,
+        "zoneCount": 1,
+        "name": "Castle Schrade",
+        "camps": []
+      
     }
     
   ]
