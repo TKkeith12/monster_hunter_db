@@ -1,9 +1,277 @@
 [
     {
       "id": 1,
-      "zoneCount": 17,
-      "name": "Ancient Forest",
-      "description":"A lush, verdant rainforest teeming with life, the Ancient Forest is home to a wide variety of flora and fauna. Its dense canopy hides numerous secrets, with giant trees and thick vegetation providing a complex ecosystem where hunters can find everything from small herbivores to large predators like the Rathalos.",
+  "zoneCount": 17,
+  "name": "Ancient Forest",
+  "description": "A lush, verdant rainforest teeming with life, the Ancient Forest is home to a wide variety of flora and fauna. Its dense canopy hides numerous secrets, with giant trees and thick vegetation providing a complex ecosystem where hunters can find everything from small herbivores to large predators like the Rathalos.",
+  "smallMonsters": [
+    {
+      "id": 1,
+      "name": "Aptonoth",
+      "description": "Docile herbivores that often graze in herds.",
+      "zones": [1, 3],
+      "loot": ["Aptonoth Scale", "Aptonoth Tail"]
+    },
+    {
+      "id": 2,
+      "name": "Boaboa",
+      "description": "Small, furry creatures that inhabit colder climates.",
+      "zones": [5, 7],
+      "loot": ["Boaboa Fur", "Boaboa Bone"]
+    },
+    {
+      "id": 3,
+      "name": "Gajalaka",
+      "description": "Aggressive small creatures known for their sharp weapons.",
+      "zones": [6, 8],
+      "loot": ["Gajalaka Scale", "Gajalaka Pelt"]
+    },
+    {
+      "id": 4,
+      "name": "Gajau",
+      "description": "Aquatic creatures that are often found in bodies of water.",
+      "zones": [4, 9],
+      "loot": ["Gajau Skin", "Gajau Whisker"]
+    },
+    {
+      "id": 5,
+      "name": "Grimalkyne",
+      "description": "Intelligent small creatures that often assist hunters.",
+      "zones": [7, 10],
+      "loot": ["Grimalkyne Fur", "Grimalkyne Tail"]
+    },
+    {
+      "id": 6,
+      "name": "Jagras",
+      "description": "Small, raptor-like creatures that travel in packs.",
+      "zones": [1, 2, 4],
+      "loot": ["Jagras Scale", "Jagras Hide"]
+    },
+    {
+      "id": 7,
+      "name": "Kestodon",
+      "description": "Small herbivores with strong defensive capabilities.",
+      "zones": [5, 7],
+      "loot": ["Kestodon Shell", "Kestodon Scalp"]
+    },
+    {
+      "id": 8,
+      "name": "Mernos",
+      "description": "Flying creatures often found perched on high branches.",
+      "zones": [8, 10],
+      "loot": ["Mernos Hide", "Mernos Tail"]
+    },
+    {
+      "id": 9,
+      "name": "Mosswine",
+      "description": "Pig-like creatures known for their ability to sniff out rare mushrooms.",
+      "zones": [3, 6],
+      "loot": ["Mosswine Hide", "Mosswine Pork"]
+    },
+    {
+      "id": 10,
+      "name": "Vespoid",
+      "description": "Flying insects that can paralyze their prey.",
+      "zones": [9, 11],
+      "loot": ["Vespoid Shell", "Vespoid Wing"]
+    }
+  ],
+  "largeMonsters": [
+    {
+      "id": 1,
+      "name": "Anjanath",
+      "description": "A large, carnivorous brute wyvern with a fearsome reputation.",
+      "zones": [7, 8, 9],
+      "loot": ["Anjanath Scale", "Anjanath Fang", "Anjanath Pelt"]
+    },
+    {
+      "id": 2,
+      "name": "Fulgur Anjanath",
+      "description": "A subspecies of Anjanath that harnesses electricity.",
+      "zones": [10, 11, 12],
+      "loot": ["Fulgur Anjanath Scale", "Fulgur Anjanath Fang", "Fulgur Anjanath Pelt"]
+    },
+    {
+      "id": 3,
+      "name": "Banbaro",
+      "description": "A large brute wyvern known for its powerful charging attacks.",
+      "zones": [13, 14, 15],
+      "loot": ["Banbaro Horn", "Banbaro Fur", "Banbaro Tail"]
+    },
+    {
+      "id": 4,
+      "name": "Bazelgeuse",
+      "description": "A dangerous flying wyvern that scatters explosive scales.",
+      "zones": [16, 17],
+      "loot": ["Bazelgeuse Scale", "Bazelgeuse Wing", "Bazelgeuse Tail"]
+    },
+    {
+      "id": 5,
+      "name": "Deviljho",
+      "description": "A large, terrifying brute wyvern known for its insatiable hunger.",
+      "zones": [14, 15, 16],
+      "loot": ["Deviljho Scale", "Deviljho Fang", "Deviljho Tail"]
+    },
+    {
+      "id": 6,
+      "name": "Savage Deviljho",
+      "description": "A variant of Deviljho, even more aggressive and dangerous.",
+      "zones": [15, 16, 17],
+      "loot": ["Savage Deviljho Scale", "Savage Deviljho Fang", "Savage Deviljho Tail"]
+    },
+    {
+      "id": 7,
+      "name": "Ebony Odogaron",
+      "description": "A subspecies of Odogaron with a dark, fearsome appearance.",
+      "zones": [11, 12, 13],
+      "loot": ["Ebony Odogaron Scale", "Ebony Odogaron Fang", "Ebony Odogaron Tail"]
+    },
+    {
+      "id": 8,
+      "name": "Glavenus",
+      "description": "A brute wyvern known for its sword-like tail.",
+      "zones": [10, 11, 12],
+      "loot": ["Glavenus Scale", "Glavenus Fang", "Glavenus Tail"]
+    },
+    {
+      "id": 9,
+      "name": "Great Jagras",
+      "description": "The alpha of the Jagras pack, known for its gluttony.",
+      "zones": [1, 2, 3],
+      "loot": ["Great Jagras Scale", "Great Jagras Mane", "Great Jagras Hide"]
+    },
+    {
+      "id": 10,
+      "name": "Kulu-Ya-Ku",
+      "description": "A bird wyvern that likes to steal and use tools.",
+      "zones": [3, 4, 5],
+      "loot": ["Kulu-Ya-Ku Scale", "Kulu-Ya-Ku Beak", "Kulu-Ya-Ku Plume"]
+    },
+    {
+      "id": 11,
+      "name": "Kushala Daora",
+      "description": "An elder dragon that can control wind.",
+      "zones": [16, 17],
+      "loot": ["Kushala Daora Scale", "Kushala Daora Claw", "Kushala Daora Tail"]
+    },
+    {
+      "id": 12,
+      "name": "Leshen",
+      "description": "A mythical creature with control over nature.",
+      "zones": [8, 9, 10],
+      "loot": ["Leshen Antler", "Leshen Claw", "Leshen Hide"]
+    },
+    {
+      "id": 13,
+      "name": "Ancient Leshen",
+      "description": "A more powerful variant of the Leshen.",
+      "zones": [9, 10, 11],
+      "loot": ["Ancient Leshen Antler", "Ancient Leshen Claw", "Ancient Leshen Hide"]
+    },
+    {
+      "id": 14,
+      "name": "Nargacuga",
+      "description": "A flying wyvern with incredible agility and sharp blades on its wings.",
+      "zones": [12, 13, 14],
+      "loot": ["Nargacuga Scale", "Nargacuga Wing", "Nargacuga Tail"]
+    },
+    {
+      "id": 15,
+      "name": "Nightshade Paolumu",
+      "description": "A subspecies of Paolumu that can put foes to sleep.",
+      "zones": [13, 14, 15],
+      "loot": ["Nightshade Paolumu Scale", "Nightshade Paolumu Wing", "Nightshade Paolumu Tail"]
+    },
+    {
+      "id": 16,
+      "name": "Pukei-Pukei",
+      "description": "A bird wyvern known for its poisonous attacks.",
+      "zones": [6, 7, 8],
+      "loot": ["Pukei-Pukei Scale", "Pukei-Pukei Wing", "Pukei-Pukei Tail"]
+    },
+    {
+      "id": 17,
+      "name": "Rajang",
+      "description": "A highly aggressive beast known for its raw strength.",
+      "zones": [14, 15, 16],
+      "loot": ["Rajang Fang", "Rajang Horn", "Rajang Tail"]
+    },
+    {
+      "id": 18,
+      "name": "Rathian",
+      "description": "The female counterpart of Rathalos, known for its poisonous tail.",
+      "zones": [10, 11, 12],
+      "loot": ["Rathian Scale", "Rathian Wing", "Rathian Tail"]
+    },
+    {
+      "id": 19,
+      "name": "Rathalos",
+      "description": "The King of the Skies, a large flying wyvern known for its fiery breath.",
+      "zones": [16, 17],
+      "loot": ["Rathalos Scale", "Rathalos Wing", "Rathalos Tail"]
+    },
+    {
+      "id": 20,
+      "name": "Azure Rathalos",
+      "description": "A subspecies of Rathalos with a beautiful azure hue.",
+      "zones": [15, 16, 17],
+      "loot": ["Azure Rathalos Scale", "Azure Rathalos Wing", "Azure Rathalos Tail"]
+    },
+    {
+      "id": 21,
+      "name": "Ruiner Nergigante",
+      "description": "A variant of Nergigante covered in black spikes.",
+      "zones": [17],
+      "loot": ["Ruiner Nergigante Scale", "Ruiner Nergigante Horn", "Ruiner Nergigante Tail"]
+    },
+    {
+      "id": 22,
+      "name": "Tigrex",
+      "description": "A powerful brute wyvern known for its deafening roar.",
+      "zones": [14, 15, 16],
+      "loot": ["Tigrex Scale", "Tigrex Fang", "Tigrex Tail"]
+    },
+    {
+      "id": 23,
+      "name": "Tobi-Kadachi",
+      "description": "A fanged wyvern that can generate electricity.",
+      "zones": [8, 9, 10],
+      "loot": ["Tobi-Kadachi Scale", "Tobi-Kadachi Electrode", "Tobi-Kadachi Tail"]
+    },
+    {
+      "id": 24,
+      "name": "Blackveil Vaal Hazak",
+      "description": "A variant of Vaal Hazak with a dark, eerie appearance.",
+      "zones": [17],
+      "loot": ["Blackveil Vaal Hazak Scale", "Blackveil Vaal Hazak Fang", "Blackveil Vaal Hazak Tail"]
+    },
+    {
+      "id": 25,
+      "name": "Velkhana",
+      "description": "An elder dragon known for its control over ice.",
+      "zones": [16, 17],
+      "loot": ["Velkhana Scale", "Velkhana Claw", "Velkhana Tail"]
+    },
+    {
+      "id": 26,
+      "name": "Yian Garuga",
+      "description": "A bird wyvern known for its toxic attacks and sharp beak.",
+      "zones": [10, 11, 12],
+      "loot": ["Yian Garuga Scale", "Yian Garuga Beak", "Yian Garuga Tail"]
+    },
+    {
+      "id": 27,
+      "name": "Scarred Yian Garuga",
+      "description": "A variant of Yian Garuga with battle scars.",
+      "zones": [11, 12, 13],
+      "loot": ["Scarred Yian Garuga Scale", "Scarred Yian Garuga Beak", "Scarred Yian Garuga Tail"]
+    },
+    {
+      "id": 28,
+      "name": "Zinogre"
+      
+    }
+  ],
       "camps": [
         {
           "id": 26,
@@ -32,6 +300,114 @@
       "zoneCount": 15,
       "name": "Coral Highlands",
       "description":"A breathtakingly beautiful area that resembles an underwater coral reef lifted into the sky. The Coral Highlands are home to vibrant and unique wildlife, including colorful birds and exotic creatures. The area features vertical gameplay with hunters climbing up and down the coral formations.",
+      "smallMonsters":[ {
+        "id": 1,
+        "name": "Boaboa"
+      },
+      {
+        "id": 2,
+        "name": "Gajalaka"
+      },
+      {
+        "id": 3,
+        "name": "Grimalkyne"
+      },
+      {
+        "id": 4,
+        "name": "Kelbi"
+      },
+      {
+        "id": 5,
+        "name": "Raphinos"
+      },
+      {
+        "id": 6,
+        "name": "Shamos"
+      },
+      {
+        "id": 7,
+        "name": "Vespoid"
+      }
+    ],
+    "largeMonsters": [
+      {
+        "id": 1,
+        "name": "Banbaro"
+      },
+      {
+        "id": 2,
+        "name": "Bazelgeuse"
+      },
+      {
+        "id": 3,
+        "name": "Coral Pukei-Pukei"
+      },
+      {
+        "id": 4,
+        "name": "Deviljho"
+      },
+      {
+        "id": 5,
+        "name": "Savage Deviljho"
+      },
+      {
+        "id": 6,
+        "name": "Fulgur Anjanath"
+      },
+      {
+        "id": 7,
+        "name": "Kirin"
+      },
+      {
+        "id": 8,
+        "name": "Legiana"
+      },
+      {
+        "id": 9,
+        "name": "Namielle"
+      },
+      {
+        "id": 10,
+        "name": "Nargacuga"
+      },
+      {
+        "id": 11,
+        "name": "Rajang"
+      },
+      {
+        "id": 12,
+        "name": "Ruiner Nergigante"
+      },
+      {
+        "id": 13,
+        "name": "Odogaron"
+      },
+      {
+        "id": 14,
+        "name": "Ebony Odogaron"
+      },
+      {
+        "id": 15,
+        "name": "Paolumu"
+      },
+      {
+        "id": 16,
+        "name": "Pink Rathian"
+      },
+      {
+        "id": 17,
+        "name": "Tzitzi-Ya-Ku"
+      },
+      {
+        "id": 18,
+        "name": "Velkhana"
+      },
+      {
+        "id": 19,
+        "name": "Zinogre"
+    
+      }
+    ],
       "camps": [
         {
           "id": 5,
@@ -50,6 +426,150 @@
       "zoneCount": 15,
       "name": "Wildspire Waste",
       "description":"A vast desert environment with varied terrain, including swamps, dry plains, and rocky outcrops. The Wildspire Waste is a harsh and arid region where only the toughest creatures survive. Hunters can encounter a mix of desert-dwelling creatures such as the Barroth and Diablos.",
+      "smallMonsters": [
+        {
+          "id": 1,
+          "name": "Apceros"
+        },
+        {
+          "id": 2,
+          "name": "Boaboa"
+        },
+        {
+          "id": 3,
+          "name": "Gajalaka"
+        },
+        {
+          "id": 4,
+          "name": "Gajau"
+        },
+        {
+          "id": 5,
+          "name": "Grimalkyne"
+        },
+        {
+          "id": 6,
+          "name": "Kelbi"
+        },
+        {
+          "id": 7,
+          "name": "Kestodon"
+        },
+        {
+          "id": 8,
+          "name": "Mernos"
+        },
+        {
+          "id": 9,
+          "name": "Mosswine"
+        },
+        {
+          "id": 10,
+          "name": "Noios"
+        },
+        {
+          "id": 11,
+          "name": "Vespoid"
+        }
+      ],
+      "largeMonsters": [
+        {
+          "id": 1,
+          "name": "Anjanath"
+        },
+        {
+          "id": 2,
+          "name": "Fulgur Anjanath"
+        },
+        {
+          "id": 3,
+          "name": "Banbaro"
+        },
+        {
+          "id": 4,
+          "name": "Barroth"
+        },
+        {
+          "id": 5,
+          "name": "Bazelgeuse"
+        },
+        {
+          "id": 6,
+          "name": "Deviljho"
+        },
+        {
+          "id": 7,
+          "name": "Savage Deviljho"
+        },
+        {
+          "id": 8,
+          "name": "Diablos"
+        },
+        {
+          "id": 9,
+          "name": "Black Diablos"
+        },
+        {
+          "id": 10,
+          "name": "Ebony Odogaron"
+        },
+        {
+          "id": 11,
+          "name": "Glavenus"
+        },
+        {
+          "id": 12,
+          "name": "Jyuratodus"
+        },
+        {
+          "id": 13,
+          "name": "Kulu-Ya-Ku"
+        },
+        {
+          "id": 14,
+          "name": "Lunastra"
+        },
+        {
+          "id": 15,
+          "name": "Nergigante"
+        },
+        {
+          "id": 16,
+          "name": "Ruiner Nergigante"
+        },
+        {
+          "id": 17,
+          "name": "Nightshade Paolumu"
+        },
+        {
+          "id": 18,
+          "name": "Pukei-Pukei"
+        },
+        {
+          "id": 19,
+          "name": "Rajang"
+        },
+        {
+          "id": 20,
+          "name": "Rathian"
+        },
+        {
+          "id": 21,
+          "name": "Pink Rathian"
+        },
+        {
+          "id": 22,
+          "name": "Teostra"
+        },
+        {
+          "id": 23,
+          "name": "Tigrex"
+        },
+        {
+          "id": 24,
+          "name": "Velkhana"
+        }
+    ],
       "camps": [
         {
           "id": 7,
@@ -78,6 +598,110 @@
       "zoneCount": 16,
       "name": "Rotten Vale",
       "description":"A dark and eerie region filled with decaying carcasses and toxic fumes. The Rotten Vale is a graveyard of sorts, where creatures come to die. The air is thick with poison, and the ground is littered with bones and decomposing bodies. Hunters must be cautious of the hazardous environment and the aggressive monsters that inhabit it.",
+     "smallMonsters": [
+    {
+      "id": 1,
+      "name": "Boaboa"
+    },
+    {
+      "id": 2,
+      "name": "Gajalaka"
+    },
+    {
+      "id": 3,
+      "name": "Girros"
+    },
+    {
+      "id": 4,
+      "name": "Grimalkyne"
+    },
+    {
+      "id": 5,
+      "name": "Hornetaur"
+    },
+    {
+      "id": 6,
+      "name": "Mosswine"
+    },
+    {
+      "id": 7,
+      "name": "Raphinos"
+    },
+    {
+      "id": 8,
+      "name": "Vespoid"
+    }
+  ],
+  "largeMonsters": [
+    {
+      "id": 1,
+      "name": "Acidic Glavenus"
+    },
+    {
+      "id": 2,
+      "name": "Banbaro"
+    },
+    {
+      "id": 3,
+      "name": "Bazelgeuse"
+    },
+    {
+      "id": 4,
+      "name": "Deviljho"
+    },
+    {
+      "id": 5,
+      "name": "Savage Deviljho"
+    },
+    {
+      "id": 6,
+      "name": "Fulgur Anjanath"
+    },
+    {
+      "id": 7,
+      "name": "Great Girros"
+    },
+    {
+      "id": 8,
+      "name": "Rajang"
+    },
+    {
+      "id": 9,
+      "name": "Furious Rajang"
+    },
+    {
+      "id": 10,
+      "name": "Ruiner Nergigante"
+    },
+    {
+      "id": 11,
+      "name": "Odogaron"
+    },
+    {
+      "id": 12,
+      "name": "Ebony Odogaron"
+    },
+    {
+      "id": 13,
+      "name": "Radobaan"
+    },
+    {
+      "id": 14,
+      "name": "Tigrex"
+    },
+    {
+      "id": 15,
+      "name": "Vaal Hazak"
+    },
+    {
+      "id": 16,
+      "name": "Blackveil Vaal Hazak"
+    },
+    {
+      "id": 17,
+      "name": "Velkhana"
+    }
+    ],
       "camps": [
         {
           "id": 11,
@@ -96,6 +720,142 @@
       "zoneCount": 16,
       "name": "Elder's Recess",
       "description":"A secluded, crystalline area where the most powerful monsters reside. The Elder’s Recess is a hidden, otherworldly place filled with strange mineral formations and a high concentration of elder dragons. The area is dangerous and unpredictable, with formidable foes such as Nergigante and Teostra.",
+     "smallMonsters": [
+    {
+      "id": 1,
+      "name": "Barnos"
+    },
+    {
+      "id": 2,
+      "name": "Boaboa"
+    },
+    {
+      "id": 3,
+      "name": "Gajalaka"
+    },
+    {
+      "id": 4,
+      "name": "Gastodon"
+    },
+    {
+      "id": 5,
+      "name": "Grimalkyne"
+    },
+    {
+      "id": 6,
+      "name": "Vespoid"
+    }
+  ],
+  "largeMonsters": [
+    {
+      "id": 1,
+      "name": "Banbaro"
+    },
+    {
+      "id": 2,
+      "name": "Bazelgeuse"
+    },
+    {
+      "id": 3,
+      "name": "Seething Bazelgeuse"
+    },
+    {
+      "id": 4,
+      "name": "Behemoth"
+    },
+    {
+      "id": 5,
+      "name": "Brachydios"
+    },
+    {
+      "id": 6,
+      "name": "Deviljho"
+    },
+    {
+      "id": 7,
+      "name": "Savage Deviljho"
+    },
+    {
+      "id": 8,
+      "name": "Dodogama"
+    },
+    {
+      "id": 9,
+      "name": "Ebony Odogaron"
+    },
+    {
+      "id": 10,
+      "name": "Fulgur Anjanath"
+    },
+    {
+      "id": 11,
+      "name": "Glavenus"
+    },
+    {
+      "id": 12,
+      "name": "Kushala Daora"
+    },
+    {
+      "id": 13,
+      "name": "Lavasioth"
+    },
+    {
+      "id": 14,
+      "name": "Lunastra"
+    },
+    {
+      "id": 15,
+      "name": "Nergigante"
+    },
+    {
+      "id": 16,
+      "name": "Ruiner Nergigante"
+    },
+    {
+      "id": 17,
+      "name": "Rajang"
+    },
+    {
+      "id": 18,
+      "name": "Rathalos"
+    },
+    {
+      "id": 19,
+      "name": "Azure Rathalos"
+    },
+    {
+      "id": 20,
+      "name": "Silver Rathalos"
+    },
+    {
+      "id": 21,
+      "name": "Gold Rathian"
+    },
+    {
+      "id": 22,
+      "name": "Teostra"
+    },
+    {
+      "id": 23,
+      "name": "Tigrex"
+    },
+    {
+      "id": 24,
+      "name": "Brute Tigrex"
+    },
+    {
+      "id": 25,
+      "name": "Uragaan"
+    },
+    {
+      "id": 26,
+      "name": "Velkhana"
+    },
+    {
+      "id": 27,
+      "name": "Stygian Zinogre"
+    }
+    ],
       "camps": [
         {
           "id": 13,
@@ -119,6 +879,25 @@
       "zoneCount": 1,
       "name": "Great Ravine",
       "description":"Everstream is a vast underground network of flowing energy streams and lava channels. This area is the source of the continent's geothermal activity, and it plays a crucial role in the ecosystem. The intense heat and energy in Everstream make it a dangerous place, but it's also where some of the most powerful elder dragons, like Zorah Magdaros and Xeno'jiiva, can be found. The glowing streams of energy create a unique and otherworldly atmosphere, adding to the area's mystique.",
+      "smallMonsters":[ 
+        {
+          "id":1,
+          "name":"Barnos"
+        }
+        
+    ],
+    "largeMonsters":[
+      {
+        "id":1,
+        "name":"Nergigante"
+
+      },
+      {
+        "id":2,
+        "name":"Zorah Magdaros"
+      }
+
+    ],
       "camps": []
     },
     {
@@ -126,6 +905,20 @@
       "zoneCount": 3,
       "name": "Confluence of Fates",
       "description":"The Confluence of Fates is the final area where hunters face the ultimate challenge against the elder dragon Xeno'jiiva. This mysterious and awe-inspiring location features a surreal landscape filled with luminous crystals and ethereal light. The environment's unique design creates a sense of otherworldliness, emphasizing the importance of the final showdown.",
+      "smallMonsters":[ 
+      {
+        "id":1,
+        "name":"None"
+      }
+        
+    ],
+    "largeMonsters":[
+      {
+        "id":1,
+        "name":"Xeno'jiiva"
+      }
+
+    ],
       "camps": [
         {
           "id": 16,
@@ -139,6 +932,27 @@
       "zoneCount": 1,
       "name": "Everstream",
       "description":"Everstream is a vast underground network of flowing energy streams and lava channels. This area is the source of the continent's geothermal activity, and it plays a crucial role in the ecosystem. The intense heat and energy in Everstream make it a dangerous place, but it's also where some of the most powerful elder dragons, like Zorah Magdaros and Xeno'jiiva, can be found. The glowing streams of energy create a unique and otherworldly atmosphere, adding to the area's mystique.",
+      "smallMonsters":[ 
+        {
+          "id":1,
+          "name":"Barnos"
+        }
+        
+        
+    ],
+    "largeMonsters":[
+      {
+        "id":1,
+        "name":"Nergigante"
+
+      },
+      {
+        "id":2,
+        "name":"Zorah Magdaros"
+      }
+
+
+    ],
       "camps": []
     },
     {
@@ -146,6 +960,20 @@
       "zoneCount": 4,
       "name": "Caverns of El Dorado",
       "description":"The Caverns of El Dorado are a magnificent and labyrinthine location that serves as the battleground for the siege of Kulve Taroth. This vast underground complex is filled with glittering gold deposits, precious minerals, and flowing magma. The caverns are intricately designed with winding tunnels and expansive chambers, creating a visually stunning environment. The shimmering gold and treacherous terrain make the Caverns of El Dorado a challenging and rewarding location for hunters seeking to defeat the formidable Kulve Taroth and claim its valuable rewards.",
+      "smallMonsters":[ 
+        
+      {
+        "id":1,
+        "name":"Gajalaka"
+      }
+    ],
+    "largeMonsters":[
+      {
+        "id":1,
+        "name":"Kulve Taroth"
+      }
+
+    ],
       "camps": [
         {
           "id": 17,
@@ -159,6 +987,199 @@
       "zoneCount": 1,
       "name": "Special Arena",
       "description":"The Special Arena is a dedicated location for fighting specific monsters in a controlled environment. It is a large, circular arena with high walls and few obstacles, designed to test hunters' skills against powerful creatures. This arena is used for special quests and challenges, offering a straightforward combat experience without the complexities of natural terrain.",
+      "smallMonsters": [
+        {
+          "id": 1,
+          "name": "Girros"
+        },
+        {
+          "id": 2,
+          "name": "Vespoid"
+        }
+      ],
+      "largeMonsters": [
+        {
+          "id": 1,
+          "name": "Anjanath"
+        },
+        {
+          "id": 2,
+          "name": "Fulgur Anjanath"
+        },
+        {
+          "id": 3,
+          "name": "Banbaro"
+        },
+        {
+          "id": 4,
+          "name": "Barioth"
+        },
+        {
+          "id": 5,
+          "name": "Barroth"
+        },
+        {
+          "id": 6,
+          "name": "Seething Bazelgeuse"
+        },
+        {
+          "id": 7,
+          "name": "Brachydios"
+        },
+        {
+          "id": 8,
+          "name": "Deviljho"
+        },
+        {
+          "id": 9,
+          "name": "Diablos"
+        },
+        {
+          "id": 10,
+          "name": "Black Diablos"
+        },
+        {
+          "id": 11,
+          "name": "Dodogama"
+        },
+        {
+          "id": 12,
+          "name": "Glavenus"
+        },
+        {
+          "id": 13,
+          "name": "Acidic Glavenus"
+        },
+        {
+          "id": 14,
+          "name": "Great Girros"
+        },
+        {
+          "id": 15,
+          "name": "Great Jagras"
+        },
+        {
+          "id": 16,
+          "name": "Kirin"
+        },
+        {
+          "id": 17,
+          "name": "Kulu-Ya-Ku"
+        },
+        {
+          "id": 18,
+          "name": "Kushala Daora"
+        },
+        {
+          "id": 19,
+          "name": "Legiana"
+        },
+        {
+          "id": 20,
+          "name": "Lunastra"
+        },
+        {
+          "id": 21,
+          "name": "Nargacuga"
+        },
+        {
+          "id": 22,
+          "name": "Nergigante"
+        },
+        {
+          "id": 23,
+          "name": "Odogaron"
+        },
+        {
+          "id": 24,
+          "name": "Ebony Odogaron"
+        },
+        {
+          "id": 25,
+          "name": "Paolumu"
+        },
+        {
+          "id": 26,
+          "name": "Nightshade Paolumu"
+        },
+        {
+          "id": 27,
+          "name": "Pukei-Pukei"
+        },
+        {
+          "id": 28,
+          "name": "Coral Pukei-Pukei"
+        },
+        {
+          "id": 29,
+          "name": "Radobaan"
+        },
+        {
+          "id": 30,
+          "name": "Rathalos"
+        },
+        {
+          "id": 31,
+          "name": "Azure Rathalos"
+        },
+        {
+          "id": 32,
+          "name": "Silver Rathalos"
+        },
+        {
+          "id": 33,
+          "name": "Rathian"
+        },
+        {
+          "id": 34,
+          "name": "Pink Rathian"
+        },
+        {
+          "id": 35,
+          "name": "Gold Rathian"
+        },
+        {
+          "id": 36,
+          "name": "Teostra"
+        },
+        {
+          "id": 37,
+          "name": "Tigrex"
+        },
+        {
+          "id": 38,
+          "name": "Brute Tigrex"
+        },
+        {
+          "id": 39,
+          "name": "Tobi-Kadachi"
+        },
+        {
+          "id": 40,
+          "name": "Viper Tobi-Kadachi"
+        },
+        {
+          "id": 41,
+          "name": "Tzitzi-Ya-Ku"
+        },
+        {
+          "id": 42,
+          "name": "Uragaan"
+        },
+        {
+          "id": 43,
+          "name": "Yian Garuga"
+        },
+        {
+          "id": 44,
+          "name": "Zinogre"
+        },
+        {
+          "id": 45,
+          "name": "Stygian Zinogre"
+        }
+
+    ],
       "camps": []
     },
     {
@@ -166,6 +1187,12 @@
       "zoneCount": 1,
       "name": "Arena",
       "description":"The Arena within the Gathering Hub is another controlled environment designed for combat trials. Hunters can take on special Arena Quests, which often involve fighting multiple monsters or taking on particularly difficult challenges. The Arena is a smaller, more confined space compared to the Special Arena, focusing on intense, close-quarters combat.",
+      "smallMonsters":[ 
+        
+    ],
+    "largeMonsters":[
+
+    ],
       "camps": []
     },
     {
@@ -173,6 +1200,194 @@
       "zoneCount": 17,
       "name": "Hoarfrost Reach",
       "description":"An icy, snow-covered region introduced in the Iceborne expansion. Hoarfrost Reach is a frozen wilderness with deep snowdrifts, frozen lakes, and towering icebergs. The cold environment adds new challenges for hunters, and the area is inhabited by creatures adapted to the frigid climate, like the Banbaro and Velkhana.",
+      "smallMonsters": [
+        {
+          "id": 1,
+          "name": "Barnos"
+        },
+        {
+          "id": 2,
+          "name": "Gajalaka"
+        },
+        {
+          "id": 3,
+          "name": "Gastodon"
+        },
+        {
+          "id": 4,
+          "name": "Kestodon"
+        },
+        {
+          "id": 5,
+          "name": "Mosswine"
+        }
+      ],
+      "largeMonsters": [
+        {
+          "id": 1,
+          "name": "Anjanath"
+        },
+        {
+          "id": 2,
+          "name": "Fulgur Anjanath"
+        },
+        {
+          "id": 3,
+          "name": "Banbaro"
+        },
+        {
+          "id": 4,
+          "name": "Barioth"
+        },
+        {
+          "id": 5,
+          "name": "Frostfang Barioth"
+        },
+        {
+          "id": 6,
+          "name": "Barroth"
+        },
+        {
+          "id": 7,
+          "name": "Bazelgeuse"
+        },
+        {
+          "id": 8,
+          "name": "Deviljho"
+        },
+        {
+          "id": 9,
+          "name": "Savage Deviljho"
+        },
+        {
+          "id": 10,
+          "name": "Dodogama"
+        },
+        {
+          "id": 11,
+          "name": "Acidic Glavenus"
+        },
+        {
+          "id": 12,
+          "name": "Great Jagras"
+        },
+        {
+          "id": 13,
+          "name": "Kulu-Ya-Ku"
+        },
+        {
+          "id": 14,
+          "name": "Kushala Daora"
+        },
+        {
+          "id": 15,
+          "name": "Legiana"
+        },
+        {
+          "id": 16,
+          "name": "Lunastra"
+        },
+        {
+          "id": 17,
+          "name": "Namielle"
+        },
+        {
+          "id": 18,
+          "name": "Nargacuga"
+        },
+        {
+          "id": 19,
+          "name": "Nergigante"
+        },
+        {
+          "id": 20,
+          "name": "Ruiner Nergigante"
+        },
+        {
+          "id": 21,
+          "name": "Odogaron"
+        },
+        {
+          "id": 22,
+          "name": "Paolumu"
+        },
+        {
+          "id": 23,
+          "name": "Nightshade Paolumu"
+        },
+        {
+          "id": 24,
+          "name": "Pukei-Pukei"
+        },
+        {
+          "id": 25,
+          "name": "Rajang"
+        },
+        {
+          "id": 26,
+          "name": "Furious Rajang"
+        },
+        {
+          "id": 27,
+          "name": "Rathalos"
+        },
+        {
+          "id": 28,
+          "name": "Azure Rathalos"
+        },
+        {
+          "id": 29,
+          "name": "Rathian"
+        },
+        {
+          "id": 30,
+          "name": "Pink Rathian"
+        },
+        {
+          "id": 31,
+          "name": "Teostra"
+        },
+        {
+          "id": 32,
+          "name": "Tigrex"
+        },
+        {
+          "id": 33,
+          "name": "Brute Tigrex"
+        },
+        {
+          "id": 34,
+          "name": "Tobi-Kadachi"
+        },
+        {
+          "id": 35,
+          "name": "Viper Tobi-Kadachi"
+        },
+        {
+          "id": 36,
+          "name": "Tzitzi-Ya-Ku"
+        },
+        {
+          "id": 37,
+          "name": "Uragaan"
+        },
+        {
+          "id": 38,
+          "name": "Velkhana"
+        },
+        {
+          "id": 39,
+          "name": "Yian Garuga"
+        },
+        {
+          "id": 40,
+          "name": "Scarred Yian Garuga"
+        },
+        {
+          "id": 41,
+          "name": "Zinogre"
+        }
+    ],
       "camps": [
         {
           "id": 19,
@@ -206,6 +1421,12 @@
       "zoneCount": 15,
       "name": "Guiding Lands",
       "description":"A post-game area that combines elements of all the previous regions. The Guiding Lands is a vast, evolving landscape where hunters can encounter a variety of monsters from different habitats. The terrain shifts and changes, providing endless opportunities for exploration and hunting.",
+      "smallMonsters":[ 
+        
+    ],
+    "largeMonsters":[
+
+    ],
       "camps": [
         {
           "id": 24,
@@ -224,6 +1445,298 @@
       "zoneCount": 1,
       "name": "Secluded Valley",
       "description":"The Secluded Valley is the primary battleground for the elder dragon Safi'jiiva, introduced in the Iceborne expansion. This remote and isolated area features a vast, open space with a variety of terrain elements, including rocky outcrops and lava flows. The Secluded Valley is designed to test hunters' abilities against one of the game's most formidable foes.",
+      "smallMonsters": [
+        {
+          "id": 1,
+          "name": "Anteka"
+        },
+        {
+          "id": 2,
+          "name": "Apceros"
+        },
+        {
+          "id": 3,
+          "name": "Aptonoth"
+        },
+        {
+          "id": 4,
+          "name": "Barnos"
+        },
+        {
+          "id": 5,
+          "name": "Boaboa"
+        },
+        {
+          "id": 6,
+          "name": "Cortos"
+        },
+        {
+          "id": 7,
+          "name": "Gajalaka"
+        },
+        {
+          "id": 8,
+          "name": "Gastodon"
+        },
+        {
+          "id": 9,
+          "name": "Girros"
+        },
+        {
+          "id": 10,
+          "name": "Grimalkyne"
+        },
+        {
+          "id": 11,
+          "name": "Jagras"
+        },
+        {
+          "id": 12,
+          "name": "Kelbi"
+        },
+        {
+          "id": 13,
+          "name": "Kestodon"
+        },
+        {
+          "id": 14,
+          "name": "Mernos"
+        },
+        {
+          "id": 15,
+          "name": "Noios"
+        },
+        {
+          "id": 16,
+          "name": "Raphinos"
+        },
+        {
+          "id": 17,
+          "name": "Shamos"
+        },
+        {
+          "id": 18,
+          "name": "Vespoid"
+        },
+        {
+          "id": 19,
+          "name": "Wulg"
+        }
+      ],
+      "largeMonsters": [
+        {
+          "id": 1,
+          "name": "Anjanath"
+        },
+        {
+          "id": 2,
+          "name": "Fulgur Anjanath"
+        },
+        {
+          "id": 3,
+          "name": "Banbaro"
+        },
+        {
+          "id": 4,
+          "name": "Barioth"
+        },
+        {
+          "id": 5,
+          "name": "Barroth"
+        },
+        {
+          "id": 6,
+          "name": "Blackveil Vaal Hazak"
+        },
+        {
+          "id": 7,
+          "name": "Brachydios"
+        },
+        {
+          "id": 8,
+          "name": "Raging Brachydios"
+        },
+        {
+          "id": 9,
+          "name": "Diablos"
+        },
+        {
+          "id": 10,
+          "name": "Black Diablos"
+        },
+        {
+          "id": 11,
+          "name": "Dodogama"
+        },
+        {
+          "id": 12,
+          "name": "Glavenus"
+        },
+        {
+          "id": 13,
+          "name": "Acidic Glavenus"
+        },
+        {
+          "id": 14,
+          "name": "Great Girros"
+        },
+        {
+          "id": 15,
+          "name": "Great Jagras"
+        },
+        {
+          "id": 16,
+          "name": "Kirin"
+        },
+        {
+          "id": 17,
+          "name": "Kulu-Ya-Ku"
+        },
+        {
+          "id": 18,
+          "name": "Kushala Daora"
+        },
+        {
+          "id": 19,
+          "name": "Lavasioth"
+        },
+        {
+          "id": 20,
+          "name": "Legiana"
+        },
+        {
+          "id": 21,
+          "name": "Shrieking Legiana"
+        },
+        {
+          "id": 22,
+          "name": "Lunastra"
+        },
+        {
+          "id": 23,
+          "name": "Namielle"
+        },
+        {
+          "id": 24,
+          "name": "Nargacuga"
+        },
+        {
+          "id": 25,
+          "name": "Odogaron"
+        },
+        {
+          "id": 26,
+          "name": "Ebony Odogaron"
+        },
+        {
+          "id": 27,
+          "name": "Paolumu"
+        },
+        {
+          "id": 28,
+          "name": "Nightshade Paolumu"
+        },
+        {
+          "id": 29,
+          "name": "Pukei-Pukei"
+        },
+        {
+          "id": 30,
+          "name": "Coral Pukei-Pukei"
+        },
+        {
+          "id": 31,
+          "name": "Radobaan"
+        },
+        {
+          "id": 32,
+          "name": "Rajang"
+        },
+        {
+          "id": 33,
+          "name": "Rathalos"
+        },
+        {
+          "id": 34,
+          "name": "Azure Rathalos"
+        },
+        {
+          "id": 35,
+          "name": "Silver Rathalos"
+        },
+        {
+          "id": 36,
+          "name": "Rathian"
+        },
+        {
+          "id": 37,
+          "name": "Pink Rathian"
+        },
+        {
+          "id": 38,
+          "name": "Gold Rathian"
+        },
+        {
+          "id": 39,
+          "name": "Ruiner Nergigante"
+        },
+        {
+          "id": 40,
+          "name": "Savage Deviljho"
+        },
+        {
+          "id": 41,
+          "name": "Seething Bazelgeuse"
+        },
+        {
+          "id": 42,
+          "name": "Teostra"
+        },
+        {
+          "id": 43,
+          "name": "Tigrex"
+        },
+        {
+          "id": 44,
+          "name": "Brute Tigrex"
+        },
+        {
+          "id": 45,
+          "name": "Tobi-Kadachi"
+        },
+        {
+          "id": 46,
+          "name": "Viper Tobi-Kadachi"
+        },
+        {
+          "id": 47,
+          "name": "Tzitzi-Ya-Ku"
+        },
+        {
+          "id": 48,
+          "name": "Uragaan"
+        },
+        {
+          "id": 49,
+          "name": "Velkhana"
+        },
+        {
+          "id": 50,
+          "name": "Yian Garuga"
+        },
+        {
+          "id": 51,
+          "name": "Scarred Yian Garuga"
+        },
+        {
+          "id": 52,
+          "name": "Zinogre"
+        },
+        {
+          "id": 53,
+          "name": "Stygian Zinogre"
+        }
+    ],
       "camps": []
     }, 
     {
@@ -231,6 +1744,24 @@
         "zoneCount": 1,
         "name": "Origin Isle",
         "description":"Origin Isle is a secluded and mysterious island where the endgame content takes place. It is filled with some of the toughest monsters in the game, including various elder dragons. This area is known for its dense and varied ecosystems, combining elements from all the other regions in the game, offering unique challenges and a final test for hunters.",
+        "smallMonsters":[ 
+          {
+            "id":1,
+            "name":"None"
+          }
+        
+      ],
+      "largeMonsters":[
+        {
+          "id":1,
+          "name":"Shara Ishvalda"
+        },
+        {
+          "id":2,
+          "name":"Ruiner Nergigante"
+        }
+
+      ],
         "camps": []
       
     }, 
@@ -239,6 +1770,20 @@
         "zoneCount": 1,
         "name": "Castle Schrade",
         "description":"Castle Schrade is a legendary and foreboding fortress that serves as the battleground for the ultimate confrontation with the elder dragon Fatalis. This ancient, ruined castle is steeped in history and mystery, with its crumbling walls and towering spires providing a dramatic and imposing backdrop for one of the most challenging encounters in Monster Hunter World: Iceborne. The area is filled with the remnants of its former grandeur, creating a haunting atmosphere that underscores the epic nature of the battle against Fatalis. Hunters must use all their skills and strategies to defeat this formidable foe within the perilous confines of Castle Schrade.",
+        "smallMonsters":[ 
+          {
+            "id":1,
+            "name":"None"
+          }
+        
+      ],
+      "largeMonsters":[
+        {
+          "id":1,
+          "name":"Fatalis"
+        }
+
+      ],
         "camps": []
       
     }
