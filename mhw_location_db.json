@@ -7,264 +7,157 @@
   "smallMonsters": [
     {
       "id": 1,
-      "name": "Aptonoth",
-      "description": "Docile herbivores that often graze in herds.",
-      "zones": [1, 3],
-      "loot": ["Aptonoth Scale", "Aptonoth Tail"]
+      "name": "Aptonoth"
     },
     {
       "id": 2,
-      "name": "Boaboa",
-      "description": "Small, furry creatures that inhabit colder climates.",
-      "zones": [5, 7],
-      "loot": ["Boaboa Fur", "Boaboa Bone"]
+      "name": "Boaboa"
     },
     {
       "id": 3,
-      "name": "Gajalaka",
-      "description": "Aggressive small creatures known for their sharp weapons.",
-      "zones": [6, 8],
-      "loot": ["Gajalaka Scale", "Gajalaka Pelt"]
+      "name": "Gajalaka"
     },
     {
       "id": 4,
-      "name": "Gajau",
-      "description": "Aquatic creatures that are often found in bodies of water.",
-      "zones": [4, 9],
-      "loot": ["Gajau Skin", "Gajau Whisker"]
+      "name": "Gajau"
     },
     {
       "id": 5,
-      "name": "Grimalkyne",
-      "description": "Intelligent small creatures that often assist hunters.",
-      "zones": [7, 10],
-      "loot": ["Grimalkyne Fur", "Grimalkyne Tail"]
+      "name": "Grimalkyne"
     },
     {
       "id": 6,
-      "name": "Jagras",
-      "description": "Small, raptor-like creatures that travel in packs.",
-      "zones": [1, 2, 4],
-      "loot": ["Jagras Scale", "Jagras Hide"]
+      "name": "Jagras"
     },
     {
       "id": 7,
-      "name": "Kestodon",
-      "description": "Small herbivores with strong defensive capabilities.",
-      "zones": [5, 7],
-      "loot": ["Kestodon Shell", "Kestodon Scalp"]
+      "name": "Kestodon"
     },
     {
       "id": 8,
-      "name": "Mernos",
-      "description": "Flying creatures often found perched on high branches.",
-      "zones": [8, 10],
-      "loot": ["Mernos Hide", "Mernos Tail"]
+      "name": "Mernos"
     },
     {
       "id": 9,
-      "name": "Mosswine",
-      "description": "Pig-like creatures known for their ability to sniff out rare mushrooms.",
-      "zones": [3, 6],
-      "loot": ["Mosswine Hide", "Mosswine Pork"]
+      "name": "Mosswine"
     },
     {
       "id": 10,
-      "name": "Vespoid",
-      "description": "Flying insects that can paralyze their prey.",
-      "zones": [9, 11],
-      "loot": ["Vespoid Shell", "Vespoid Wing"]
+      "name": "Vespoid"
+     
     }
   ],
   "largeMonsters": [
     {
       "id": 1,
-      "name": "Anjanath",
-      "description": "A large, carnivorous brute wyvern with a fearsome reputation.",
-      "zones": [7, 8, 9],
-      "loot": ["Anjanath Scale", "Anjanath Fang", "Anjanath Pelt"]
+      "name": "Anjanath"
     },
     {
       "id": 2,
-      "name": "Fulgur Anjanath",
-      "description": "A subspecies of Anjanath that harnesses electricity.",
-      "zones": [10, 11, 12],
-      "loot": ["Fulgur Anjanath Scale", "Fulgur Anjanath Fang", "Fulgur Anjanath Pelt"]
+      "name": "Fulgur Anjanath"
     },
     {
       "id": 3,
-      "name": "Banbaro",
-      "description": "A large brute wyvern known for its powerful charging attacks.",
-      "zones": [13, 14, 15],
-      "loot": ["Banbaro Horn", "Banbaro Fur", "Banbaro Tail"]
+      "name": "Banbaro"
     },
     {
       "id": 4,
-      "name": "Bazelgeuse",
-      "description": "A dangerous flying wyvern that scatters explosive scales.",
-      "zones": [16, 17],
-      "loot": ["Bazelgeuse Scale", "Bazelgeuse Wing", "Bazelgeuse Tail"]
+      "name": "Bazelgeuse"
     },
     {
       "id": 5,
-      "name": "Deviljho",
-      "description": "A large, terrifying brute wyvern known for its insatiable hunger.",
-      "zones": [14, 15, 16],
-      "loot": ["Deviljho Scale", "Deviljho Fang", "Deviljho Tail"]
+      "name": "Deviljho"
     },
     {
       "id": 6,
-      "name": "Savage Deviljho",
-      "description": "A variant of Deviljho, even more aggressive and dangerous.",
-      "zones": [15, 16, 17],
-      "loot": ["Savage Deviljho Scale", "Savage Deviljho Fang", "Savage Deviljho Tail"]
+      "name": "Savage Deviljho"
     },
     {
       "id": 7,
-      "name": "Ebony Odogaron",
-      "description": "A subspecies of Odogaron with a dark, fearsome appearance.",
-      "zones": [11, 12, 13],
-      "loot": ["Ebony Odogaron Scale", "Ebony Odogaron Fang", "Ebony Odogaron Tail"]
+      "name": "Ebony Odogaron"
     },
     {
       "id": 8,
-      "name": "Glavenus",
-      "description": "A brute wyvern known for its sword-like tail.",
-      "zones": [10, 11, 12],
-      "loot": ["Glavenus Scale", "Glavenus Fang", "Glavenus Tail"]
+      "name": "Glavenus"
     },
     {
       "id": 9,
-      "name": "Great Jagras",
-      "description": "The alpha of the Jagras pack, known for its gluttony.",
-      "zones": [1, 2, 3],
-      "loot": ["Great Jagras Scale", "Great Jagras Mane", "Great Jagras Hide"]
+      "name": "Great Jagras"
     },
     {
       "id": 10,
-      "name": "Kulu-Ya-Ku",
-      "description": "A bird wyvern that likes to steal and use tools.",
-      "zones": [3, 4, 5],
-      "loot": ["Kulu-Ya-Ku Scale", "Kulu-Ya-Ku Beak", "Kulu-Ya-Ku Plume"]
+      "name": "Kulu-Ya-Ku"
     },
     {
       "id": 11,
-      "name": "Kushala Daora",
-      "description": "An elder dragon that can control wind.",
-      "zones": [16, 17],
-      "loot": ["Kushala Daora Scale", "Kushala Daora Claw", "Kushala Daora Tail"]
+      "name": "Kushala Daora"
     },
     {
       "id": 12,
-      "name": "Leshen",
-      "description": "A mythical creature with control over nature.",
-      "zones": [8, 9, 10],
-      "loot": ["Leshen Antler", "Leshen Claw", "Leshen Hide"]
+      "name": "Leshen"
     },
     {
       "id": 13,
-      "name": "Ancient Leshen",
-      "description": "A more powerful variant of the Leshen.",
-      "zones": [9, 10, 11],
-      "loot": ["Ancient Leshen Antler", "Ancient Leshen Claw", "Ancient Leshen Hide"]
+      "name": "Ancient Leshen"
     },
     {
       "id": 14,
-      "name": "Nargacuga",
-      "description": "A flying wyvern with incredible agility and sharp blades on its wings.",
-      "zones": [12, 13, 14],
-      "loot": ["Nargacuga Scale", "Nargacuga Wing", "Nargacuga Tail"]
+      "name": "Nargacuga"
+    
     },
     {
       "id": 15,
-      "name": "Nightshade Paolumu",
-      "description": "A subspecies of Paolumu that can put foes to sleep.",
-      "zones": [13, 14, 15],
-      "loot": ["Nightshade Paolumu Scale", "Nightshade Paolumu Wing", "Nightshade Paolumu Tail"]
+      "name": "Nightshade Paolumu"
     },
     {
       "id": 16,
-      "name": "Pukei-Pukei",
-      "description": "A bird wyvern known for its poisonous attacks.",
-      "zones": [6, 7, 8],
-      "loot": ["Pukei-Pukei Scale", "Pukei-Pukei Wing", "Pukei-Pukei Tail"]
+      "name": "Pukei-Pukei"
     },
     {
       "id": 17,
-      "name": "Rajang",
-      "description": "A highly aggressive beast known for its raw strength.",
-      "zones": [14, 15, 16],
-      "loot": ["Rajang Fang", "Rajang Horn", "Rajang Tail"]
+      "name": "Rajang"
     },
     {
       "id": 18,
-      "name": "Rathian",
-      "description": "The female counterpart of Rathalos, known for its poisonous tail.",
-      "zones": [10, 11, 12],
-      "loot": ["Rathian Scale", "Rathian Wing", "Rathian Tail"]
+      "name": "Rathian"
     },
     {
       "id": 19,
-      "name": "Rathalos",
-      "description": "The King of the Skies, a large flying wyvern known for its fiery breath.",
-      "zones": [16, 17],
-      "loot": ["Rathalos Scale", "Rathalos Wing", "Rathalos Tail"]
+      "name": "Rathalos"
     },
     {
       "id": 20,
-      "name": "Azure Rathalos",
-      "description": "A subspecies of Rathalos with a beautiful azure hue.",
-      "zones": [15, 16, 17],
-      "loot": ["Azure Rathalos Scale", "Azure Rathalos Wing", "Azure Rathalos Tail"]
+      "name": "Azure Rathalos"
     },
     {
       "id": 21,
-      "name": "Ruiner Nergigante",
-      "description": "A variant of Nergigante covered in black spikes.",
-      "zones": [17],
-      "loot": ["Ruiner Nergigante Scale", "Ruiner Nergigante Horn", "Ruiner Nergigante Tail"]
+      "name": "Ruiner Nergigante"
+      
     },
     {
       "id": 22,
-      "name": "Tigrex",
-      "description": "A powerful brute wyvern known for its deafening roar.",
-      "zones": [14, 15, 16],
-      "loot": ["Tigrex Scale", "Tigrex Fang", "Tigrex Tail"]
+      "name": "Tigrex"
     },
     {
       "id": 23,
-      "name": "Tobi-Kadachi",
-      "description": "A fanged wyvern that can generate electricity.",
-      "zones": [8, 9, 10],
-      "loot": ["Tobi-Kadachi Scale", "Tobi-Kadachi Electrode", "Tobi-Kadachi Tail"]
+      "name": "Tobi-Kadachi"
     },
     {
       "id": 24,
-      "name": "Blackveil Vaal Hazak",
-      "description": "A variant of Vaal Hazak with a dark, eerie appearance.",
-      "zones": [17],
-      "loot": ["Blackveil Vaal Hazak Scale", "Blackveil Vaal Hazak Fang", "Blackveil Vaal Hazak Tail"]
+      "name": "Blackveil Vaal Hazak"
     },
     {
       "id": 25,
-      "name": "Velkhana",
-      "description": "An elder dragon known for its control over ice.",
-      "zones": [16, 17],
-      "loot": ["Velkhana Scale", "Velkhana Claw", "Velkhana Tail"]
+      "name": "Velkhana"
     },
     {
       "id": 26,
-      "name": "Yian Garuga",
-      "description": "A bird wyvern known for its toxic attacks and sharp beak.",
-      "zones": [10, 11, 12],
-      "loot": ["Yian Garuga Scale", "Yian Garuga Beak", "Yian Garuga Tail"]
+      "name": "Yian Garuga"
     },
     {
       "id": 27,
-      "name": "Scarred Yian Garuga",
-      "description": "A variant of Yian Garuga with battle scars.",
-      "zones": [11, 12, 13],
-      "loot": ["Scarred Yian Garuga Scale", "Scarred Yian Garuga Beak", "Scarred Yian Garuga Tail"]
+      "name": "Scarred Yian Garuga"
+   
     },
     {
       "id": 28,
