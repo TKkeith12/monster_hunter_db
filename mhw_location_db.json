@@ -4,6 +4,8 @@
   "zoneCount": 17,
   "name": "Ancient Forest",
   "description": "A lush, verdant rainforest teeming with life, the Ancient Forest is home to a wide variety of flora and fauna. Its dense canopy hides numerous secrets, with giant trees and thick vegetation providing a complex ecosystem where hunters can find everything from small herbivores to large predators like the Rathalos.",
+  "hazard":"None",
+  "numOfAreas":16,
   "smallMonsters": [
     {
       "id": 1,
@@ -193,6 +195,8 @@
       "zoneCount": 15,
       "name": "Coral Highlands",
       "description":"A breathtakingly beautiful area that resembles an underwater coral reef lifted into the sky. The Coral Highlands are home to vibrant and unique wildlife, including colorful birds and exotic creatures. The area features vertical gameplay with hunters climbing up and down the coral formations.",
+      "hazard":"None",
+  "numOfAreas":15,
       "smallMonsters":[ {
         "id": 1,
         "name": "Boaboa"
@@ -319,6 +323,8 @@
       "zoneCount": 15,
       "name": "Wildspire Waste",
       "description":"A vast desert environment with varied terrain, including swamps, dry plains, and rocky outcrops. The Wildspire Waste is a harsh and arid region where only the toughest creatures survive. Hunters can encounter a mix of desert-dwelling creatures such as the Barroth and Diablos.",
+      "hazard":"None",
+  "numOfAreas":15,
       "smallMonsters": [
         {
           "id": 1,
@@ -491,7 +497,9 @@
       "zoneCount": 16,
       "name": "Rotten Vale",
       "description":"A dark and eerie region filled with decaying carcasses and toxic fumes. The Rotten Vale is a graveyard of sorts, where creatures come to die. The air is thick with poison, and the ground is littered with bones and decomposing bodies. Hunters must be cautious of the hazardous environment and the aggressive monsters that inhabit it.",
-     "smallMonsters": [
+     "hazard":"Effluvium, Acid Puddles",
+  "numOfAreas":16,
+      "smallMonsters": [
     {
       "id": 1,
       "name": "Boaboa"
@@ -613,7 +621,9 @@
       "zoneCount": 16,
       "name": "Elder's Recess",
       "description":"A secluded, crystalline area where the most powerful monsters reside. The Elder’s Recess is a hidden, otherworldly place filled with strange mineral formations and a high concentration of elder dragons. The area is dangerous and unpredictable, with formidable foes such as Nergigante and Teostra.",
-     "smallMonsters": [
+     "hazard":"Extreme Heat",
+  "numOfAreas":16,
+      "smallMonsters": [
     {
       "id": 1,
       "name": "Barnos"
@@ -772,6 +782,8 @@
       "zoneCount": 1,
       "name": "Great Ravine",
       "description":"Everstream is a vast underground network of flowing energy streams and lava channels. This area is the source of the continent's geothermal activity, and it plays a crucial role in the ecosystem. The intense heat and energy in Everstream make it a dangerous place, but it's also where some of the most powerful elder dragons, like Zorah Magdaros and Xeno'jiiva, can be found. The glowing streams of energy create a unique and otherworldly atmosphere, adding to the area's mystique.",
+      "hazard":"Magmacore Eruption",
+  "numOfAreas":3,
       "smallMonsters":[ 
         {
           "id":1,
@@ -798,6 +810,8 @@
       "zoneCount": 3,
       "name": "Confluence of Fates",
       "description":"The Confluence of Fates is the final area where hunters face the ultimate challenge against the elder dragon Xeno'jiiva. This mysterious and awe-inspiring location features a surreal landscape filled with luminous crystals and ethereal light. The environment's unique design creates a sense of otherworldliness, emphasizing the importance of the final showdown.",
+      "hazard":"Falling Boulders",
+  "numOfAreas":2,
       "smallMonsters":[ 
       {
         "id":1,
@@ -825,6 +839,8 @@
       "zoneCount": 1,
       "name": "Everstream",
       "description":"Everstream is a vast underground network of flowing energy streams and lava channels. This area is the source of the continent's geothermal activity, and it plays a crucial role in the ecosystem. The intense heat and energy in Everstream make it a dangerous place, but it's also where some of the most powerful elder dragons, like Zorah Magdaros and Xeno'jiiva, can be found. The glowing streams of energy create a unique and otherworldly atmosphere, adding to the area's mystique.",
+     "hazard":"Falling Boulders, Magmacore Eruption",
+  "numOfAreas":1,
       "smallMonsters":[ 
         {
           "id":1,
@@ -853,6 +869,8 @@
       "zoneCount": 4,
       "name": "Caverns of El Dorado",
       "description":"The Caverns of El Dorado are a magnificent and labyrinthine location that serves as the battleground for the siege of Kulve Taroth. This vast underground complex is filled with glittering gold deposits, precious minerals, and flowing magma. The caverns are intricately designed with winding tunnels and expansive chambers, creating a visually stunning environment. The shimmering gold and treacherous terrain make the Caverns of El Dorado a challenging and rewarding location for hunters seeking to defeat the formidable Kulve Taroth and claim its valuable rewards.",
+     "hazard":"Extreme Heat",
+  "numOfAreas":4,
       "smallMonsters":[ 
         
       {
@@ -880,6 +898,8 @@
       "zoneCount": 1,
       "name": "Special Arena",
       "description":"The Special Arena is a dedicated location for fighting specific monsters in a controlled environment. It is a large, circular arena with high walls and few obstacles, designed to test hunters' skills against powerful creatures. This arena is used for special quests and challenges, offering a straightforward combat experience without the complexities of natural terrain.",
+      "hazard":"None",
+  "numOfAreas":1,
       "smallMonsters": [
         {
           "id": 1,
@@ -1080,6 +1100,8 @@
       "zoneCount": 1,
       "name": "Arena",
       "description":"The Arena within the Gathering Hub is another controlled environment designed for combat trials. Hunters can take on special Arena Quests, which often involve fighting multiple monsters or taking on particularly difficult challenges. The Arena is a smaller, more confined space compared to the Special Arena, focusing on intense, close-quarters combat.",
+      "hazard":"None",
+  "numOfAreas":1,
       "smallMonsters":[ 
         
     ],
@@ -1093,6 +1115,8 @@
       "zoneCount": 17,
       "name": "Hoarfrost Reach",
       "description":"An icy, snow-covered region introduced in the Iceborne expansion. Hoarfrost Reach is a frozen wilderness with deep snowdrifts, frozen lakes, and towering icebergs. The cold environment adds new challenges for hunters, and the area is inhabited by creatures adapted to the frigid climate, like the Banbaro and Velkhana.",
+     "hazard":"Extreme Cold",
+  "numOfAreas":17,
       "smallMonsters": [
         {
           "id": 1,
@@ -1314,6 +1338,8 @@
       "zoneCount": 15,
       "name": "Guiding Lands",
       "description":"A post-game area that combines elements of all the previous regions. The Guiding Lands is a vast, evolving landscape where hunters can encounter a variety of monsters from different habitats. The terrain shifts and changes, providing endless opportunities for exploration and hunting.",
+      "hazard":"Effluvium, Extreme Heat, Extreme Cold",
+  "numOfAreas":17,
       "smallMonsters":[ 
         
     ],
@@ -1338,6 +1364,8 @@
       "zoneCount": 1,
       "name": "Secluded Valley",
       "description":"The Secluded Valley is a remote and isolated area that serves as the primary battleground for both the elder dragons Safi'jiiva and Alatreon. This vast and open space features a variety of terrain elements, including rocky outcrops, lava flows, and crystalline formations. The valley's stark and desolate environment provides the perfect backdrop for the intense and challenging encounters with these powerful monsters. The unique geography of the Secluded Valley demands strategic planning and adaptability from hunters as they face off against Safi'jiiva's devastating energy attacks and Alatreon's elemental onslaughts.",
+      "hazard":"Falling Boulders",
+  "numOfAreas":3,
       "smallMonsters": [
         {
           "id": 1,
@@ -1364,6 +1392,8 @@
         "zoneCount": 1,
         "name": "Origin Isle",
         "description":"Origin Isle is a secluded and mysterious island where the endgame content takes place. It is filled with some of the toughest monsters in the game, including various elder dragons. This area is known for its dense and varied ecosystems, combining elements from all the other regions in the game, offering unique challenges and a final test for hunters.",
+        "hazard":"Falling Boulders",
+  "numOfAreas":3,
         "smallMonsters":[ 
           {
             "id":1,
@@ -1390,6 +1420,8 @@
         "zoneCount": 1,
         "name": "Castle Schrade",
         "description":"Castle Schrade is a legendary and foreboding fortress that serves as the battleground for the ultimate confrontation with the elder dragon Fatalis. This ancient, ruined castle is steeped in history and mystery, with its crumbling walls and towering spires providing a dramatic and imposing backdrop for one of the most challenging encounters in Monster Hunter World: Iceborne. The area is filled with the remnants of its former grandeur, creating a haunting atmosphere that underscores the epic nature of the battle against Fatalis. Hunters must use all their skills and strategies to defeat this formidable foe within the perilous confines of Castle Schrade.",
+        "hazard":"None",
+  "numOfAreas":2,
         "smallMonsters":[ 
           {
             "id":1,
