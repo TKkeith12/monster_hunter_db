@@ -1,0 +1,126 @@
+{
+    "weapons": [
+      {
+        "id": 1,
+        "type": "Great Sword",
+        "description": "A massive sword with immense raw power. Suitable for those who prefer strength over speed.",
+        "weaponTreeLink": "https://example.com/weapon-trees/great-sword",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 2,
+        "type": "Long Sword",
+        "description": "A sleek, sharp blade with quick, fluid attacks. Perfect for a balance of speed and power.",
+        "weaponTreeLink": "https://example.com/weapon-trees/long-sword",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 3,
+        "type": "Sword & Shield",
+     
+        "description": "A versatile weapon that offers a balance of offense and defense. Ideal for beginners.",
+        "weaponTreeLink": "https://example.com/weapon-trees/sword-and-shield",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 4,
+        "type": "Dual Blades",
+        "description": "Rapid, relentless attacks with dual blades. Best for hunters who prefer agility and speed.",
+        "weaponTreeLink": "https://example.com/weapon-trees/dual-blades",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 5,
+        "type": "Hammer",
+        "description": "A heavy weapon capable of delivering powerful blows. Ideal for stunning monsters.",
+        "weaponTreeLink": "https://example.com/weapon-trees/hammer",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 6,
+        "type": "Hunting Horn",
+        "description": "A musical weapon that supports allies with melodies. Great for team-oriented hunters.",
+        "weaponTreeLink": "https://example.com/weapon-trees/hunting-horn",
+        "difficulty": "Hard"
+      },
+      {
+        "id": 7,
+        "type": "Lance",
+        "name": "Iron Lance",
+        "attack": 230,
+        "affinity": 0,
+        "element": "None",
+        "sharpness": "Green",
+        "slots": [],
+        "rarity": 1,
+        "description": "A long-reaching weapon with a strong defense. Perfect for a methodical and defensive playstyle.",
+        "weaponTreeLink": "https://example.com/weapon-trees/lance",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 8,
+        "type": "Gunlance",
+        "name": "Iron Gunlance",
+        "attack": 230,
+        "affinity": 0,
+        "element": "None",
+        "sharpness": "Green",
+        "slots": [],
+        "rarity": 1,
+        "shelling": "Normal",
+        "description": "Combines the lance's defense with explosive firepower. Ideal for those who like to mix melee and ranged attacks.",
+        "weaponTreeLink": "https://example.com/weapon-trees/gunlance",
+        "difficulty": "Hard"
+      },
+      {
+        "id": 9,
+        "type": "Switch Axe",
+        "name": "Iron Axe",
+        "attack": 450,
+        "affinity": 0,
+        "element": "None",
+        "sharpness": "Green",
+        "slots": [],
+        "rarity": 1,
+        "description": "A versatile weapon that can switch between axe and sword modes. Great for dynamic combat.",
+        "weaponTreeLink": "https://example.com/weapon-trees/switch-axe",
+        "difficulty": "Hard"
+      },
+      {
+        "id": 10,
+        "type": "Charge Blade",
+        "description": "A complex weapon that transforms between a sword & shield and an axe. Ideal for strategic hunters.",
+        "weaponTreeLink": "https://example.com/weapon-trees/charge-blade",
+        "difficulty": "Hard"
+      },
+      {
+        "id": 11,
+        "type": "Insect Glaive",
+        "description": "A nimble weapon that allows for aerial attacks. Includes a Kinsect to extract essences from monsters.",
+        "weaponTreeLink": "https://example.com/weapon-trees/insect-glaive",
+        "difficulty": "Intermediate"
+      },
+      {
+        "id": 12,
+        "type": "Bow",
+        "description": "A ranged weapon that offers flexibility and precision. Suitable for hunters who prefer to strike from a distance.",
+        "weaponTreeLink": "https://example.com/weapon-trees/bow",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 13,
+        "type": "Light Bowgun",
+        "description": "A rapid-fire ranged weapon. Perfect for mobile and agile combat.",
+        "weaponTreeLink": "https://example.com/weapon-trees/light-bowgun",
+        "difficulty": "Easy"
+      },
+      {
+        "id": 14,
+        "type": "Heavy Bowgun",
+        "description": "A powerful ranged weapon with high damage output. Best for hunters who prefer heavy firepower.",
+        "weaponTreeLink": "https://example.com/weapon-trees/heavy-bowgun",
+        "difficulty": "Intermediate"
+      }
+    ]
+  }
+  
