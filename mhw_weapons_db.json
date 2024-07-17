@@ -46,13 +46,6 @@
       {
         "id": 7,
         "type": "Lance",
-        "name": "Iron Lance",
-        "attack": 230,
-        "affinity": 0,
-        "element": "None",
-        "sharpness": "Green",
-        "slots": [],
-        "rarity": 1,
         "description": "A long-reaching weapon with a strong defense. Perfect for a methodical and defensive playstyle.",
         "weaponTreeLink": "https://example.com/weapon-trees/lance",
         "difficulty": "Intermediate"
@@ -61,13 +54,6 @@
         "id": 8,
         "type": "Gunlance",
         "name": "Iron Gunlance",
-        "attack": 230,
-        "affinity": 0,
-        "element": "None",
-        "sharpness": "Green",
-        "slots": [],
-        "rarity": 1,
-        "shelling": "Normal",
         "description": "Combines the lance's defense with explosive firepower. Ideal for those who like to mix melee and ranged attacks.",
         "weaponTreeLink": "https://example.com/weapon-trees/gunlance",
         "difficulty": "Hard"
@@ -75,13 +61,6 @@
       {
         "id": 9,
         "type": "Switch Axe",
-        "name": "Iron Axe",
-        "attack": 450,
-        "affinity": 0,
-        "element": "None",
-        "sharpness": "Green",
-        "slots": [],
-        "rarity": 1,
         "description": "A versatile weapon that can switch between axe and sword modes. Great for dynamic combat.",
         "weaponTreeLink": "https://example.com/weapon-trees/switch-axe",
         "difficulty": "Hard"
