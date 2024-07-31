@@ -1,8 +1,8 @@
 [
 	{
 		"id": 1,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Aptonoth",
 		"description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
@@ -49,11 +49,11 @@
 	},
 	{
 		"id": 2,
-		"type": "small",
-		"species": "fanged wyvern",
+		"type": "Small",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Jagras",
-		"description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
+		"description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing Larger monsters at a moment's notice.",
 		"ailments": [
 			{
 				"id": 17,
@@ -85,8 +85,8 @@
 	},
 	{
 		"id": 3,
-		"type": "small",
-		"species": "wingdrake",
+		"type": "Small",
+		"species": "Wingdrake",
 		"elements": [ "None"],
 		"name": "Mernos",
 		"description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
@@ -136,8 +136,8 @@
 	},
 	{
 		"id": 4,
-		"type": "small",
-		"species": "neopteron",
+		"type": "Small",
+		"species": "Neopteron",
 		"elements": [ "None"],
 		"name": "Vespoid",
 		"description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
@@ -206,8 +206,8 @@
 	},
 	{
 		"id": 5,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Mosswine",
 		"description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
@@ -262,8 +262,8 @@
 	},
 	{
 		"id": 6,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Apceros",
 		"description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
@@ -300,8 +300,8 @@
 	},
 	{
 		"id": 7,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Kestodon",
 		"description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
@@ -341,8 +341,8 @@
 	},
 	{
 		"id": 8,
-		"type": "small",
-		"species": "wingdrake",
+		"type": "Small",
+		"species": "Wingdrake",
 		"elements": [ "None"],
 		"name": "Noios",
 		"description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
@@ -382,8 +382,8 @@
 	},
 	{
 		"id": 9,
-		"type": "small",
-		"species": "fish",
+		"type": "Small",
+		"species": "Fish",
 		"elements": [ "None"],
 		"name": "Gajau",
 		"description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
@@ -423,8 +423,8 @@
 	},
 	{
 		"id": 10,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Kelbi",
 		"description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
@@ -474,11 +474,11 @@
 	},
 	{
 		"id": 11,
-		"type": "small",
-		"species": "wingdrake",
+		"type": "Small",
+		"species": "Wingdrake",
 		"elements": [ "None"],
 		"name": "Raphinos",
-		"description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
+		"description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of Larger, more vicious predators.",
 			"ailments": [
 			{
 				"id": 17,
@@ -510,8 +510,8 @@
 	},
 	{
 		"id": 12,
-		"type": "small",
-		"species": "fanged wyvern",
+		"type": "Small",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Shamos",
 		"description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
@@ -546,8 +546,8 @@
 	},
 	{
 		"id": 13,
-		"type": "small",
-		"species": "fanged wyvern",
+		"type": "Small",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Girros",
 		"description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
@@ -591,8 +591,8 @@
 	},
 	{
 		"id": 14,
-		"type": "small",
-		"species": "neopteron",
+		"type": "Small",
+		"species": "Neopteron",
 		"elements": [ "None"],
 		"name": "Hornetaur",
 		"description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
@@ -627,8 +627,8 @@
 	},
 	{
 		"id": 15,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Gastodon",
 		"description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
@@ -658,8 +658,8 @@
 	},
 	{
 		"id": 16,
-		"type": "small",
-		"species": "wingdrake",
+		"type": "Small",
+		"species": "Wingdrake",
 		"elements": [ "None"],
 		"name": "Barnos",
 		"description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
@@ -726,8 +726,8 @@
 	},
 	{
 		"id": 17,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Great Jagras",
 		"description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
@@ -802,8 +802,8 @@
 	},
 	{
 		"id": 18,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [ "None"],
 		"name": "Kulu-Ya-Ku",
 		"description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
@@ -883,8 +883,8 @@
 	},
 	{
 		"id": 19,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [ "None"],
 		"name": "Pukei-Pukei",
 		"description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
@@ -1014,8 +1014,8 @@
 	},
 	{
 		"id": 20,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [ "None"],
 		"name": "Barroth",
 		"description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
@@ -1130,13 +1130,13 @@
 	},
 	{
 		"id": 21,
-		"type": "large",
-		"species": "piscine wyvern",
+		"type": "Large",
+		"species": "Piscine Wyvern",
 		"elements": [
 			"water"
 		],
 		"name": "Jyuratodus",
-		"description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
+		"description": "A Large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
 		"ailments": [
 			{
 				"id": 2,
@@ -1251,8 +1251,8 @@
 	},
 	{
 		"id": 22,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -1348,8 +1348,8 @@
 	},
 	{
 		"id": 23,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1452,8 +1452,8 @@
 	},
 	{
 		"id": 24,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1592,8 +1592,8 @@
 	},
 	{
 		"id": 25,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -1732,14 +1732,14 @@
 	},
 	{
 		"id": 26,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire",
 			"thunder"
 		],
 		"name": "Behemoth",
-		"description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+		"description": "A powerful beast from another world. Its Large horns and muscular frame defy nature. Unique strategies are required to battle it.",
 		"ailments": [
 			{
 				"id": 10,
@@ -1898,13 +1898,13 @@
 	},
 	{
 		"id": 27,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"dragon"
 		],
 		"name": "Deviljho",
-		"description": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up large monsters in its powerful maw and flail them around.",
+		"description": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up Large monsters in its powerful maw and flail them around.",
 		"ailments": [
 			{
 				"id": 5,
@@ -2063,8 +2063,8 @@
 	},
 	{
 		"id": 28,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Diablos",
 		"description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
@@ -2141,8 +2141,8 @@
 	},
 	{
 		"id": 29,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Black Diablos",
 		"description": "A subspecies of Diablos. Females darken in the mating season so as to warn off other creatures. Even more aggressive than the regular species, they will go out of their way to attack anything they see with their menacing horns.",
@@ -2218,8 +2218,8 @@
 	},
 	{
 		"id": 30,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -2314,8 +2314,8 @@
 	},
 	{
 		"id": 31,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Great Girros",
 		"description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
@@ -2404,8 +2404,8 @@
 	},
 	{
 		"id": 32,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"thunder"
 		],
@@ -2521,8 +2521,8 @@
 	},
 	{
 		"id": 33,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire"
 		],
@@ -2636,8 +2636,8 @@
 	},
 	{
 		"id": 34,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Kushala Daora",
 		"description": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
@@ -2716,8 +2716,8 @@
 	},
 	{
 		"id": 35,
-		"type": "large",
-		"species": "piscine wyvern",
+		"type": "Large",
+		"species": "Piscine Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -2831,8 +2831,8 @@
 	},
 	{
 		"id": 36,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -2931,8 +2931,8 @@
 	},
 	{
 		"id": 37,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire"
 		],
@@ -3028,8 +3028,8 @@
 	},
 	{
 		"id": 38,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Nergigante",
 		"description": "Large Elder Dragons bristling with sharp spikes, single-minded in spreading destruction. They possess an astonishing regenerative power, recovering from wounds almost istantly.",
@@ -3109,8 +3109,8 @@
 	},
 	{
 		"id": 39,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Odogaron",
 		"description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
@@ -3229,8 +3229,8 @@
 	},
 	{
 		"id": 40,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Paolumu",
 		"description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
@@ -3315,8 +3315,8 @@
 	},
 	{
 		"id": 41,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [ "None"],
 		"name": "Radobaan",
 		"description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
@@ -3414,8 +3414,8 @@
 	},
 	{
 		"id": 42,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -3547,8 +3547,8 @@
 	},
 	{
 		"id": 43,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -3685,8 +3685,8 @@
 	},
 	{
 		"id": 44,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -3861,8 +3861,8 @@
 	},
 	{
 		"id": 45,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire"
 		],
@@ -3984,8 +3984,8 @@
 	},
 	{
 		"id": 48,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [ "None"],
 		"name": "Tzitzi-Ya-Ku",
 		"description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
@@ -4074,8 +4074,8 @@
 	},
 	{
 		"id": 49,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -4199,8 +4199,8 @@
 	},
 	{
 		"id": 50,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Vaal Hazak",
 		"description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
@@ -4303,13 +4303,13 @@
 	},
 	{
 		"id": 51,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"dragon"
 		],
 		"name": "Xeno'jiiva",
-		"description": "A large elder dragon with an otherworldly appearance. It has crystalline, translucent skin that glows ethereal blue, two eyes, and six orange sensory organs on its horns. Its grayish-blue wings are frayed at the edges. When enraged, its torso glows hot red and orange. Upon maturing and molting its skin, Xeno'jiiva will turn into Safi'jiiva.",
+		"description": "A Large elder dragon with an otherworldly appearance. It has crystalline, translucent skin that glows ethereal blue, two eyes, and six orange sensory organs on its horns. Its grayish-blue wings are frayed at the edges. When enraged, its torso glows hot red and orange. Upon maturing and molting its skin, Xeno'jiiva will turn into Safi'jiiva.",
 		"ailments": [
 			{
 				"id": 5,
@@ -4422,8 +4422,8 @@
 	},
 	{
 		"id": 52,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire"
 		],
@@ -4515,8 +4515,8 @@
 	},
 	{
 		"id": 53,
-		"type": "large",
-		"species": "relict",
+		"type": "Large",
+		"species": "Relict",
 		"elements": [ "None"],
 		"name": "Leshen",
 		"description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
@@ -4629,8 +4629,8 @@
 	},
 	{
 		"id": 54,
-		"type": "large",
-		"species": "relict",
+		"type": "Large",
+		"species": "Relict",
 		"elements": [ "None"],
 		"name": "Ancient Leshen",
 		"description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
@@ -4743,8 +4743,8 @@
 	},
 	{
 		"id": 55,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire",
 			"dragon"
@@ -4848,13 +4848,13 @@
 	},
 	{
 		"id": 56,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [
 			"dragon"
 		],
 		"name": "Stygian Zinogre",
-		"description": "A subspecies of Zinogre that is typically larger and perpetually covered in red bolts of dragon energy due to a symbiotic relationship with Dracophage Bugs that feed on dragonfell berries. It releases these bugs like bullets, and its crimson red/black lightning attacks deal Dragon Element damage. Becomes even more dangerous when covered in light.",
+		"description": "A subspecies of Zinogre that is typically Larger and perpetually covered in red bolts of dragon energy due to a symbiotic relationship with Dracophage Bugs that feed on dragonfell berries. It releases these bugs like bullets, and its crimson red/black lightning attacks deal Dragon Element damage. Becomes even more dangerous when covered in light.",
 		"ailments": [
 			{
 				"id": 5,
@@ -4925,8 +4925,8 @@
 	},
 	{
 		"id": 57,
-		"type": "large",
-		"species": "fanged beast",
+		"type": "Large",
+		"species": "Fanged Beast",
 		"elements": [
 			"thunder"
 		],
@@ -5020,8 +5020,8 @@
 	},
 	{
 		"id": 58,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Viper Tobi-Kadachi",
 		"description": "A subspecies of Tobi-Kadachi that uses powerful poisons via its fangs and tail spikes, which can also paralyze prey. It retains the ability to glide using membranes between its limbs.",
@@ -5141,8 +5141,8 @@
 	},
 	{
 		"id": 59,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"water",
 			"thunder"
@@ -5235,13 +5235,13 @@
 	},
 	{
 		"id": 60,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [
 			"thunder"
 		],
 		"name": "Zinogre",
-		"description": "anged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
+		"description": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
 		"ailments": [
 			{
 				"id": 4,
@@ -5317,8 +5317,8 @@
 	},
 	{
 		"id": 61,
-		"type": "large",
-		"species": "fanged wyvern",
+		"type": "Large",
+		"species": "Fanged Wyvern",
 		"elements": [
 			"dragon"
 		],
@@ -5488,8 +5488,8 @@
 	},
 	{
 		"id": 62,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -5665,8 +5665,8 @@
 	},
 	{
 		"id": 63,
-		"type": "large",
-		"species": "piscine wyvern",
+		"type": "Large",
+		"species": "Piscine Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -5763,8 +5763,8 @@
 	},
 	{
 		"id": 64,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"description": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows and attack with ferocious speed. Their massive tails are dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
 		"name": "Nargacuga",
@@ -5887,8 +5887,8 @@
 	},
 	{
 		"id": 65,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"ice"
 		],
@@ -5974,15 +5974,15 @@
 	},
 	{
 		"id": 66,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Tigrex",
 		"description": "A Flying Wyvern whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area searching for prey, and have even been spotted in regions of harsh cold.",
 		"ailments": [
 			{
 				"id": 20,
-				"name": "Iceblight (On icy and snowy terrains)",
+				"name": "Iceblight (On icy terrains)",
 				"description": "Iceblight causes stamina usage to increase when performing actions.",
 				"recovery": {
 					"actions": [],
@@ -6174,8 +6174,8 @@
 	},
 	{
 		"id": 67,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -6274,8 +6274,8 @@
 	},
 	{
 		"id": 68,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -6372,8 +6372,8 @@
 	},
 	{
 		"id": 69,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -6484,8 +6484,8 @@
 	},
 	{
 		"id": 70,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [ "None"],
 		"name": "Brachydios",
 		"description": "Brute wyverns coated with an explosive green substance. The material is thought to be a unique myxomycete--or slime mold--that is primed to explode by the Brachydios's own saliva. Note that these crafty creatures can also deliver powerful foreleg strikes.",
@@ -6573,8 +6573,8 @@
 	},
 	{
 		"id": 71,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"thunder"
 		],
@@ -6691,8 +6691,8 @@
 	},
 	{
 		"id": 72,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [ "None"],
 		"name": "Acidic Glavenus",
 		"description": "A new subspecies to the ferocious Glavenus, the Acidic Glavenus features a sulphur covered tail. Found only in the rotting areas of the New World, a corrosive fluid has crystallized on its tail, spraying acid with each swing that can apply a debuff to those that get caught in it.",
@@ -6788,8 +6788,8 @@
 	},
 	{
 		"id": 73,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Ruiner Nergigante",
 		"description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
@@ -6911,8 +6911,8 @@
 	},
 	{
 		"id": 74,
-		"type": "small",
-	"species": "lynian",
+		"type": "Small",
+	"species": "Lynian",
 	"elements": [ "None"],
 	"name": "Boaboa",
 	"description": "A tribe of Lynians residing in the cold regions of Hoarfrost Reach. They are known for their hunting skills and use of ice weapons.",
@@ -6952,8 +6952,8 @@
 	},
 	{
 		"id": 75,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [
 			"water"
 		],
@@ -7050,8 +7050,8 @@
 	},
 	{
 		"id": 76,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Nightshade Paolumu",
 		"description": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sack that it can expel and scatter to knock unwary foes out.",
@@ -7157,8 +7157,8 @@
 	},
 	{
 		"id": 78,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Shara Ishvalda",
 		"description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
@@ -7245,13 +7245,13 @@
 	},
 	{
 		"id": 79,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [
 			"dragon"
 		],
 		"name": "Savage Deviljho",
-		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
+		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of Larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
 		"ailments": [
 			{
 				"id": 5,
@@ -7469,8 +7469,8 @@
 	},
 	{
 		"id": 80,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [ "None"],
 		"name": "Blackveil Vaal Hazak",
 		"description": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
@@ -7583,8 +7583,8 @@
 	},
 	{
 		"id": 81,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -7705,8 +7705,8 @@
 	},
 	{
 		"id": 82,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [
 			"fire"
 		],
@@ -7842,8 +7842,8 @@
 	},
 	{
 		"id": 83,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -8005,8 +8005,8 @@
 	},
 	{
 		"id": 84,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"fire"
 		],
@@ -8142,8 +8142,8 @@
 	},
 	{
 		"id": 85,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [ "None"],
 		"name": "Brute Tigrex",
 		"description": "A black subspecies of Tigrex. The force and range of their roar is far more fearsome than that of their Tigrex cousins. Extremely vicious with a practically insatiable appetite. Just like regular Tigrex, there have been reports of them traveling incredibly far distances to hunt for prey.",
@@ -8290,8 +8290,8 @@
 	},
 	{
 		"id": 86,
-		"type": "small",
-	"species": "herbivore",
+		"type": "Small",
+	"species": "Herbivore",
 	"elements": [ "None"],
 	"name": "Popo",
 	"description": "Docile herbivores that travel in herds. They inhabit colder regions like Hoarfrost Reach and are known for their long tusks, which they use to dig through the snow for food.",
@@ -8336,8 +8336,8 @@
 },
 	{
 		"id": 87,
-		"type": "small",
-		"species": "fanged wyvern",
+		"type": "Small",
+		"species": "Fanged Wyvern",
 		"elements": [ "None"],
 		"name": "Wulg",
 		"description": "Small, wolf-like creatures that travel in packs. They inhabit the colder regions of the Hoarfrost Reach and are known for their agility and coordination when hunting prey.",
@@ -8378,11 +8378,11 @@
 	,
 	{
 		"id": 88,
-		"type": "large",
-		"species": "brute wyvern",
+		"type": "Large",
+		"species": "Brute Wyvern",
 		"elements": [ "None"],
 		"name": "Raging Brachydios",
-		"description": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
+		"description": "A Brachydios variant that is much Larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
 		"ailments": [
 			{
 				"id": 15,
@@ -8458,8 +8458,8 @@
 	},
 	{
 		"id": 89,
-		"type": "large",
-		"species": "fanged beast",
+		"type": "Large",
+		"species": "Fanged Beast",
 		"elements": [
 			"thunder"
 		],
@@ -8552,8 +8552,8 @@
 	},
 	{
 		"id": 90,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": ["fire", "ice", "thunder", "dragon"],
 		"name": "Alatreon",
 		"description": "Known as a symbol of destruction, people fear even uttering its name. It's rumored to control all of the elements, but most, if not all, records of its existence have been burned.",
@@ -8726,8 +8726,8 @@
 	},
 	{
 		"id": 91,
-		"type": "large",
-		"species": "flying wyvern",
+		"type": "Large",
+		"species": "Flying Wyvern",
 		"elements": [
 			"ice"
 		],
@@ -8797,8 +8797,8 @@
 	,
 	{
 		"id": 92,
-		"type": "large",
-		"species": "elder dragon",
+		"type": "Large",
+		"species": "Elder Dragon",
 		"elements": [
 			"fire",
 			"dragon"
@@ -8891,8 +8891,8 @@
 	},
 	{
 		"id": 93,
-		"type": "small",
-		"species": "lynian",
+		"type": "Small",
+		"species": "Lynian",
 		"elements": [ "None"],
 		"name": "Grimalkyne",
 		"description": "A tribe of Lynians allied with the Hunter's Palico. They offer assistance in battle and are found in various regions.",
@@ -8947,8 +8947,8 @@
 	},
 	{
 		"id": 94,
-		"type": "small",
-		"species": "lynian",
+		"type": "Small",
+		"species": "Lynian",
 		"elements": [ "None"],
 		"name": "Gajalaka",
 		"description": "A tribe of Lynians native to the Elder's Recess. They are known for their aggressive behavior and use of primitive weapons.",
@@ -8988,11 +8988,11 @@
 	},
 	{
 		"id": 95,
-		"type": "small",
-		"species": "herbivore",
+		"type": "Small",
+		"species": "Herbivore",
 		"elements": [ "None"],
 		"name": "Anteka",
-		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their large antlers to shovel snow and fend off attackers.",
+		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their Large antlers to shovel snow and fend off attackers.",
 			"ailments": [
 			{
 				"id": 17,
@@ -9012,8 +9012,8 @@
 		]
 	},	{
 		"id": 96,
-		"type": "large",
-		"species": "bird wyvern",
+		"type": "Large",
+		"species": "Bird Wyvren",
 		"elements": [
 			"fire"
 		],
