@@ -28,22 +28,22 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -81,12 +81,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -127,22 +127,22 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -212,12 +212,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			}
@@ -263,22 +263,22 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -314,12 +314,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -362,12 +362,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -403,17 +403,17 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -454,12 +454,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -500,22 +500,22 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -556,7 +556,7 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -592,12 +592,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -647,7 +647,7 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -683,12 +683,12 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			}
@@ -724,7 +724,7 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			}
@@ -795,7 +795,7 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			}
@@ -832,53 +832,53 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -919,52 +919,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -1054,53 +1054,53 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -1165,61 +1165,61 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": "covered in mud"
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": "covered in mud"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -1285,66 +1285,66 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": "covered in mud"
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": "covered in mud"
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": "covered in mud"
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -1398,53 +1398,53 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -1503,53 +1503,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -1646,53 +1646,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -1789,53 +1789,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -1963,52 +1963,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -2019,7 +2019,7 @@
 		"id": 27,
 		"type": "Large",
 		"species": "Brute Wyvern",
-		"element":[
+		"elements":[
 			{
 				"id":5,
 				"name":"Dragon"
@@ -2131,52 +2131,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -2211,53 +2211,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -2294,52 +2294,52 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -2392,53 +2392,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -2489,53 +2489,53 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -2608,52 +2608,52 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -2709,71 +2709,71 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": "covered in gold"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": "covered in gold"
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": "covered in gold"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": "covered in gold"
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -2813,52 +2813,52 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -2912,71 +2912,71 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": "hardened"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": "hardened"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": "hardened"
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": "hardened"
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3033,53 +3033,53 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			}
@@ -3133,53 +3133,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3220,52 +3220,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3344,53 +3344,53 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3435,53 +3435,53 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -3540,52 +3540,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3675,53 +3675,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -3816,53 +3816,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -3995,53 +3995,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -4121,53 +4121,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -4217,52 +4217,52 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -4344,53 +4344,53 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -4453,53 +4453,53 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -4510,7 +4510,7 @@
 		"id": 51,
 		"type": "Large",
 		"species": "Elder Dragon",
-		"element":[
+		"elements":[
 			{
 				"id":5,
 				"name":"Dragon"
@@ -4575,53 +4575,53 @@
 		],
 		"resistances": [
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -4680,44 +4680,44 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			}
@@ -4791,52 +4791,52 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -4910,52 +4910,52 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -5035,38 +5035,38 @@
 		],
 		"resistances": [
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": "Elderseal"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			}
@@ -5077,7 +5077,7 @@
 		"id": 56,
 		"type": "Large",
 		"species": "Fanged Wyvern",
-		"element":[
+		"elements":[
 			{
 				"id":5,
 				"name":"Dragon"
@@ -5118,35 +5118,35 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			}
@@ -5200,51 +5200,51 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			}
@@ -5330,47 +5330,47 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -5451,27 +5451,27 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -5535,28 +5535,28 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 1,
 				"condition": null
 			}
@@ -5567,7 +5567,7 @@
 		"id": 61,
 		"type": "Large",
 		"species": "Fanged Wyvern",
-		"element":[
+		"elements":[
 			{
 				"id":5,
 				"name":"Dragon"
@@ -5684,53 +5684,53 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -5866,51 +5866,51 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -5955,51 +5955,51 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6078,51 +6078,51 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6185,52 +6185,52 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -6354,51 +6354,51 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6480,51 +6480,51 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6583,51 +6583,51 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6686,52 +6686,52 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6792,51 +6792,51 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -6895,52 +6895,52 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": "When charged"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": "When uncharged"
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -7022,56 +7022,56 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": "when crystallized"
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": "When not crystallized"
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 3,
 				"condition": null
 			}
@@ -7138,51 +7138,51 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -7228,17 +7228,17 @@
 	"resistances": [],
 	"weaknesses": [
 		{
-			"element": "fire",
+			"elements": "fire",
 			"stars": 3,
 			"condition": null
 		},
 		{
-			"element": "thunder",
+			"elements": "thunder",
 			"stars": 2,
 			"condition": null
 		},
 		{
-			"element": "water",
+			"elements": "water",
 			"stars": 1,
 			"condition": null
 		}
@@ -7287,51 +7287,51 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -7394,51 +7394,51 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -7497,51 +7497,51 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 0,
 				"condition": "immune"
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": "armored"
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": "non armored"
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -7559,7 +7559,7 @@
 		"id": 79,
 		"type": "Large",
 		"species": "Brute Wyvern",
-		"element":[
+		"elements":[
 			{
 				"id":5,
 				"name":"Dragon"
@@ -7691,53 +7691,53 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -7831,51 +7831,51 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -7962,51 +7962,51 @@
 		],
 		"resistances": [
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8102,51 +8102,51 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8268,51 +8268,51 @@
 		],
 		"resistances": [
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8408,51 +8408,51 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8567,51 +8567,51 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8647,22 +8647,22 @@
 	"resistances": [],
 	"weaknesses": [
 		{
-			"element": "fire",
+			"elements": "fire",
 			"stars": 3,
 			"condition": null
 		},
 		{
-			"element": "thunder",
+			"elements": "thunder",
 			"stars": 2,
 			"condition": null
 		},
 		{
-			"element": "water",
+			"elements": "water",
 			"stars": 1,
 			"condition": null
 		},
 		{
-			"element": "ice",
+			"elements": "ice",
 			"stars": 1,
 			"condition": null
 		}
@@ -8698,17 +8698,17 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			}
@@ -8754,47 +8754,47 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
@@ -8848,50 +8848,50 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 1,
 				"condition": null
 			}
@@ -9045,45 +9045,45 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": "fire mode"
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": "fire mode"
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": "ice mode"
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 3,
 				"condition": "dragon mode"
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			}
@@ -9135,23 +9135,23 @@
 		],
 		"resistances": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			}
@@ -9237,27 +9237,27 @@
 		],
 		"resistances": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			}
@@ -9293,17 +9293,17 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 1,
 				"condition": null
 			}
@@ -9354,17 +9354,17 @@
 		"resistances": [],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"stars": 1,
 				"condition": null
 			}
@@ -9483,51 +9483,51 @@
 		],
 		"resistances": [
 			{
-				"element": "thunder",
+				"elements": "thunder",
 				"condition": null
 			},
 			{
-				"element": "fire",
+				"elements": "fire",
 				"condition": null
 			},
 			{
-				"element": "ice",
+				"elements": "ice",
 				"condition": null
 			}
 		],
 		"weaknesses": [
 			{
-				"element": "water",
+				"elements": "water",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "dragon",
+				"elements": "dragon",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "poison",
+				"elements": "poison",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "sleep",
+				"elements": "sleep",
 				"stars": 1,
 				"condition": null
 			},
 			{
-				"element": "paralysis",
+				"elements": "paralysis",
 				"stars": 2,
 				"condition": null
 			},
 			{
-				"element": "blast",
+				"elements": "blast",
 				"stars": 3,
 				"condition": null
 			},
 			{
-				"element": "stun",
+				"elements": "stun",
 				"stars": 2,
 				"condition": null
 			}
