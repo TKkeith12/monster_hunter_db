@@ -11,6 +11,9 @@
 		],
 		"name": "Aptonoth",
 		"description": "Docile herbivores that graze in packs. Their meat is considered a delicacy and is rich in nutrients. If one member of the herd is attacked, the rest will flee immediately.",
+		"ecology":"Aptonoth are generally considered to be the most common out of the known herbivores, as well as one of the weakest. Despite their vulnerability, they have proven to be highly adaptable to many different environments. They are found in a wide range of habitats, from dense Jungles to humid Swamps and even tropical islands, and despite being at the bottom of the food chain in each of these environments, they continue to thrive in large numbers due to their quick reproduction and growth rates.",
+		"title":["N/A"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 17,
@@ -23,6 +26,11 @@
 				"id": 1,
 				"zoneCount": 17,
 				"name": "Ancient Forest"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -63,7 +71,10 @@
 			}
 		],
 		"name": "Jagras",
-		"description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing Larger monsters at a moment's notice.",
+		"description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They're also known for ambushing larger monsters at a moment's notice.",
+		"ecology":"Jagras hunt in small packs for prey sometimes, but mostly obtain sustenance from partially digested food vomited up by the Great Jagras. This allows them to skulk in the shadows and develop whilst avoiding the other predators of the forest, most of whom could kill the Jagras fairly easily.",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 17,
@@ -76,6 +87,11 @@
 				"id": 1,
 				"zoneCount": 17,
 				"name": "Ancient Forest"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -105,6 +121,9 @@
 		],
 		"name": "Mernos",
 		"description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
+		"ecology":"Mernos are small, flying herbivorous creatures found in the Ancient Forest and Wildspire Waste regions of the New World. Resembling pterosaurs, they have a peaceful demeanor and are often seen flying in groups, grazing on fruits and vegetation. These diurnal creatures are active during the day and are known for their ability to fly and glide, frequently resting on trees or cliffs. Mernos are social animals, moving in flocks to ensure safety. They face predation from larger monsters like Rathalos, Rathian, and Anjanath. Though they pose no threat to humans, hunters can utilize them for transportation by capturing them with a net.",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 17,
@@ -122,6 +141,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -161,6 +185,9 @@
 		],
 		"name": "Vespoid",
 		"description": "Insects that paralyze their targets with their long stingers. They break easily, so attack them with poison or slinger ammo if you want to carve them.",
+		"ecology":"Vespoids are small, insect-like creatures found in various regions of the New World. These aggressive, territorial creatures resemble wasps and typically inhabit areas with dense foliage or other structures they can use for cover. Vespoids are known for their ability to fly swiftly and attack intruders with paralyzing stingers, making them a nuisance to both hunters and larger monsters. They are eusocial, often found in large swarms that cooperate to protect their territory and resources. Despite their small size, Vespoids play a significant role in the ecosystem by scavenging and helping to decompose organic matter. While they pose a moderate threat to humans due to their paralyzing attacks, they can be harvested for materials used in crafting.",
+		"title":["N/A"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 7,
@@ -207,6 +234,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -236,7 +268,10 @@
 		],
 		"name": "Mosswine",
 		"description": "Mosswine are known for their excellent sense of smell, and are often found foraging for fungi. If you're hunting for mushrooms, follow the Mosswine to the motherlode.",
-			"ailments": [
+		"ecology":"Mosswine are gentle, pig-like creatures found in the Ancient Forest, Rotten Vale and Wildspire Waste. Their backs are covered with moss and mushrooms, which provide camouflage and serve as an emergency food source. Equipped with a keen sense of smell and a stout nose, they forage for mushrooms and roots. Although low in the food chain, Mosswine are preyed upon by various predators. Their primary defense is a bony plate on their forehead, which they use to ram enemies as a last resort—though this causes minimal damage and frustrates hunters. Mosswine also have a symbiotic relationship with the moss and mushrooms growing on their backs, contributing to their role in the ecosystem.",
+		"title":["N/A"],
+		"generation":"First",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -297,7 +332,10 @@
 		],
 		"name": "Apceros",
 		"description": "Herbivores that inhabit the Wildspire Waste. They've developed particularly hard hide to ward off attackers, and are known to gather in groups to defend themselves.",
-			"ailments": [
+		"ecology":"Apceros are large, herbivorous creatures that roam the Ancient Forest and Wildspire Waste in Monster Hunter: World. These dinosaur-like beasts are covered in tough, armored plates and have a distinctive, large horn on their heads. They are typically seen grazing in herds and are known for their slow, deliberate movements. Apceros are relatively docile but can become aggressive if threatened, using their bulk and horn to defend themselves. They primarily feed on vegetation and play a role in their ecosystem by influencing plant growth through their grazing habits. Despite their size and defensive capabilities, they are considered a low-level threat to hunters.",
+		"title":["N/A"],
+		"generation":"First",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -306,9 +344,19 @@
 		],
 		"locations": [
 			{
+				"id": 1,
+				"zoneCount": 17,
+				"name": "Ancient Forest"
+			},
+			{
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -340,7 +388,10 @@
 		],
 		"name": "Kestodon",
 		"description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
-			"ailments": [
+		"ecology":"Kestodons are large, aggressive herbivores found in the Ancient Forest and Wildspire Waste. Resembling giant, armored armadillos, they have a tough shell with a spiked ridge running down their backs. While they primarily graze on vegetation, Kestodons become hostile if approached too closely. Females will alert the pack of danger, while males charge violently at intruders. Despite their aggressive behavior towards hunters, Kestodons do not attack other monsters.",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -357,6 +408,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -386,7 +442,10 @@
 		],
 		"name": "Noios",
 		"description": "Wingdrakes that produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them for transportation.",
-			"ailments": [
+		"ecology":"Noios are wingdrakes found flying around the wildspires in the Wildspire Waste. Easily startled, they emit a harsh cry that can trigger a chain reaction among nearby creatures. Noios can mimic the roar of Diablos, summoning the fearsome monster when they feel threatened. Hunters can lure Noios to the ground using raw meat, allowing them to be killed and carved for materials, or used for transportation. When startled, they produce a sound similar to screamer pods, making them useful in various hunting strategies.",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -398,6 +457,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -432,7 +496,10 @@
 		],
 		"name": "Gajau",
 		"description": "Vicious piscine that form groups to defend their territory from intruders. Be sure not to venture too closely to their habitat!",
-			"ailments": [
+		"ecology":"Gajau are aquatic creatures commonly found in the rivers and swamps of the Ancient Forest and Wildspire Waste. These aggressive, fish-like monsters are known for their territorial behavior and will attack anything that comes too close. Gajau primarily feed on smaller aquatic organisms and occasionally venture onto land in search of food. Despite their small size, they can be quite dangerous in groups. Hunters often seek them out for their materials, which are used in crafting",
+		"title":["Biting Fish"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -478,7 +545,10 @@
 		],
 		"name": "Kelbi",
 		"description": "Small herbivores known for their gentle demeanor and the medicinal properties of their horns. Those wishing to harvest a horn should aim for the head when attacking them.",
-			"ailments": [
+		"ecology":"Kelbi are skittish, deer-like herbivores found in the Ancient Forest and Wildspire Waste. They typically flee at the first sight of danger, but males will sometimes defend themselves by ramming foes with their large horns. Kelbi have developed a unique behavioral adaptation in which they play dead when injured, lying limp on the ground until the threat has passed. Unfortunately, this tactic often makes them easier prey for predators. During hunter-monster battles, Kelbi tend to stand on the edge of the area in small groups, fleeing only when approached too closely and making no effort to avoid projectile attacks. As simple herbivores that feed on shrubs and grass, Kelbi are low on the food chain and are favored prey for predators like Nargacuga. Despite their vulnerability, Kelbi play a vital role in their ecosystem, contributing to the balance of plant life and serving as a food source for larger predators.",
+		"title":["N/A"],
+		"generation":"First",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -486,6 +556,11 @@
 			}
 		],
 		"locations": [
+			{
+				"id": 1,
+				"zoneCount": 17,
+				"name": "Ancient Forest"
+			},
 			{
 				"id": 2,
 				"zoneCount": 15,
@@ -495,6 +570,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -534,7 +614,10 @@
 		],
 		"name": "Raphinos",
 		"description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of Larger, more vicious predators.",
-			"ailments": [
+		"ecology":"Raphinos are small, flying wyverns that roam the Coral Highlands in large flocks, occasionally feeding on coral eggs. Hunters can cleverly lead an entire flock by grabbing onto one, as the rest will follow. Infected Raphinos can be found in the Rotten Vale, where they become aggressive due to their condition. Occasionally, Raphinos bodies fall to the Vale and can be carved for materials. Raphinos are commonly preyed upon by Legiana and Tzitzi-Ya-Ku. ",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -551,6 +634,11 @@
 				"id": 4,
 				"zoneCount": 16,
 				"name": "Rotten Vale"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -575,7 +663,10 @@
 		],
 		"name": "Shamos",
 		"description": "Small nocturnal monsters. They're particularly vulnerable to Tzitzi-Ya-Ku's blinding flash, but have been known to gang up on enemies.",
-			"ailments": [
+		"ecology":"Shamos are small, nocturnal creatures found in the Coral Highlands, known for their unusually large eyes that allow them to see in complete darkness. These aggressive hunters attack in small packs, often grouping together to scare off potential predators like Tzitzi-Ya-Ku. Shamos are easily blinded and will retreat when exposed to light sources or fire. They have a particular dislike for Tzitzi-Ya-Ku due to its blinding flash. Despite their aggressive nature, Shamos play a vital role in the ecosystem by controlling the population of smaller animals.",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -587,6 +678,11 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -616,6 +712,9 @@
 		],
 		"name": "Girros",
 		"description": "Monsters known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They're known for crippling targets with paralyzing fangs.",
+		"ecology":"Girros are small but relentless predators found in the Rotten Vale. They are often seen walking alongside Great Girros, with which they form a coordinated pack. Despite their size, Girros are aggressive, especially when in large groups. Their fangs contain paralyzing venom, and they become even more aggressive when exposed to the toxic gas of their environment. Girros frequently attack immobilized or fallen large monsters, using their venomous bites to paralyze their prey. They will flee if one of their pack members is killed, similar to Jagras.",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 7,
@@ -642,6 +741,11 @@
 				"id": 4,
 				"zoneCount": 16,
 				"name": "Rotten Vale"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -666,7 +770,10 @@
 		],
 		"name": "Hornetaur",
 		"description": "Small insects that are found primarily on land. They're highly territorial and will attack anything that approaches them. Gather their materials by attacking them with the slinger.",
-			"ailments": [
+		"ecology":"Hornetaur are ravenous, insect-like creatures found in the Rotten Vale, capable of consuming entire fields in a single day. They resemble locusts in their eating habits, causing extensive damage as they devour everything in their path. Equipped with a large horn for defense and strong, grasshopper-like legs for powerful jumps, Hornetaur can also inflict harm with their sharp wings. Although generally more peaceful than Vespoid, they become a nuisance when attacking hunters in groups, disrupting battles with other monsters in the area. Hornetaur often shatter easily when struck with normal weapons, making them more manageable but still irritating opponents.",
+		"title":["N/A"],
+		"generation":"First",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -707,7 +814,10 @@
 		],
 		"name": "Gastodon",
 		"description": "Pack monsters that inhabit the Elder's Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
-			"ailments": [
+		"ecology":"Gastodons live in herds around the Elder's Recess. They are very aggressive towards hunters and are willing to attack larger monsters as a herd. These monsters become immediately hostile if the hunter gets too close. They have a tendency to attack other monsters as well. Despite their ferocity, they are preyed on by many predators in the Elder's Recess.",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -719,6 +829,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -743,6 +858,9 @@
 		],
 		"name": "Barnos",
 		"description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
+		"ecology":"Barnos are small, predatory wyverns found in the Elder's Recess. Despite being low on the food chain, they are aggressive and often prey on small endemic life such as Moonlight Gekkos, Gloom Gekkos, and Revoltures, with occasional attacks on stray Gastodon. Barnos prefer to socialize and hunt in groups, which makes them a nuisance during larger hunts. They are hostile towards hunters and will attack on sight. While they are vulnerable to larger predators, their tendency to seek shelter in crevices helps them avoid some threats. Rathalos are known to prey on Barnos, particularly to feed their young.",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 16,
@@ -790,6 +908,11 @@
 				"id": 8,
 				"zoneCount": 1,
 				"name": "Everstream"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -816,7 +939,10 @@
 		],
 		"name": "Great Jagras",
 		"description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
-			"ailments": [
+		"ecology":"The Great Jagras is a large, predatory wyvern in the Ancient Forest, known for its impressive size and voracious appetite. It can devour herbivores like Kestodon and Aptonoth whole, and even smaller Jagras. Despite its size, it can be preyed upon by stronger monsters such as Anjanath and Deviljho. Equipped with flexible bones, a specially adapted trachea, and unique saliva, the Great Jagras swallows large prey whole and regurgitates partially digested food to nourish its pack. It is generally calm unless provoked, aggressively defending its territory and even cannibalizing smaller Jagras if necessary.",
+		"title":["Thief Wyvern"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -828,6 +954,11 @@
 				"id": 1,
 				"zoneCount": 17,
 				"name": "Ancient Forest"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -897,7 +1028,10 @@
 		],
 		"name": "Kulu-Ya-Ku",
 		"description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
-			"ailments": [
+		"ecology":"The Kulu-Ya-Ku primarily inhabits the Wildspire Waste but occasionally ventures into the Ancient Forest, often during the Jagras breeding season or when drawn by intense energy in the area. Exclusively ovivorous, Kulu-Ya-Ku feed on eggs from various species, including herbivores, flying wyverns, and even other Kulu-Ya-Ku. They require three to four eggs daily for sustenance, risking encounters with formidable monsters like Jagras, Great Jagras, and Rathalos. Adapted to their rugged environment, Kulu-Ya-Ku have strong, muscular legs for leaping over cliffs and brownish scales for camouflage. They use their long, specialized fingers to grasp and carry eggs and boulders, which they can lift and use defensively. Their sensitive beak helps locate hidden objects, including rocks, which they dig up and use in battle. Generally docile unless provoked, Kulu-Ya-Ku will only attack if threatened or if it has a rock in hand, feeling confident enough to challenge larger monsters.",
+		"title":["Scratching Bird", "Ovivore Outlaw"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -914,6 +1048,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -983,6 +1122,9 @@
 		],
 		"name": "Pukei-Pukei",
 		"description": "A bird wyvern known to possess poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
+		"ecology":"The Pukei-Pukei, found mainly in the Ancient Forest but occasionally in the Wildspire Waste, is a herbivorous bird wyvern that feeds on plants and occasionally stones. It plays a key ecological role by enhancing plant germination, which supports forest growth. Pukei-Pukei uses its colorful, emotion-reflecting feathers and long, flexible tongue for feeding and defense. It can combine its poison with plant properties to create more potent toxins and stores toxic gas in its tail for additional protection. Though it typically avoids direct conflict with hunters, it will defend itself if threatened.",
+		"title":["Poison Bewitching Bird", "Gluttonous Gullet"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 8,
@@ -1050,6 +1192,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1119,6 +1266,9 @@
 		],
 		"name": "Barroth",
 		"description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
+		"ecology":"The Barroth, a formidable wyvern from the Wildspire Waste, occupies a mid-tier position in the food chain. It primarily preys on ants and uses its heavy head to plow through obstacles and ambush intruders. Equipped with nostrils on top of its head, it can almost completely submerge itself in cool mud to escape the desert heat. Despite its aggression and power, Barroth contends with apex predators such as Tigrex, Brute Tigrex, and Diablos, and often clashes with the Piscine Wyvern Jyuratodus over muddy territories. Though it can challenge and defeat creatures like Rathian, it remains vulnerable to the most powerful monsters in its environment.",
+		"title":["Earth Sand Wyvern","Wasteland Warrior"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 2,
@@ -1161,6 +1311,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1238,7 +1393,10 @@
 		}
 		],
 		"name": "Jyuratodus",
-		"description": "A Large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
+		"description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
+		"ecology":"The Jyuratodus is a Piscine Wyvern found in the Wildspire Waste, positioned mid-way in the food chain. It preys on creatures like Apceros that venture into its marshy territory and has been observed dragging the corpses of other monsters for later consumption. Jyuratodus primarily eats once a day but competes with powerful predators such as Rathian, Pink Rathian, Anjanath, and Tigrex for food. Its main rival is the Barroth. Jyuratodus’s scales are vulnerable to extreme heat, becoming brittle and weak if they dry out. To stay cool and moist, it covers itself in mud, which also protects it from the sun. Its body features fins for balance in water and on land, and it has bone-crunching teeth for crushing prey. Jyuratodus will mix mud with water to create thick globs that impede the movement of predators and prey. Highly territorial, it attacks any intruders and leaves tracks and mud marks to warn off rivals. The Barroth often disrupts Jyuratodus’s territory, leading to frequent conflicts between the two.",
+		"title":["Mud Fish Wyvern", "Sinister Swamp", "Shadow"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 2,
@@ -1281,6 +1439,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1363,6 +1526,9 @@
 		],
 		"name": "Tobi-Kadachi",
 		"description": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
+		"ecology":"Tobi-Kadachis are arboreal predators that utilize their mobility and static electricity to hunt prey such as Mosswines, Vespoids, Pteryxs, and occasionally Jagras. Competing with larger monsters like Rathalos and Anjanath for territory and food, Tobi-Kadachis often find themselves overpowered by these formidable rivals. They also face predation from even more powerful monsters like Deviljho and its variant. Tobi-Kadachis generate static electricity by brushing against objects, storing it in their fur to shock both predators and prey. Their hooked claws and powerful limbs make them excellent climbers, while the glider membrane under their forelimbs allows for acrobatic leaps between tree trunks, making them elusive targets. Typically reclusive, they inhabit the darker regions of the Ancient Forest but can become highly dangerous when provoked.",
+		"title":["Flying Thunder Wyvern", "Flying Sparks"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 4,
@@ -1394,6 +1560,11 @@
 				"id": 1,
 				"zoneCount": 17,
 				"name": "Ancient Forest"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1463,6 +1634,9 @@
 		],
 		"name": "Anjanath",
 		"description": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
+		"ecology":"Anjanath is a relentless and highly territorial predator, capable of lifting and throwing large creatures with its powerful jaws, and using its acute sense of smell to track prey. It can breathe fire from its mouth, utilizing a specialized organ in its throat. When enraged, Anjanath flares small fins on its back and breathes heavily, making itself appear larger and more threatening. In the Ancient Forest, Anjanath is a dominant force, engaging in Turf Wars with other monsters and relentlessly chasing down any intruders. Despite its power, it still faces challenges from apex predators like Rathalos and nomadic monsters like Deviljho.",
+		"title":["Fierce Jaw Wyvern", "Relentless Ruffian"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 1,
@@ -1499,6 +1673,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1570,6 +1749,9 @@
 		],
 		"name": "Azure Rathalos",
 		"description": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
+		"ecology":"The Azure Rathalos is a subspecies of Rathalos, distinguished by its azure-colored shell and lime green wing webbing, with a single red spike on its tail. This wyvern has enhanced stamina, health, and attack power, making it more aggressive than its standard counterpart. Known for its cunning, speed, and strength, the Azure Rathalos can stay airborne longer due to its stronger wings, allowing it to execute powerful aerial combos with fire breath and poisonous claws. Its aggression peaks during mating season, when territorial disputes and competition for prime hunting grounds are at their fiercest.",
+		"title":["Azure Fire Wyvern"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -1642,6 +1824,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -1713,6 +1900,9 @@
 		],
 		"name": "Bazelgeuse",
 		"description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
+		"ecology":"Bazelgeuse is a fearsome Flying Wyvern known for its explosive scales and relentless aggression. It is often found in various habitats, roaming widely in search of territories to dominate. Its most distinctive feature is its ability to drop explosive scales from its body, which detonate after a short delay, causing massive damage to anything nearby. This makes Bazelgeuse a highly destructive force, especially when it enters a rage, becoming even more aggressive and making its scales more potent. Bazelgeuse frequently engages in turf wars with other large monsters, and its sheer power and unpredictability make it a top contender in any environment it inhabits. Despite its dominance, it is known to be wary of Elder Dragons and similarly powerful creatures that can challenge its might",
+		"title":["Explosive Scale Wyvern", "Party Crasher", "Bomber Wyvern", "The Invading Tyrant"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 9,
@@ -1858,7 +2048,10 @@
 		}
 		],
 		"name": "Behemoth",
-		"description": "A powerful beast from another world. Its Large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+		"description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+		"ecology":"Behemoth is a towering and powerful monster from the world of Eorzea, transported to the New World through an anomalous occurrence. It prowls the Elder's Recess, where it quickly asserted itself as an unrivaled invader, even deterring Elder Dragons like Nergigante, Teostra, and Kushala Daora. Behemoth is known for its unique magical abilities, such as summoning meteors, whirlwinds, and lightning strikes, with its most devastating attack being the Ecliptic Meteor. This formidable creature also develops Enmity towards a single foe, making it more focused but vulnerable to flanking. Its immediate aggression towards Hunters and intolerance of humanoids likely stem from its experiences in Eorzea, where it was considered a significant threat.",
+		"title":["Demon Beast"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -2026,7 +2219,10 @@
 			}
 		],
 		"name": "Deviljho",
-		"description": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up Large monsters in its powerful maw and flail them around.",
+		"description": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up large monsters in its powerful maw and flail them around.",
+		"ecology":"Deviljho is a fearsome Brute Wyvern renowned for its immense strength and insatiable hunger. This monster is notorious for its ability to devour almost anything, including other monsters, and exhibits aggressive, territorial behavior. It frequently engages in brutal Turf Wars with apex predators like Rathalos, Diablos, and Bazelgeuse. Deviljho's unique biology allows it to consume and store large quantities of food, fueling its relentless aggression and regenerative capabilities. When enraged, it releases a deadly Dragon Element substance from its mouth. Despite its dominance and the fear it instills, Deviljho must contend with powerful rivals, including other apex beasts and Elder Dragons, that challenge its supremacy in the food chain.",
+		"title":["Violent Wyvern", "World Eater"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 5,
@@ -2195,6 +2391,9 @@
 		],
 		"name": "Diablos",
 		"description": "The apex monster of the Wildspire Waste.\nA menacing, territorial beast that lurks underground.\nLoud noises will cause it to lunge out of the sand in search of prey.",
+		"ecology":"Diablos is a formidable Brute Wyvern known for its burrowing abilities and aggressive nature. It can travel underground to surprise intruders or evade danger, and it produces a powerful roar that stuns most aggressors. Diablos uses its powerful legs and heavy upper body to charge attackers with its horns, maximizing damage with its momentum. Although it feeds primarily on cacti and is herbivorous, Diablos is extremely territorial and will pursue anything that enters its domain. It often uses its horns in combat against both intruders and other Diablos during territorial disputes or mating battles. Diablos avoids flying due to its heavy mass but uses its wings to free itself when trapped in sand.",
+		"title":["Horned Wyvren", "Tyrant of the Desert"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 17,
@@ -2207,6 +2406,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2278,6 +2482,9 @@
 		],
 		"name": "Black Diablos",
 		"description": "A subspecies of Diablos. Females darken in the mating season so as to warn off other creatures. Even more aggressive than the regular species, they will go out of their way to attack anything they see with their menacing horns.",
+		"ecology":"The Black Diablos, a dominant native of the Wildspire Waste, is actually a female Diablos in heat. This seasonal color change signals her extreme aggression and territoriality. Far more aggressive and powerful than regular Diablos, she patrols her domain with an iron fist and will charge at any intruder, including other Diablos. Her heightened strength and willingness to confront both hunters and Elder Dragons make her a formidable opponent, even when facing adversaries that could potentially overwhelm her.",
+		"title":["Black Horn Wyvern", "Black Horn Tyrantess of the Desert", "Black Horn Wyvern of the Desert"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 17,
@@ -2290,6 +2497,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2360,6 +2572,9 @@
 		],
 		"name": "Dodogama",
 		"description": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+		"ecology":"Dodogama is a docile monster that defends itself by spitting explosive rocks mixed with saliva. It can also create Blast-inflicting sparks with a charge attack. Despite its lower rank in the food chain, it can protect its territory using these projectiles. Deviljho may use Dodogama as a weapon during encounters, but Dodogama only fights back when attacked or in battle with other large monsters.",
+		"title":["Rock Thief Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 9,
@@ -2388,6 +2603,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2459,6 +2679,9 @@
 		],
 		"name": "Great Girros",
 		"description": "A monster that scavenges for meals dropped from the Coral Highlands.\nIt acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
+		"ecology":"Great Girros, found in the Rotten Vale, is a formidable monster with large fangs that deliver paralyzing venom, capable of incapacitating prey as large as Radobaan with a single bite. It can also spit a yellow fluid to paralyze opponents and summon a swarm of smaller Girros during combat. Damaging its hood impairs its ability to command these minions. Despite its prowess, Great Girros is weak to Water but immune to Thunder, unlike regular Girros, which are the opposite. This scavenger is highly aggressive and will attack any monster, including the apex predator Odogaron, though it is easily overpowered if Odogaron escapes its paralysis.",
+		"title":["Paralyzing Thief Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 7,
@@ -2485,6 +2708,11 @@
 				"id": 4,
 				"zoneCount": 16,
 				"name": "Rotten Vale"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2554,6 +2782,9 @@
 		],
 		"name": "Kirin",
 		"description": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.\nThe lightning a Kirin cloaks itself with has been confirmed to toughen its skin.",
+		"ecology":"Kirin, an Elder Dragon, is renowned for its exceptional agility and lightning-based attacks. It summons lightning to strike foes or the surrounding area, and when threatened, it can envelop itself in lightning, hardening its hide. Kirin relies mainly on these lightning strikes for offense, with few physical attacks beyond goring enemies with its horn. It moves with incredible speed, capable of running and jumping great distances to evade or strike opponents. Despite its generally peaceful nature, Kirin can unleash a powerful barrage of lightning when provoked, making it a formidable adversary.",
+		"title":["Phantom Beast"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 7,
@@ -2604,6 +2835,11 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2673,7 +2909,10 @@
 			}
 		],
 		"name": "Kulve Taroth",
-		"description": "An Elder Dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",
+		"description": "An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",
+		"ecology":"Kulve Taroth is a colossal Elder Dragon that dwells in the caverns of El Dorado, where it roams slowly, collecting gold to reinforce its massive mantle. Initially, Kulve Taroth is relatively docile, but as hunters provoke it by damaging its golden armor, it becomes increasingly aggressive. It can unleash superheated air capable of melting gold instantly, turning the battlefield into a fiery hazard. As its mantle is worn down, Kulve Taroth sheds its heavy armor, revealing a much faster and more dangerous creature. If hunters fail to deal enough damage, the monster will retreat deeper into the caverns, becoming more erratic and destructive as the battle intensifies.",
+		"title":["Glorious Dragon", "Mother Goddess of Gold"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 1,
@@ -2792,6 +3031,9 @@
 		],
 		"name": "Kushala Daora",
 		"description": "It's difficult to even get close to one of these metallic elder dragons, but some claim better odds if the creature is weakened with poison, or has its horn broken, limiting the amount of wind pressure it can muster.",
+		"ecology":"Kushala Daora, an Elder Dragon found in the Ancient Forest and the Elder's Recess, is known for its metallic skin that provides significant protection and its ability to manipulate wind. It can fire compressed air blasts, create massive tornadoes, and generate violent storms. When enraged, Kushala Daora summons a wind barrier that grows stronger over time, deflecting most attacks and blowing back hunters. However, this barrier can be weakened or negated if Kushala Daora is poisoned, if its horn is broken, or if weapons with Elder Seal are used against it. In different terrains, its storms can cause various ailments, such as freezing winds in icy regions.",
+		"title":["Steel Dragon", "Shadow Upon the Tempest"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 17,
@@ -2809,6 +3051,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2877,6 +3124,9 @@
 		],
 		"name": "Lavasioth",
 		"description": "Lavasioth utilizes molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
+		"ecology":"Lavasioth is a Piscine Wyvern that inhabits volcanic regions such as the Elder's Recess. It utilizes molten lava as part of its armor, which helps resist high temperatures but makes it vulnerable when it swims through lava, as the heat softens its armor. Lavasioth can fire large magma balls that scatter into molten rocks upon impact and uses its heavy body to crush attackers. It is territorial and highly aggressive, attacking intruders on sight.",
+		"title":["Lava Wyvern"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 1,
@@ -2908,6 +3158,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -2995,6 +3250,9 @@
 		],
 		"name": "Legiana",
 		"description": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
+		"ecology":"Legiana, an apex monster of the Coral Highlands, has a unique adaptation for flight compared to other Flying Wyverns. Its massive wings are specialized for harnessing air currents, allowing it to remain airborne with minimal wing flapping. On its head, chest, wings, and tail, Legiana possesses blue secretory glands connected to internal freezer sacs. These glands secrete a fluid that reacts with air moisture to form ice, which Legiana uses to immobilize prey before capturing them with its talons. Despite its size, Legiana's strong talons enable it to lift and toss larger monsters. However, if poisoned, it loses its ability to produce ice, making it vulnerable.",
+		"title":["Wind Drifting Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 3,
@@ -3026,9 +3284,9 @@
 				"name": "Coral Highlands"
 			},
 			{
-				"id": 4,
-				"zoneCount": 16,
-				"name": "Rotten Vale"
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3097,7 +3355,10 @@
 			}
 		],
 		"name": "Lunastra",
-		"description": "A rare female Elder Dragon that litters the air with hot blue dust, which ignites into blue flames causing continuous damage. She can create powerful heat waves and immobilizing winds. Reports of her traveling with her mate, Teostra, are unconfirmed.",
+		"description": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are unconfirmed.",
+		"ecology":"Lunastra, an Elder Dragon and the female counterpart to Teostra, wields blue flames and intense heat. She spreads blue powder that ignites on contact with fire, creating damaging flames that slowly drain health. Her powerful heat wave attack creates widespread blue fire and strong wind pressure, making it difficult for hunters to escape. Lunastra becomes more aggressive during mating season and, when paired with Teostra, can perform a devastating bond attack. Her flame abilities can be weakened if she is poisoned or her horn is destroyed.",
+		"title":["Flame Queen Dragon", "Empress of Flame"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 1,
@@ -3129,6 +3390,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3197,8 +3463,11 @@
 			}
 		],
 		"name": "Nergigante",
-		"description": "Large Elder Dragons bristling with sharp spikes, single-minded in spreading destruction. They possess an astonishing regenerative power, recovering from wounds almost istantly.",
-			"ailments": [
+		"description": "Large elder dragons bristling with sharp spikes, single-minded in spreading destruction. They possess an astonishing regenerative power, recovering from wounds almost istantly.",
+		"ecology":"Nergigante is an immensely powerful Elder Dragon known for its brute strength, speed, and relentless aggression. It attacks with a variety of physical blows, including bites, claw slams, and dive-bombs, while also utilizing its body coated in spikes that harden over time. If these spikes are broken while still soft, Nergigante can suffer significant damage, but once hardened, they boost its attack power and release deadly shrapnel upon impact. Nergigante's extraordinary regenerative abilities allow it to recover quickly from wounds, making it a formidable opponent. It is especially aggressive towards other Elder Dragons, often engaging in turf wars to feed on them for energy. Unlike other Elder Dragons, Nergigante does not rely on elemental powers, instead overpowering its foes through sheer force and unyielding aggression. Despite its strength, it is highly susceptible to status ailments and can become fatigued during prolonged battles.",
+		"title":["Extinction Dragon"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -3284,6 +3553,9 @@
 		],
 		"name": "Odogaron",
 		"description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+		"ecology":"Odogaron is the apex monster of the Rotten Vale, known for its ferocity and speed. This carnivorous monster is incredibly aggressive and territorial, often seen dragging its prey back to its lair to feed. Odogaron's powerful claws and fangs can inflict a bleeding status on its victims, causing them to lose health over time. It also has a unique ability to enter a frenzied state, where its speed and attack power increase dramatically. Despite its fearsome nature, Odogaron can be outmaneuvered with careful strategy and quick reflexes, especially in the hazardous environment of the Rotten Vale.",
+		"title":["Cruel Claw Wyvren"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -3340,6 +3612,11 @@
 				"id": 4,
 				"zoneCount": 16,
 				"name": "Rotten Vale"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3409,6 +3686,9 @@
 		],
 		"name": "Paolumu",
 		"description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+		"ecology":"Paolumu, a Flying Wyvern native to the Coral Highlands, is equipped with a unique air sac inside its neck that inflates when it sucks in air. This ability allows Paolumu to float in the air like a balloon, giving it the advantage of attacking from above. While airborne, it can batter foes with its hard tail or create gusts of wind to stagger opponents. Paolumu can also use its inhaling ability to draw hunters closer. Despite its generally calm nature, Paolumu becomes aggressive when threatened but usually won't attack unless provoked. Hunters can deflate its air sac by targeting its neck, making it easier to bring down.",
+		"title":["Floating Sky Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 17,
@@ -3431,6 +3711,11 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3500,6 +3785,9 @@
 		],
 		"name": "Radobaan",
 		"description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+		"ecology":"Radobaan, a large monster found in the Rotten Vale, is covered in a dense, bone-coated armor that it collects from the remains scattered throughout its habitat. This armor serves as both protection and a weapon, as Radobaan can roll into a ball and charge at its enemies, using the weight and momentum to crush anything in its path. The bones on its body can also be used to create spiked projectiles during its rolling attacks. Radobaan has a unique behavior of accumulating bones on its body, which can be broken off by hunters to expose its softer hide underneath. Although it appears formidable, Radobaan is vulnerable once its armor is removed, making it easier to inflict damage. Despite its aggressive appearance, Radobaan is generally passive and will only attack when threatened or provoked.",
+		"title":["Bone Hammer Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 6,
@@ -3535,6 +3823,11 @@
 				"id": 4,
 				"zoneCount": 16,
 				"name": "Rotten Vale"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -3604,6 +3897,9 @@
 		],
 		"name": "Rathalos",
 		"description": "The apex monster of the Ancient Forest, also known as the \"King of the Skies\". A fierce wyvern that descends upon invaders, attacking with its venomous claws and fiery breath.",
+		"ecology":"Known as the \"King of the Skies\", Rathalos is a formidable apex monster in the Ancient Forest. This highly territorial beast expertly hunts from the air, using its poisonous talons and fiery projectiles to inflict damage. On the ground, Rathalos employs its powerful legs for pursuit and blunt-force attacks, and its sharp teeth for close-range combat. Rathalos is notorious for defending its domain aggressively, stalking prey from above, and then carrying its kill away to eat in solitude, protecting it from scavengers and rival monsters.",
+		"title":["Fire Wyvern", "King of the Skies"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -3671,6 +3967,16 @@
 				"id": 1,
 				"zoneCount": 17,
 				"name": "Ancient Forest"
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3740,6 +4046,9 @@
 		],
 		"name": "Rathian",
 		"description": "Fire-breathing female wyverns, also known as the \"Queens of the Land\". With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathians and Rathalos cooperate well.",
+		"ecology":"Rathian, the Queen of the Land, is a highly territorial Fire Wyvern renowned for her powerful fire attacks and toxic tail. She can launch multiple flaming projectiles and charge up a potent fire blast that ignites the ground. Rathian's poisonous tail can inflict severe wounds, even if severed. Agile and swift, she aggressively defends her nest and young, often collaborating with her mate, Rathalos, to safeguard their territory. While not classified as an apex monster, Rathian remains a formidable force in her domain and poses a significant threat to intruders.",
+		"title":["Female Fire Wyvern", "Queen of the Land"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -3812,6 +4121,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -3881,6 +4195,9 @@
 		],
 		"name": "Pink Rathian",
 		"description": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
+		"ecology":"Pink Rathian is a top predator in the food chain and a highly aggressive variant of the Rathian species. Alongside Azure Rathalos, it patrols their shared territory, with Pink Rathian preferring to move on the ground while Azure Rathalos takes to the skies. Notable for its pink coloration, which may be due to a genetic mutation, Pink Rathian exhibits increased speed and strength compared to its standard counterpart. This aggression is reflected in its combat style, with more frequent and powerful fireball attacks, and a greater emphasis on backflips and tail whips. Its toxic tail is used more deftly to poison and weaken prey before moving in for the kill. ",
+		"title":["Cherry Blossom Fire Wyvern"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -3991,6 +4308,11 @@
 				"id": 3,
 				"zoneCount": 15,
 				"name": "Wildspire Waste"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -4060,6 +4382,9 @@
 		],
 		"name": "Teostra",
 		"description": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
+		"ecology":"Teostra is a formidable Elder Dragon recognized for its mastery over fire and explosive abilities. It breathes intense flames, generates a scorching aura, and spreads explosive powder made from its scales, which can be ignited to create powerful \"Supernova\" attacks. Aggressive and territorial, Teostra ruthlessly defends its domain. When paired with Lunastra, it can execute a high-damage \"Bonding\" attack, unleashing a massive explosion over a large area.",
+		"title":["Flame King", "Emperor of Flame", "Ruler of the Flame"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 9,
@@ -4117,6 +4442,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -4186,6 +4516,9 @@
 		],
 		"name": "Tzitzi-Ya-Ku",
 		"description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+		"ecology":"Tzitzi-Ya-Ku is a Bird Wyvern that uses bright flashes from its head fins to disorient foes and gain a combat advantage. It can deliver powerful kicks with its hind legs and blend into the Coral Highlands' shadows to ambush smaller prey. Tzitzi-Ya-Ku is known for stealing from vulnerable monsters and disrupting battles by flashing both hunters and other creatures before fleeing.",
+		"title":["Dazzling Bird"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 19,
@@ -4212,6 +4545,11 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [],
@@ -4280,7 +4618,10 @@
 			}
 		],
 		"name": "Uragaan",
-		"description": "Large Brute Wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
+		"description": "Large brute wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
+		"ecology":"Uragaan is a massive Brute Wyvern found in the Elder's Recess, known for its signature ability to roll its body into a wheel, increasing its speed and agility to crush hunters. It can perform short rolls or longer ones, even rolling in a figure-eight pattern for multiple attacks. Uragaan can emit sleep gas or, when enraged, flames—inflicting sleep or Fireblight, respectively, depending on the gas's color (ghost-blue for sleep, red-orange for fire). It attacks by slamming its large jaw into the ground and sweeping its tail, which can fling explosive rocks. When these rocks are present, Uragaan's heavy jaw smash will trigger them to explode, similar to Barrel Bombs.",
+		"title":["Burst Hammer Wyvern"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 1,
@@ -4340,6 +4681,11 @@
 				"id": 5,
 				"zoneCount": 16,
 				"name": "Elder's Recess"
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
 		],
 		"resistances": [
@@ -4408,7 +4754,10 @@
 			}
 		],
 		"name": "Vaal Hazak",
-		"description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+		"description": "A grotesque elder dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+		"ecology":"Vaal Hazak is an Elder Dragon that haunts the depths of the Rotten Vale, shrouded in a miasma of deadly effluvium that it can control at will. This miasma drains the life force of creatures within its reach, weakening them over time. Vaal Hazak uses this effluvium as both a shield and a weapon, enveloping itself in the toxic cloud to deter attackers while unleashing it to devastate foes. It can also regenerate itself by absorbing the effluvium from its environment or prey. Despite its slow and deliberate movements, Vaal Hazak is a formidable opponent, capable of overwhelming hunters with its relentless use of the miasma.",
+		"title":["Corpse Coat Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 11,
@@ -4517,7 +4866,10 @@
 			}
 		],
 		"name": "Xeno'jiiva",
-		"description": "A Large elder dragon with an otherworldly appearance. It has crystalline, translucent skin that glows ethereal blue, two eyes, and six orange sensory organs on its horns. Its grayish-blue wings are frayed at the edges. When enraged, its torso glows hot red and orange. Upon maturing and molting its skin, Xeno'jiiva will turn into Safi'jiiva.",
+		"description": "A large elder dragon with an otherworldly appearance. It has crystalline, translucent skin that glows ethereal blue, two eyes, and six orange sensory organs on its horns. Its grayish-blue wings are frayed at the edges. When enraged, its torso glows hot red and orange. Upon maturing and molting its skin, Xeno'jiiva will turn into Safi'jiiva.",
+		"ecology":"Before hatching, Xeno'jiiva hibernates in a cocoon, drawing in dying Elder Dragons to absorb their bioenergy and strengthen itself. After emerging, it wields this energy as bright blue flame-like bursts and concentrated beams, causing Dragonblight or Fireblight and generating intense heat. Initially clumsy and reliant on its massive body for trampling, Xeno'jiiva becomes increasingly proficient with its elemental attacks as it matures in battle. When reaching its Critical State, Xeno'jiiva erupts in blue flames, greatly enhancing its power but increasing its vulnerability. Found solely in the Confluence of Fates, it will eventually molt into its mature form, Safi'jiiva.",
+		"title":["Dark Light Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 5,
@@ -4639,7 +4991,10 @@
 			}
 		],
 		"name": "Zorah Magdaros",
-		"description": "A massive Elder Dragon resembling a colossal volcanic creature. Zorah Magdaros has a rocky, molten exterior with lava flowing through its body. Its enormous, segmented body is covered in hardened crust with glowing magma beneath. The dragon has a long, snaking neck and a wide, jagged mouth. Its tail is long and powerful, often used to cause seismic disturbances. Zorah Magdaros’s sheer size and magma-infused attacks make it a formidable and destructive presence in the world.",
+		"description": "A massive elder dragon resembling a colossal volcanic creature. Zorah Magdaros has a rocky, molten exterior with lava flowing through its body. Its enormous, segmented body is covered in hardened crust with glowing magma beneath. The dragon has a long, snaking neck and a wide, jagged mouth. Its tail is long and powerful, often used to cause seismic disturbances. Zorah Magdaros’s sheer size and magma-infused attacks make it a formidable and destructive presence in the world.",
+		"ecology":"",
+		"title":["Scorching Mountaion Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 1,
@@ -4736,6 +5091,9 @@
 		],
 		"name": "Leshen",
 		"description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
+		"ecology":"",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -4855,6 +5213,9 @@
 		],
 		"name": "Ancient Leshen",
 		"description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
+		"ecology":"",
+		"title":["N/A"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -4978,6 +5339,9 @@
 		],
 		"name": "Safi'jiiva",
 		"description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem. It can unleash powerful energy attacks and become more aggressive in its 'Supercritical State,' where its body parts become vulnerable.",
+		"ecology":"",
+		"title":["Red Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 5,
@@ -5085,6 +5449,9 @@
 		],
 		"name": "Stygian Zinogre",
 		"description": "A subspecies of Zinogre that is typically Larger and perpetually covered in red bolts of dragon energy due to a symbiotic relationship with Dracophage Bugs that feed on dragonfell berries. It releases these bugs like bullets, and its crimson red/black lightning attacks deal Dragon Element damage. Becomes even more dangerous when covered in light.",
+		"ecology":"",
+		"title":["Hell Wolf Wyvern", "Emperor of Hell"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 5,
@@ -5165,6 +5532,9 @@
 		],
 		"name": "Rajang",
 		"description": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry.",
+		"ecology":"",
+		"title":["Gold Lion", "Destruction Incarnate", "Golden Mane"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 4,
@@ -5263,6 +5633,9 @@
 		],
 		"name": "Viper Tobi-Kadachi",
 		"description": "A subspecies of Tobi-Kadachi that uses powerful poisons via its fangs and tail spikes, which can also paralyze prey. It retains the ability to glide using membranes between its limbs.",
+		"ecology":"",
+		"title":["Flying Poison Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 7,
@@ -5394,6 +5767,9 @@
 		],
 		"name": "Namielle",
 		"description": "An elder dragon coated in water and able to freely control lightning. A unique organ allows it to pump electricity into the pools of water it creates, causing massive bursts of steam.",
+		"ecology":"",
+		"title":["Abyssal Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 4,
@@ -5490,6 +5866,9 @@
 		],
 		"name": "Zinogre",
 		"description": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
+		"ecology":"",
+		"title":["Thunder Wolf Wyvern", "Spark of Blue", "Lord of Lighting"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 4,
@@ -5575,6 +5954,9 @@
 		],
 		"name": "Ebony Odogaron",
 		"description": "This Odogaron subspecies is forever on the prowl for its next meal, and is often seen carrying fresh kills in its mouth. Reports indicate it goes into a frenzy upon eating.",
+		"ecology":"",
+		"title":["Wicked Claw Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -5749,6 +6131,9 @@
 		],
 		"name": "Banbaro",
 		"description": "A monster with two giant horns, like a running brick wall. It charges at threats while digging its massive horns in the ground, sometimes picking up entire trees along the way.",
+		"ecology":"",
+		"title":["Ferocious Bull Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 20,
@@ -5929,6 +6314,9 @@
 		],
 		"name": "Beotodus",
 		"description": "A piscine wyvern that uses the sharp fin on its head to cut through the frozen soil, swimming freely through the snow. Can often be seen hurling snow at its prey using its leg fins.",
+		"ecology":"",
+		"title":["Frozen Fish Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 3,
@@ -6030,6 +6418,9 @@
 		],
 		"description": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows and attack with ferocious speed. Their massive tails are dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
 		"name": "Nargacuga",
+		"ecology":"",
+		"title":["Swift Wyvern", "Red Glare in the Darkness", "Pouncing Shadow"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 10,
@@ -6159,6 +6550,9 @@
 		],
 		"name": "Velkhana",
 		"description": "An elder dragon with the power to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
+		"ecology":"",
+		"title":["Ice Dragon", "The Iceborne Wyvern", "Ice Dragon that Freezes All", "Lord of the Tundra", "Lord of Ice"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 6,
@@ -6248,7 +6642,10 @@
 			}
 		],
 		"name": "Tigrex",
-		"description": "A Flying Wyvern whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area searching for prey, and have even been spotted in regions of harsh cold.",
+		"description": "A flying Wyvern whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area searching for prey, and have even been spotted in regions of harsh cold.",
+		"ecology":"",
+		"title":["Roaring Wyvern", "Absolute Power"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 20,
@@ -6454,6 +6851,9 @@
 		],
 		"name": "Shrieking Legiana",
 		"description": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
+		"ecology":"",
+		"title":["Wind Drifting Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 3,
@@ -6557,6 +6957,9 @@
 		],
 		"name": "Barioth",
 		"description": "Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail and their spiked scales to traverse the slippery ice with ease; this ability makes them very difficult to keep up with.",
+		"ecology":"",
+		"title":["Ice Tusk Wyvern", "Flurry of Frosted Fangs"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 3,
@@ -6658,6 +7061,9 @@
 		],
 		"name": "Glavenus",
 		"description": "A brute wyvern that can bring its mighty tail down on foes like a massive sword, decimating them in an explosion of flames created from the volatile components found in its scales. If its tail dulls from accumulated soot, a Glavenus will use its fangs to resharpen it.",
+		"ecology":"",
+		"title":["Slashing Wyvern"],
+		"generation":"Fourth",
 		"ailments": [
 			{
 				"id": 1,
@@ -6773,6 +7179,9 @@
 		],
 		"name": "Brachydios",
 		"description": "Brute wyverns coated with an explosive green substance. The material is thought to be a unique myxomycete--or slime mold--that is primed to explode by the Brachydios's own saliva. Note that these crafty creatures can also deliver powerful foreleg strikes.",
+		"ecology":"",
+		"title":["Crushing Wyvern"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 15,
@@ -6867,6 +7276,9 @@
 		],
 		"name": "Fulgur Anjanath",
 		"description": "An extremely adaptable subspecies of Anjanath that electrifies its jaws and dorsal membrane with every blow rendering them even stronger.",
+		"ecology":"",
+		"title":["Thunder Jaw Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 4,
@@ -6988,6 +7400,9 @@
 		],
 		"name": "Acidic Glavenus",
 		"description": "A new subspecies to the ferocious Glavenus, the Acidic Glavenus features a sulphur covered tail. Found only in the rotting areas of the New World, a corrosive fluid has crystallized on its tail, spraying acid with each swing that can apply a debuff to those that get caught in it.",
+		"ecology":"",
+		"title":["Sulfur Slashing Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 16,
@@ -7090,6 +7505,9 @@
 		],
 		"name": "Ruiner Nergigante",
 		"description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
+		"ecology":"",
+		"title":["Extinction Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 10,
@@ -7218,7 +7636,10 @@
 	],
 	"name": "Boaboa",
 	"description": "A tribe of Lynians residing in the cold regions of Hoarfrost Reach. They are known for their hunting skills and use of ice weapons.",
-		"ailments": [
+	"ecology":"",
+	"title":["N/A"],
+	"generation":"Fifth",	
+	"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -7261,6 +7682,9 @@
 		],
 		"name": "Coral Pukei-Pukei",
 		"description": "A bird wyvern that stockpiles water inside its body, fortified by the plant life it consumes. When threatened it can expel a powerful stream from its mouth or tail.",
+		"ecology":"",
+		"title":["Water Bewitching Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 2,
@@ -7362,6 +7786,9 @@
 		],
 		"name": "Nightshade Paolumu",
 		"description": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sack that it can expel and scatter to knock unwary foes out.",
+		"ecology":"",
+		"title":["Floating Sleep Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 6,
@@ -7474,6 +7901,9 @@
 		],
 		"name": "Shara Ishvalda",
 		"description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
+		"ecology":"",
+		"title":["Earthing Singing Dragon, The Old Everwyrm"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 14,
@@ -7567,6 +7997,9 @@
 		],
 		"name": "Savage Deviljho",
 		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of Larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
+		"ecology":"",
+		"title":["Terrifing Violent Wyvern"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 5,
@@ -7794,6 +8227,9 @@
 		],
 		"name": "Blackveil Vaal Hazak",
 		"description": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
+		"ecology":"",
+		"title":["Corpse Coat Dragon"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 11,
@@ -7913,6 +8349,9 @@
 		],
 		"name": "Seething Bazelgeuse",
 		"description": "A Bazelgeuse variant whose body seems to smolder, like it could go critical at any moment. The heat of their explosive scales have grown, their pale blue glow worthy of the \"Seething\" moniker. Their scales are blisteringly hot in this state, capable of scorching the very earth with their volatile force.",
+		"ecology":"",
+		"title":["Explosive Scale Wyvern", "Party Crasher", "Bomber Wyvern", "The Invading Tyrant", "Death from Above", "Great Calamity"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 1,
@@ -8038,6 +8477,9 @@
 		],
 		"name": "Scarred Yian Garuga",
 		"description": "A tempered Yian Garuga that has survived a grueling battle with just a scar on its head. It is just as aggressive as Yian Garuga, but can execute more consecutive air attacks and unleash a barrage of small fireballs while airborne.",
+		"ecology":"",
+		"title":["Black Wolf Bird"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -8178,6 +8620,9 @@
 		],
 		"name": "Gold Rathian",
 		"description": "A rare species of Rathian covered in shimmering golden scales. Known as the Gold Fire Wyvern, or alternatively the Golden Moon, as inspired by their divine appearance. These wyverns are infamous for their strong scales and attacks with their reinforced tails, giving these beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
+		"ecology":"",
+		"title":["Gold Fire Wyvern", "Golden Moon", "Illustrious Moon"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 5,
@@ -8344,6 +8789,9 @@
 		],
 		"name": "Silver Rathalos",
 		"description": "A rare species of Rathalos covered in shimmering silver scales. Known as the Silver Fire Wyvern, or alternatively the Silver Sun, as inspired by their majestic appearance. These wyverns are known for their fierce breath and even fiercer claws, giving these threatening beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
+		"ecology":"",
+		"title":["Sliver Fire Wyvern", "Sliver Sun", "Argent Emperor"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -8484,6 +8932,9 @@
 		],
 		"name": "Brute Tigrex",
 		"description": "A black subspecies of Tigrex. The force and range of their roar is far more fearsome than that of their Tigrex cousins. Extremely vicious with a practically insatiable appetite. Just like regular Tigrex, there have been reports of them traveling incredibly far distances to hunt for prey.",
+		"ecology":"",
+		"title":[""],
+		"generation":"",
 		"ailments": [
 			{
 				"id": 21,
@@ -8637,7 +9088,10 @@
 	],
 	"name": "Popo",
 	"description": "Docile herbivores that travel in herds. They inhabit colder regions like Hoarfrost Reach and are known for their long tusks, which they use to dig through the snow for food.",
-		"ailments": [
+	"ecology":"",
+	"title":["N/A"],
+	"generation":"First",	
+	"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -8688,7 +9142,10 @@
 		],
 		"name": "Wulg",
 		"description": "Small, wolf-like creatures that travel in packs. They inhabit the colder regions of the Hoarfrost Reach and are known for their agility and coordination when hunting prey.",
-			"ailments": [
+		"ecology":"",
+		"title":["N/A"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -8735,6 +9192,9 @@
 		],
 		"name": "Raging Brachydios",
 		"description": "A Brachydios variant that is much Larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
+		"ecology":"",
+		"title":["Crushing Wyvern"],
+		"generation":"Fourth",
 		"ailments": [
 			{
 				"id": 15,
@@ -8820,6 +9280,9 @@
 		],
 		"name": "Furious Rajang",
 		"description": "Furious Rajang are Rajang variants that are covered in golden fur. Normally Rajang return to their black-furred state after being agitated for a time to conserve energy, but these beasts have lost their ability to curb their anger. Outclassing the standard Rajang's attack power, they assault with seething rage. At the apex of their fury they become enraged and turn into destructive demons with electrified manes.",
+		"ecology":"",
+		"title":["Gold Lion", "Super Simian"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 4,
@@ -8930,6 +9393,9 @@
 	],
 		"name": "Alatreon",
 		"description": "Known as a symbol of destruction, people fear even uttering its name. It's rumored to control all of the elements, but most, if not all, records of its existence have been burned.",
+		"ecology":"",
+		"title":["Blazing Black Dragon"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 1,
@@ -9109,6 +9575,9 @@
 		],
 		"name": "Frostfang Barioth",
 		"description": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. It is more aggressive than the standard Barioth and its fangs and claws are coated with frost.",
+		"ecology":"",
+		"title":["Frostfang Wyvern"],
+		"generation":"Fifth",
 		"ailments": [
 			{
 				"id": 3,
@@ -9187,6 +9656,9 @@
 		],
 		"name": "Fatalis",
 		"description": "An ancient dragon that appears in the legends of many cultures. It is said to have destroyed a kingdom in a single night, and its appearance forebodes calamity.",
+		"ecology":"",
+		"title":["Black Dragon", "The Dark Demise", "Black Flame"],
+		"generation":"First",
 		"ailments": [
 			{
 				"id": 1,
@@ -9283,7 +9755,10 @@
 		],
 		"name": "Grimalkyne",
 		"description": "A tribe of Lynians allied with the Hunter's Palico. They offer assistance in battle and are found in various regions.",
-			"ailments": [
+		"ecology":"",
+		"title":["N/A"],
+		"generation":"First",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -9344,7 +9819,10 @@
 		],
 		"name": "Gajalaka",
 		"description": "A tribe of Lynians native to the Elder's Recess. They are known for their aggressive behavior and use of primitive weapons.",
-			"ailments": [
+		"ecology":"",
+		"title":["Odd Mask Tribe"],
+		"generation":"Fifth",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -9390,7 +9868,10 @@
 		],
 		"name": "Anteka",
 		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their Large antlers to shovel snow and fend off attackers.",
-			"ailments": [
+		"ecology":"",
+		"title":["N/A"],
+		"generation":"Second",	
+		"ailments": [
 			{
 				"id": 17,
 				"name": "None"
@@ -9419,6 +9900,9 @@
 		],
 		"name": "Yian Garuga",
 		"description": "Bird Wyverns known for their hard shells and long manes. Infamous for their aggression, they are prone to viciously attacking anything that enters their line of sight.",
+		"ecology":"",
+		"title":["Black Wolf Bird"],
+		"generation":"Second",
 		"ailments": [
 			{
 				"id": 1,
