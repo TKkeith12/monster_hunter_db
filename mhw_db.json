@@ -4866,7 +4866,7 @@
 			}
 		],
 		"name": "Xeno'jiiva",
-		"description": "A large elder dragon with an otherworldly appearance. It has crystalline, translucent skin that glows ethereal blue, two eyes, and six orange sensory organs on its horns. Its grayish-blue wings are frayed at the edges. When enraged, its torso glows hot red and orange. Upon maturing and molting its skin, Xeno'jiiva will turn into Safi'jiiva.",
+		"description": "A new species discovered in the depths of the Elder's Recess. Its relationship to the other elder dragons is unclear, as is its ecology.",
 		"ecology":"Before hatching, Xeno'jiiva hibernates in a cocoon, drawing in dying Elder Dragons to absorb their bioenergy and strengthen itself. After emerging, it wields this energy as bright blue flame-like bursts and concentrated beams, causing Dragonblight or Fireblight and generating intense heat. Initially clumsy and reliant on its massive body for trampling, Xeno'jiiva becomes increasingly proficient with its elemental attacks as it matures in battle. When reaching its Critical State, Xeno'jiiva erupts in blue flames, greatly enhancing its power but increasing its vulnerability. Found solely in the Confluence of Fates, it will eventually molt into its mature form, Safi'jiiva.",
 		"title":["Dark Light Dragon"],
 		"generation":"Fifth",
@@ -4991,7 +4991,7 @@
 			}
 		],
 		"name": "Zorah Magdaros",
-		"description": "A massive elder dragon resembling a colossal volcanic creature. Zorah Magdaros has a rocky, molten exterior with lava flowing through its body. Its enormous, segmented body is covered in hardened crust with glowing magma beneath. The dragon has a long, snaking neck and a wide, jagged mouth. Its tail is long and powerful, often used to cause seismic disturbances. Zorah Magdaros’s sheer size and magma-infused attacks make it a formidable and destructive presence in the world.",
+		"description": "An elder dragon that rises from the earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
 		"ecology":"Zorah Magdaros is a colossal semi-aquatic Elder Dragon with a rocky, turtle-like shell. It continuously emits fire, smoke, and lava from its body and magmacore organs. Though relatively docile, it becomes aggressive when provoked, using its immense size and magma-based attacks to cause massive destruction. It is resistant to normal attacks but vulnerable to siege weapons like ballistae and cannons.",
 		"title":["Scorching Mountaion Dragon"],
 		"generation":"Fifth",
@@ -5338,7 +5338,7 @@
 		}
 		],
 		"name": "Safi'jiiva",
-		"description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem. It can unleash powerful energy attacks and become more aggressive in its 'Supercritical State,' where its body parts become vulnerable.",
+		"description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
 		"ecology":"Safi'jiiva, the mature form of Xeno'jiiva, resides within the Guiding Lands, particularly in the Secluded Valley, where it absorbs abundant energy. It wields enhanced control over bioenergy, allowing it to reshape and destroy entire biomes. In combat, it attacks with powerful energy blasts, lasers, and sweeping beams while using its massive size and bioenergy-enhanced strikes for physical combat. Its exceptionally durable hide deflects most attacks, but it can rapidly heal by absorbing surrounding bioenergy. In its 'Supercritical State,' Safi'jiiva becomes more aggressive and vulnerable. Its ultimate attack, 'Sapphire of the Emperor,' unleashes a massive explosion, but it uses this sparingly. Highly intelligent and strategic, Safi'jiiva targets threats precisely and engages from a distance.",
 		"title":["Red Dragon"],
 		"generation":"Fifth",
@@ -5448,7 +5448,7 @@
 			}
 		],
 		"name": "Stygian Zinogre",
-		"description": "A subspecies of Zinogre that is typically Larger and perpetually covered in red bolts of dragon energy due to a symbiotic relationship with Dracophage Bugs that feed on dragonfell berries. It releases these bugs like bullets, and its crimson red/black lightning attacks deal Dragon Element damage. Becomes even more dangerous when covered in light.",
+		"description": "Has a symbiotic relationship with Dracophage Bugs, which it releases like bullets. Becomes even more dangerous when covered in light.",
 		"ecology":"Stygian Zinogre is a formidable variant of Zinogre characterized by its dark, jagged appearance with a color scheme of grey, white, and red. Typically larger than the standard Zinogre, it is perpetually covered in crimson-red bolts of dragon energy, a result of bonding with Dracophage Bugs and Fulgar Bugs that consume dragonfell berries. Unlike its regular counterpart, Stygian Zinogre’s thunder-like attacks are imbued with Dragon Element, dealing powerful Dragon-Element damage. The monster can release red orbs, resembling Great Thunderbugs, which explode on contact with significant impact. Highly aggressive and unpredictable, Stygian Zinogre uses its enhanced electrical attacks and dragon energy orbs to pose a serious threat to hunters.",
 		"title":["Hell Wolf Wyvern", "Emperor of Hell"],
 		"generation":"Third",
@@ -7182,7 +7182,7 @@
 			}
 		],
 		"name": "Glavenus",
-		"description": "A brute wyvern that can bring its mighty tail down on foes like a massive sword, decimating them in an explosion of flames created from the volatile components found in its scales. If its tail dulls from accumulated soot, a Glavenus will use its fangs to resharpen it.",
+		"description": "A brute wyvern that wields its heavy blue tail like a blade. It grows hotter and more keen with each strike until it glows red.",
 		"ecology":"Glavenus is a fierce and intelligent Brute Wyvern known for its fiery tail blade. It sharpens its tail by scraping off soot and ores with its mouth, causing it to heat up and turn red hot, significantly increasing its attack power. Glavenus can create explosions and fiery waves with its heated tail and uses a throat organ to store and expel magma-like substances for additional damage. Its aggressive behavior includes dragging its tail and roaring to intimidate foes.",
 		"title":["Slashing Wyvern"],
 		"generation":"Fourth",
@@ -7300,7 +7300,7 @@
 			}
 		],
 		"name": "Brachydios",
-		"description": "Brute wyverns coated with an explosive green substance. The material is thought to be a unique myxomycete--or slime mold--that is primed to explode by the Brachydios's own saliva. Note that these crafty creatures can also deliver powerful foreleg strikes.",
+		"description": "This marine-blue brute wyvern uses its saliva to prime the sticky slime coating its massive arms, rendering it highly explosive.",
 		"ecology":"Brachydios is a formidable Brute Wyvern covered in green slime mold, with its forelimbs and horn encrusted with the substance. It uses its slime to create explosive attacks; by slamming the ground or foes, Brachydios deposits slime that explodes after a powerful chemical reaction. The slime is sticky and adheres to hunters, causing explosive damage if not removed with rolling or Deodorant. Brachydios is capable of leaping long distances and is more agile than other Brute Wyverns. Its shell is highly durable, allowing it to withstand both its own explosions and external attacks. When enraged, Brachydios’s slime attacks explode instantly upon impact. Known for its aggression and territorial behavior, Brachydios will drive out other monsters to claim its domain.",
 		"title":["Crushing Wyvern"],
 		"generation":"Third",
@@ -7521,7 +7521,7 @@
 			}
 		],
 		"name": "Acidic Glavenus",
-		"description": "A new subspecies to the ferocious Glavenus, the Acidic Glavenus features a sulphur covered tail. Found only in the rotting areas of the New World, a corrosive fluid has crystallized on its tail, spraying acid with each swing that can apply a debuff to those that get caught in it.",
+		"description": "A subspecies of Glavenus found in the Rotten Vale. A corrosive fluid has crystallized on its tail, spraying acid with each swing.",
 		"ecology":"Acidic Glavenus is a formidable Brute Wyvern with enhanced control over its tail attacks due to its lighter, more agile tail. It executes precise slashes and jabs, along with wide, sweeping attacks. The tail is coated with highly corrosive acid that can inflict Defense Down on contact. When the tail is covered in acidic crystals, it becomes heavier, causing Acidic Glavenus to adopt a fighting style similar to the standard Glavenus, including using its tail for powerful, wide swings.",
 		"title":["Sulfur Slashing Wyvern"],
 		"generation":"Fifth",
@@ -8184,7 +8184,7 @@
 			}
 		],
 		"name": "Savage Deviljho",
-		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of Larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
+		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
 		"ecology":"Savage Deviljho is a more powerful and aggressive variant of Deviljho, characterized by its increased speed, strength, and tenacity. It exhibits larger breath attacks and more advanced uses of the Dragon Element, regardless of its rage state. This variant is almost always in a state of rage, which intensifies its offensive capabilities while also making it more vulnerable to attacks. Savage Deviljho is driven by constant starvation, leading it to attack indiscriminately and aggressively, often attempting to deplete entire ecosystems in its relentless quest for food.",
 		"title":["Terrifying Violent Wyvern"],
 		"generation":"Third",
@@ -9390,7 +9390,7 @@
 			}
 		],
 		"name": "Raging Brachydios",
-		"description": "A Brachydios variant that is much Larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
+		"description": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
 		"ecology":"Raging Brachydios is a larger, more aggressive variant of Brachydios with a green shell and yellow-orange slime mold that turns red when enraged. It has a tougher carapace and more volatile slime that detonates faster and with greater force. When further enraged, it sheds its slime, revealing a cracked, smoking body that uses a molten, lava-like substance in place of explosive slime. This state makes it highly aggressive and dangerous, attacking relentlessly and even risking self-harm to defeat its foes.",
 		"title":["Crushing Wyvern"],
 		"generation":"Fourth",
@@ -9840,11 +9840,6 @@
 				"id": 10,
 				"zoneCount": 15,
 				"name": "Hoarfrost Reach"
-			},
-			{
-				"id": 13,
-				"zoneCount": 15,
-				"name": "Guiding Lands"
 			}
 		],
 		"rewards": []
@@ -9866,7 +9861,7 @@
 		],
 		"name": "Fatalis",
 		"description": "An ancient dragon that appears in the legends of many cultures. It is said to have destroyed a kingdom in a single night, and its appearance forebodes calamity.",
-		"ecology":"",
+		"ecology":"Fatalis is an immensely powerful Elder Dragon capable of devastating entire regions and obliterating hunting parties with ease. It primarily wields its destructive flame breath, which can manifest as either a continuous stream of fire or explosive bursts. Fatalis can also release and ignite a cloud of flammable dust, similar to Teostra, and radiates intense heat, sufficient to melt metal and incinerate anything in contact with it. This dragon’s sheer volume and potency of flames make its fire attacks unparalleled, capable of engulfing vast areas and penetrating even the strongest fortifications. Despite its relatively slender build, Fatalis possesses extraordinary physical strength, using its whip-like tail, powerful jaws, and limbs to batter opponents and demolish stone structures effortlessly. Its presence instills fear in even the most formidable monsters, causing them to flee at the mere threat of confrontation. Fatalis is known for its hostility towards all living beings, demonstrating both intelligence and a form of sadism by melting hunters and their gear into its hide to fortify itself. Its awakening is often accompanied by severe natural disasters, hinting at its far-reaching influence. Notably, the Black Blade in Pokke Village, made from Fatalis materials, regenerates, suggesting its remarkable regenerative abilities.",
 		"title":["Black Dragon", "The Dark Demise", "Black Flame"],
 		"generation":"First",
 		"ailments": [
@@ -10059,9 +10054,46 @@
 		],
 		"locations": [
 			{
+				"id": 1,
+				"zoneCount": 2,
+				"name": "Ancient Forest"
+			},
+			{
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 3,
+				"zoneCount": 7,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 10,
+				"name": "Rotten Vale"
+
+			},
+			{
 				"id": 5,
-				"name": "Elder's Recess",
-				"description": "A treacherous environment where Gajalaka tribes can be found."
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 9,
+				"zoneCount": 4,
+				"name": "Caverns of El Dorado"
+			},
+			{
+				"id": 10,
+				"zoneCount": 11,
+				"name": "Hoarfrost Reach"
+			},
+
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
 		],
 		"rewards": []
@@ -10077,8 +10109,8 @@
 			}
 		],
 		"name": "Anteka",
-		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their Large antlers to shovel snow and fend off attackers.",
-		"ecology":"",
+		"description": "Docile herbivores that prefer the cold, living in herds for protection. They use their large antlers to shovel snow and fend off attackers.",
+		"ecology":"Anteka are well-adapted to cold environments with their long legs and thick, cloven hooves, which help them maintain speed and prevent sinking in snow. Their thick, woolly fur provides insulation against harsh mountain temperatures. Both male and female Anteka feature large horns, which are prominent in their appearance. Generally docile, Anteka will charge at predators when threatened and then flee the area to escape danger.",
 		"title":["N/A"],
 		"generation":"Second",	
 		"ailments": [
@@ -10097,6 +10129,13 @@
 				"name": "Hoarfrost Reach",
 				"zoneCount": 15
 			}
+			,
+
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
+			}
 		]
 	},	{
 		"id": 96,
@@ -10110,7 +10149,7 @@
 		],
 		"name": "Yian Garuga",
 		"description": "Bird Wyverns known for their hard shells and long manes. Infamous for their aggression, they are prone to viciously attacking anything that enters their line of sight.",
-		"ecology":"",
+		"ecology":"Yian Garuga is a formidable Bird Wyvern distinguished by its hard shell, long mane, and aggressive nature. It is infamous for its relentless attacks, using its poisonous tail club and producing deafening roars to incapacitate prey and hunters. This cunning predator is highly territorial, fiercely defending its domain and avoiding common traps like pitfall traps. It is also immune to sonic bombs, making it a particularly challenging opponent in the wild.",
 		"title":["Black Wolf Bird"],
 		"generation":"Second",
 		"ailments": [
