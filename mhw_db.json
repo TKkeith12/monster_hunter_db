@@ -4992,7 +4992,7 @@
 		],
 		"name": "Zorah Magdaros",
 		"description": "A massive elder dragon resembling a colossal volcanic creature. Zorah Magdaros has a rocky, molten exterior with lava flowing through its body. Its enormous, segmented body is covered in hardened crust with glowing magma beneath. The dragon has a long, snaking neck and a wide, jagged mouth. Its tail is long and powerful, often used to cause seismic disturbances. Zorah Magdaros’s sheer size and magma-infused attacks make it a formidable and destructive presence in the world.",
-		"ecology":"",
+		"ecology":"Zorah Magdaros is a colossal semi-aquatic Elder Dragon with a rocky, turtle-like shell. It continuously emits fire, smoke, and lava from its body and magmacore organs. Though relatively docile, it becomes aggressive when provoked, using its immense size and magma-based attacks to cause massive destruction. It is resistant to normal attacks but vulnerable to siege weapons like ballistae and cannons.",
 		"title":["Scorching Mountaion Dragon"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5091,7 +5091,7 @@
 		],
 		"name": "Leshen",
 		"description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
-		"ecology":"",
+		"ecology":"The Leshen is a powerful magical entity from another world, categorized as a \"Relict\" by the witcher's guild. It commands nature, summons strangling roots, and controls creatures like Jagras, Gajalaka, and Revolture. Highly territorial, the Leshen aggressively defends its forest home and punishes those who disrespect it. Although it lacks physical strength, its formidable magic and territorial nature make it a significant threat.",
 		"title":["N/A"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5213,7 +5213,7 @@
 		],
 		"name": "Ancient Leshen",
 		"description": "An old leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
-		"ecology":"",
+		"ecology":"The Ancient Leshen is a more formidable and ancient variant of the standard Leshen, possessing even greater magical powers. It maintains control over the forest and can summon massive, strangling roots and manipulate numerous lesser creatures with ease. Highly territorial, the Ancient Leshen defends its domain aggressively, punishing those who disrespect the natural world. This variant's ancient magic and increased power make it an even more significant threat compared to its standard counterpart.",
 		"title":["N/A"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5339,7 +5339,7 @@
 		],
 		"name": "Safi'jiiva",
 		"description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem. It can unleash powerful energy attacks and become more aggressive in its 'Supercritical State,' where its body parts become vulnerable.",
-		"ecology":"",
+		"ecology":"Safi'jiiva, the mature form of Xeno'jiiva, resides within the Guiding Lands, particularly in the Secluded Valley, where it absorbs abundant energy. It wields enhanced control over bioenergy, allowing it to reshape and destroy entire biomes. In combat, it attacks with powerful energy blasts, lasers, and sweeping beams while using its massive size and bioenergy-enhanced strikes for physical combat. Its exceptionally durable hide deflects most attacks, but it can rapidly heal by absorbing surrounding bioenergy. In its 'Supercritical State,' Safi'jiiva becomes more aggressive and vulnerable. Its ultimate attack, 'Sapphire of the Emperor,' unleashes a massive explosion, but it uses this sparingly. Highly intelligent and strategic, Safi'jiiva targets threats precisely and engages from a distance.",
 		"title":["Red Dragon"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5449,7 +5449,7 @@
 		],
 		"name": "Stygian Zinogre",
 		"description": "A subspecies of Zinogre that is typically Larger and perpetually covered in red bolts of dragon energy due to a symbiotic relationship with Dracophage Bugs that feed on dragonfell berries. It releases these bugs like bullets, and its crimson red/black lightning attacks deal Dragon Element damage. Becomes even more dangerous when covered in light.",
-		"ecology":"",
+		"ecology":"Stygian Zinogre is a formidable variant of Zinogre characterized by its dark, jagged appearance with a color scheme of grey, white, and red. Typically larger than the standard Zinogre, it is perpetually covered in crimson-red bolts of dragon energy, a result of bonding with Dracophage Bugs and Fulgar Bugs that consume dragonfell berries. Unlike its regular counterpart, Stygian Zinogre’s thunder-like attacks are imbued with Dragon Element, dealing powerful Dragon-Element damage. The monster can release red orbs, resembling Great Thunderbugs, which explode on contact with significant impact. Highly aggressive and unpredictable, Stygian Zinogre uses its enhanced electrical attacks and dragon energy orbs to pose a serious threat to hunters.",
 		"title":["Hell Wolf Wyvern", "Emperor of Hell"],
 		"generation":"Third",
 		"ailments": [
@@ -5477,6 +5477,16 @@
 			}
 		],
 		"locations": [
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
+				"zoneCount": 17,
+				"name": "Hoarfrost Reach"
+			},
 			{
 				"id": 11,
 				"zoneCount": 15,
@@ -5532,7 +5542,7 @@
 		],
 		"name": "Rajang",
 		"description": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry.",
-		"ecology":"",
+		"ecology":"Rajang is an apex monster known for its extreme violence and aggression, fiercely defending its territory even against Elder Dragons. It uses immense physical strength and agility to overpower opponents, attacking with powerful forelimbs and projecting electricity from its mouth. Rajang can enter 'Rampage Mode', greatly enhancing its speed, power, and toughness, with its forelimbs turning red and becoming nearly impervious to attacks. This mode can be disrupted by damaging or severing its tail. When enraged, Rajang's front fur turns gold.",
 		"title":["Gold Lion", "Destruction Incarnate", "Golden Mane"],
 		"generation":"Second",
 		"ailments": [
@@ -5562,6 +5572,36 @@
 			}
 		],
 		"locations": [
+			{
+				"id": 1,
+				"zoneCount": 17,
+				"name": "Ancient Forest"
+			},
+			{
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 3,
+				"zoneCount": 15,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 16,
+				"name": "Rotten Vale"
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
+				"zoneCount": 17,
+				"name": "Hoarfrost Reach"
+			},
 			{
 				"id": 11,
 				"zoneCount": 15,
@@ -5633,7 +5673,7 @@
 		],
 		"name": "Viper Tobi-Kadachi",
 		"description": "A subspecies of Tobi-Kadachi that uses powerful poisons via its fangs and tail spikes, which can also paralyze prey. It retains the ability to glide using membranes between its limbs.",
-		"ecology":"",
+		"ecology":"Viper Tobi-Kadachi is a subspecies of Tobi-Kadachi, distinguished by its color scheme of shades like brown, bronze, and burnt orange, with a belly fading from yellowish to pale blue. It retains the standard Tobi-Kadachi’s slim, squirrel-like body, bushy tail with spikes, and colubrid-like face. Unlike its standard counterpart, Viper Tobi-Kadachi possesses additional spikes on its tail that serve as poisonous projectiles. It has golden-yellow eyes, contrasting with the red eyes of the regular Tobi-Kadachi. Viper Tobi-Kadachi attacks with powerful poison via its fangs and tail spikes, can paralyze opponents, and uses gliding capabilities for mobility. It lacks thunder-based attacks but compensates with its potent poison and paralysis.",
 		"title":["Flying Poison Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5698,6 +5738,11 @@
 				"id": 10,
 				"zoneCount": 17,
 				"name": "Hoarfrost Reach"
+			},
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
 		],
 		"resistances": [],
@@ -5767,7 +5812,7 @@
 		],
 		"name": "Namielle",
 		"description": "An elder dragon coated in water and able to freely control lightning. A unique organ allows it to pump electricity into the pools of water it creates, causing massive bursts of steam.",
-		"ecology":"",
+		"ecology":"Namielle is an Elder Dragon covered in a layer of watery mucus, which it produces by absorbing water and combining it with its own fluids. This mucus allows Namielle to expel high-pressure jets and blasts of water for attacks. Though cumbersome on land initially, Namielle becomes more agile as it spreads water around, using it to slide around enemies and create shock waves or currents. It can also generate electricity, electrifying water puddles to create explosive steam. If it expels all its fluid, it can produce a massive electrical explosion but will be left vulnerable due to dehydration. Namielle is generally passive, fighting back only when provoked.",
 		"title":["Abyssal Dragon"],
 		"generation":"Fifth",
 		"ailments": [
@@ -5823,7 +5868,13 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
+
 		],
 		"resistances": [
 			{
@@ -5866,7 +5917,7 @@
 		],
 		"name": "Zinogre",
 		"description": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
-		"ecology":"",
+		"ecology":"Zinogre is a large, agile Fanged Wyvern known for its impressive maneuvers and its powerful electrical attacks. Despite its size, it can perform both grounded and aerial moves with agility. Zinogre primarily uses its well-developed forelimbs and electrified tail to strike at prey, with powerful swipes capable of killing in a single blow. It has a symbiotic relationship with Thunderbugs, which it houses in its horns and spikes. Zinogre summons these Thunderbugs to build up an electrical charge, enhancing its strength and aggression. Charged attacks include explosive bursts of lightning and ranged electrical strikes. Zinogre is a solitary and highly territorial hunter, aggressively attacking intruders on sight. If its charge is dispelled by taking damage, it will need time to recharge and act more passively.",
 		"title":["Thunder Wolf Wyvern", "Spark of Blue", "Lord of Lighting"],
 		"generation":"Third",
 		"ailments": [
@@ -5905,6 +5956,11 @@
 				"id": 2,
 				"zoneCount": 15,
 				"name": "Coral Highlands"
+			},
+			{
+				"id": 10,
+				"zoneCount": 17,
+				"name": "Hoarfrost Reach"
 			},
 			{
 				"id": 11,
@@ -5954,7 +6010,7 @@
 		],
 		"name": "Ebony Odogaron",
 		"description": "This Odogaron subspecies is forever on the prowl for its next meal, and is often seen carrying fresh kills in its mouth. Reports indicate it goes into a frenzy upon eating.",
-		"ecology":"",
+		"ecology":"Ebony Odogaron is a menacing variant of the standard Odogaron, distinguished by its dark blue and jet black scales and protrusions, with blood-red claws. Its glowing red eyes and the black smoke emitted from its mouth give it a more fearsome appearance and allow it to inflict Dragonblight on its enemies. This aggressive predator carries its kills in its mouth to sustain and enhance itself, and it can spit dragon-element-infused chunks of flesh to attack foes. Notably, the Ebony Odogaron is so territorial that it will even attack its standard counterpart and dispose of its carcass if encountered.",
 		"title":["Wicked Claw Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -6131,7 +6187,7 @@
 		],
 		"name": "Banbaro",
 		"description": "A monster with two giant horns, like a running brick wall. It charges at threats while digging its massive horns in the ground, sometimes picking up entire trees along the way.",
-		"ecology":"",
+		"ecology":"Banbaro is a large and heavy-set Brute Wyvern covered in stout white fur with gray-scaled portions on its head, legs, and arms, and is defined by its prominent pinkish horns with broad, moose-like antlers. When enraged, a small horn-like projection on its snout extends. Though generally a docile herbivore, Banbaro becomes aggressive when provoked and is highly territorial. In combat, it charges at opponents while digging up soil, fallen trees, or volcanic rock. It can hurl debris or trees as projectiles, leave trails of lava from volcanic rock, and use its tail to sweep away debris piles.",
 		"title":["Ferocious Bull Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -6239,13 +6295,40 @@
 		],
 		"locations": [
 			{
-				"id": 8,
-				"zoneCount": 10,
-				"name": "Hoarfrost Reach"
+				"id": 1,
+				"zoneCount": 2,
+				"name": "Ancient Forest"
 			},
 			{
-				"id": 13,
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 3,
+				"zoneCount": 7,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 10,
+				"name": "Rotten Vale"
+
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
 				"zoneCount": 11,
+				"name": "Hoarfrost Reach"
+			},
+
+			{
+				"id": 11,
+				"zoneCount": 15,
 				"name": "Guiding Lands"
 			}
 		],
@@ -6314,7 +6397,7 @@
 		],
 		"name": "Beotodus",
 		"description": "A piscine wyvern that uses the sharp fin on its head to cut through the frozen soil, swimming freely through the snow. Can often be seen hurling snow at its prey using its leg fins.",
-		"ecology":"",
+		"ecology":"Beotodus is a Piscine Wyvern with a stocky body and short fins, but it features a distinct skull with a slim head, intense green eyes, and a large black horn. Its scales are black with a yellow underbelly and head, and it has a shark-like dorsal fin along with two small ear-like fins on its head. Unlike other Piscine Wyverns, Beotodus covers itself in snow, not mud, to protect its weak points. It swims through ice and deep snow with ease, using these conditions to surprise prey, although it is vulnerable to Screamer Pods. Beotodus can be forced to surface if its snow covering is broken and it takes enough damage. It can inflict Iceblight by flinging snow and is capable of burrowing to ambush hunters from below.",
 		"title":["Frozen Fish Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -6418,7 +6501,7 @@
 		],
 		"description": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows and attack with ferocious speed. Their massive tails are dexterous as they are deadly, and powerful enough to slay smaller monsters with one strike.",
 		"name": "Nargacuga",
-		"ecology":"",
+		"ecology":"Nargacuga is a highly agile and stealthy Flying Wyvern, known for its ability to attack with nearly every part of its body, including its bladed wings and spiked tail. It can bite with its head, slice with its wings, and deliver dangerous tail strikes, especially when enraged, causing its tail spikes to protrude. The tail tip, in particular, is highly dangerous and can be severed with a white sharpness or higher. Nargacuga's strong muscles allow it to jump great distances and heights with speed. It is cautious and adept at sneaking up on hunters, often resting in high, hard-to-reach places in dark environments. It relies on its keen senses to detect hunters approaching its resting spot.",
 		"title":["Swift Wyvern", "Red Glare in the Darkness", "Pouncing Shadow"],
 		"generation":"Second",
 		"ailments": [
@@ -6550,7 +6633,7 @@
 		],
 		"name": "Velkhana",
 		"description": "An elder dragon with the power to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
-		"ecology":"",
+		"ecology":"Velkhana is an Elder Dragon with the ability to control cold through its ore-infused scales. It primarily attacks by breathing supercooled fluid that flash-freezes on impact, creating walls, spikes, and icy armor. Velkhana can also disperse freezing clouds that solidify upon being hit by its breath attacks, raining ice chunks on enemies. Highly agile and evasive, it uses its spear-like tail to strike from multiple angles and can create a prosthetic tail from ice if severed. Velkhana is fiercely territorial, often freezing smaller creatures as warnings to intruders.",
 		"title":["Ice Dragon", "The Iceborne Wyvern", "Ice Dragon that Freezes All", "Lord of the Tundra", "Lord of Ice"],
 		"generation":"Fifth",
 		"ailments": [
@@ -6575,6 +6658,45 @@
 					"items": [],
 					"skills": []
 				}
+			}
+		],
+		"locations": [
+			{
+				"id": 1,
+				"zoneCount": 2,
+				"name": "Ancient Forest"
+			},
+			{
+				"id": 2,
+				"zoneCount": 15,
+				"name": "Coral Highlands"
+			},
+			{
+				"id": 3,
+				"zoneCount": 7,
+				"name": "Wildspire Waste"
+			},
+			{
+				"id": 4,
+				"zoneCount": 10,
+				"name": "Rotten Vale"
+
+			},
+			{
+				"id": 5,
+				"zoneCount": 6,
+				"name": "Elder's Recess"
+			},
+			{
+				"id": 10,
+				"zoneCount": 11,
+				"name": "Hoarfrost Reach"
+			},
+
+			{
+				"id": 11,
+				"zoneCount": 15,
+				"name": "Guiding Lands"
 			}
 		],
 		"resistances": [
@@ -6643,7 +6765,7 @@
 		],
 		"name": "Tigrex",
 		"description": "A flying Wyvern whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area searching for prey, and have even been spotted in regions of harsh cold.",
-		"ecology":"",
+		"ecology":"Tigrex is a powerful flying wyvern characterized by its robust build and impressive speed. Its forelimbs have evolved into legs, allowing it to run at high speeds, though it is more often seen gliding than flying. Tigrex boasts a set of adequately-developed wings, but its primary mode of locomotion is gliding. It has exceptionally strong lungs that enable it to produce concussive roars capable of damaging nearby objects. Unlike many other monsters, Tigrex does not utilize elemental attacks; instead, it relies on sheer brute strength and its intimidating roar to overpower foes. During intense combat, it flushes blood to its forelimbs, face, and eyes, creating a bright-red glow to further intimidate opponents.",
 		"title":["Roaring Wyvern", "Absolute Power"],
 		"generation":"Second",
 		"ailments": [
@@ -6851,7 +6973,7 @@
 		],
 		"name": "Shrieking Legiana",
 		"description": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
-		"ecology":"",
+		"ecology":"Shrieking Legiana is structurally similar to its regular counterpart but distinguished by its black coloration and spiky ice encrustations on its chest, tail, and wings. Adapted to the Hoarfrost Reach, this variant has enhanced ice manipulation abilities. It can cover large areas with ice spikes and perform powerful dive attacks, showcasing its improved control over ice and making it a formidable opponent in its icy domain.",
 		"title":["Wind Drifting Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -6957,7 +7079,7 @@
 		],
 		"name": "Barioth",
 		"description": "Wyverns that rule the eternally frozen Tundra. Barioth use their forelegs, tail and their spiked scales to traverse the slippery ice with ease; this ability makes them very difficult to keep up with.",
-		"ecology":"",
+		"ecology":"Barioth is a highly aggressive and territorial Flying Wyvern, attacking any intruders that enter its domain. It is distinguished by its large, curved tusks with an amber coloration, which add to its imposing presence. When enraged, its eyes turn red, and it becomes even more formidable. Barioth moves quickly and unpredictably, using its agility to slide on ice and attack with its claws and tail. It wields its tail like a club to inflict Iceblight and can execute homing glide attacks from the sky. Barioth is capable of producing a powerful wind blast, spitting out an icy ball that creates a tornado, inflicting the Snowman Status effect on those caught within. However, this attack is not available when Barioth is fatigued. It can also perform side jumps and dodges, making it a challenging opponent even for experienced hunters.",
 		"title":["Ice Tusk Wyvern", "Flurry of Frosted Fangs"],
 		"generation":"Third",
 		"ailments": [
@@ -7061,7 +7183,7 @@
 		],
 		"name": "Glavenus",
 		"description": "A brute wyvern that can bring its mighty tail down on foes like a massive sword, decimating them in an explosion of flames created from the volatile components found in its scales. If its tail dulls from accumulated soot, a Glavenus will use its fangs to resharpen it.",
-		"ecology":"",
+		"ecology":"Glavenus is a fierce and intelligent Brute Wyvern known for its fiery tail blade. It sharpens its tail by scraping off soot and ores with its mouth, causing it to heat up and turn red hot, significantly increasing its attack power. Glavenus can create explosions and fiery waves with its heated tail and uses a throat organ to store and expel magma-like substances for additional damage. Its aggressive behavior includes dragging its tail and roaring to intimidate foes.",
 		"title":["Slashing Wyvern"],
 		"generation":"Fourth",
 		"ailments": [
@@ -7179,7 +7301,7 @@
 		],
 		"name": "Brachydios",
 		"description": "Brute wyverns coated with an explosive green substance. The material is thought to be a unique myxomycete--or slime mold--that is primed to explode by the Brachydios's own saliva. Note that these crafty creatures can also deliver powerful foreleg strikes.",
-		"ecology":"",
+		"ecology":"Brachydios is a formidable Brute Wyvern covered in green slime mold, with its forelimbs and horn encrusted with the substance. It uses its slime to create explosive attacks; by slamming the ground or foes, Brachydios deposits slime that explodes after a powerful chemical reaction. The slime is sticky and adheres to hunters, causing explosive damage if not removed with rolling or Deodorant. Brachydios is capable of leaping long distances and is more agile than other Brute Wyverns. Its shell is highly durable, allowing it to withstand both its own explosions and external attacks. When enraged, Brachydios’s slime attacks explode instantly upon impact. Known for its aggression and territorial behavior, Brachydios will drive out other monsters to claim its domain.",
 		"title":["Crushing Wyvern"],
 		"generation":"Third",
 		"ailments": [
@@ -7276,7 +7398,7 @@
 		],
 		"name": "Fulgur Anjanath",
 		"description": "An extremely adaptable subspecies of Anjanath that electrifies its jaws and dorsal membrane with every blow rendering them even stronger.",
-		"ecology":"",
+		"ecology":"Fulgur Anjanath is a formidable subspecie of the Anjanath, distinguished by its use of thunder element and exceptional strength. It generates electricity through a special organ and charges up over the course of a battle. Once charged, its mucus becomes electrified and can be hurled at foes, while its bites can electrify the ground, causing explosive damage. When fully charged, Fulgur Anjanath can fold its wings and launch itself at enemies, creating a massive electrical explosion. This variant is much stronger than its counterpart and can hold its own against apex predators.",
 		"title":["Thunder Jaw Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7400,7 +7522,7 @@
 		],
 		"name": "Acidic Glavenus",
 		"description": "A new subspecies to the ferocious Glavenus, the Acidic Glavenus features a sulphur covered tail. Found only in the rotting areas of the New World, a corrosive fluid has crystallized on its tail, spraying acid with each swing that can apply a debuff to those that get caught in it.",
-		"ecology":"",
+		"ecology":"Acidic Glavenus is a formidable Brute Wyvern with enhanced control over its tail attacks due to its lighter, more agile tail. It executes precise slashes and jabs, along with wide, sweeping attacks. The tail is coated with highly corrosive acid that can inflict Defense Down on contact. When the tail is covered in acidic crystals, it becomes heavier, causing Acidic Glavenus to adopt a fighting style similar to the standard Glavenus, including using its tail for powerful, wide swings.",
 		"title":["Sulfur Slashing Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7433,6 +7555,19 @@
 					"items": [],
 					"skills": []
 				}
+			}
+		],
+		"locations": [
+
+			{
+				"id": 4,
+				"name": "Rotten Vale",
+				"zoneCount": 7
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 10
 			}
 		],
 		"resistances": [
@@ -7505,7 +7640,7 @@
 		],
 		"name": "Ruiner Nergigante",
 		"description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
-		"ecology":"",
+		"ecology":"Ruiner Nergigante is a fearsome Elder Dragon with a gradual escalation in combat ferocity. It starts slow and predictable, becoming progressively brutal as it takes damage, reflecting its hardened battle experience. Unlike its standard counterpart, Ruiner Nergigante shows patience and intelligence, not attacking recklessly but rather waiting for an advantageous moment. It features metallic spikes on its forelimbs, nape, and wings, which grow tougher and larger as the fight continues, dealing increased damage and inflicting Bleeding. Ruiner Nergigante’s behavior includes letting others weaken prey before engaging, contrasting with the standard Nergigante's feral and immediate aggression.",
 		"title":["Extinction Dragon"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7606,11 +7741,35 @@
 			}
 		],
 		"locations": [
-			{
-				"id":5,
-				"name": "Elder's Recess",
-				"zoneCount": 7
-			},
+			{ "id": 1,
+			"zoneCount": 17,
+			"name": "Ancient Forest"
+		},
+		{
+			"id": 2,
+			"zoneCount": 15,
+			"name": "Coral Highlands"
+		},
+		{
+			"id": 3,
+			"zoneCount": 7,
+			"name": "Wildspire Waste"
+		},
+		{
+			"id": 4,
+			"zoneCount": 10,
+			"name": "Rotten Vale"
+		},
+		{
+			"id": 5,
+			"zoneCount": 6,
+			"name": "Elder's Recess"
+		},
+		{
+			"id": 10,
+			"zoneCount": 11,
+			"name": "Hoarfrost Reach"
+		},
 			{
 				"id": 11,
 				"name": "Guiding Lands",
@@ -7636,7 +7795,7 @@
 	],
 	"name": "Boaboa",
 	"description": "A tribe of Lynians residing in the cold regions of Hoarfrost Reach. They are known for their hunting skills and use of ice weapons.",
-	"ecology":"",
+	"ecology":"The Boaboa are Grimalkyne-like creatures characterized by their thick, white fur and bulkier frames. They wear crude masks resembling Popo heads, with tusk tips painted in colors that correspond to the status ailments they use in combat. The Boaboa are adept at inflicting various status ailments on their enemies. While they feed on Popo, they also show reverence towards them, dressing like the creatures and traveling with Popo herds throughout the Hoarfrost Reach.",
 	"title":["N/A"],
 	"generation":"Fifth",	
 	"ailments": [
@@ -7665,10 +7824,39 @@
 		}
 	],
 	"locations": [
+		{ "id": 1,
+		"zoneCount": 17,
+		"name": "Ancient Forest"
+	},
+	{
+		"id": 2,
+		"zoneCount": 15,
+		"name": "Coral Highlands"
+	},
+	{
+		"id": 3,
+		"zoneCount": 7,
+		"name": "Wildspire Waste"
+	},
+	{
+		"id": 4,
+		"zoneCount": 10,
+		"name": "Rotten Vale"
+	},
+	{
+		"id": 5,
+		"zoneCount": 6,
+		"name": "Elder's Recess"
+	},
+	{
+		"id": 10,
+		"zoneCount": 11,
+		"name": "Hoarfrost Reach"
+	},
 		{
-			"id": 6,
-			"name": "Hoarfrost Reach",
-			"zoneCount": 12
+			"id": 11,
+			"name": "Guiding Lands",
+			"zoneCount": 5
 		}
 	],
 	"rewards": []
@@ -7682,7 +7870,7 @@
 		],
 		"name": "Coral Pukei-Pukei",
 		"description": "A bird wyvern that stockpiles water inside its body, fortified by the plant life it consumes. When threatened it can expel a powerful stream from its mouth or tail.",
-		"ecology":"",
+		"ecology":"Coral Pukei-Pukei retains many features of Pukei-Pukei but distinguishes itself with bright orange coloring on its face, feet, and front wing claws, which turn red when enraged. Its body is a pinkish-red, with a violet underbelly and tail tip. Unlike Pukei-Pukei, which uses poison, Coral Pukei-Pukei employs water as its primary attack element. It stores high concentrations of water in its tail by drinking from sponge-like plants in the Coral Highlands, enabling it to shoot high-pressure water beams from both its tail and mouth. Additionally, it can throw globs of water balls at hunters and is notably more aggressive and effective with its tail attacks compared to its subspecies.",
 		"title":["Water Bewitching Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7786,7 +7974,7 @@
 		],
 		"name": "Nightshade Paolumu",
 		"description": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sack that it can expel and scatter to knock unwary foes out.",
-		"ecology":"",
+		"ecology":"Nightshade Paolumu is a subspecies of the Paolumu species distinguished by its dark purple and black coloration. It possesses a unique bioluminescent pattern on its body that glows faintly in the dark, adding to its eerie presence. Unlike the standard Paolumu, Nightshade Paolumu primarily uses sleep-inducing gas attacks, which are more potent and can affect a larger area. This variant is highly aggressive, often utilizing its enhanced gas attacks to incapacitate hunters before closing in for powerful physical strikes. It also exhibits a more erratic flight pattern, making it harder to predict and avoid its attacks. Nightshade Paolumu's adaptability to dark environments and its increased aggression make it a formidable opponent in the field.",
 		"title":["Floating Sleep Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7901,7 +8089,7 @@
 		],
 		"name": "Shara Ishvalda",
 		"description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
-		"ecology":"",
+		"ecology":"Shara Ishvalda is an Elder Dragon capable of manipulating the earth through sonic vibrations from its wingtips. It can create quicksand, tunnel through land, induce tremors, and fire supersonic beams. Its vibrations can cause massive explosions and permanently alter biomes. Nearly blind, it uses a sensory organ in its forehead to navigate and build rock armor when burrowing. When its armor is destroyed, it becomes highly aggressive, focusing all its power on destroying threats and continuing to fight even when severely injured.",
 		"title":["Earthing Singing Dragon, The Old Everwyrm"],
 		"generation":"Fifth",
 		"ailments": [
@@ -7997,8 +8185,8 @@
 		],
 		"name": "Savage Deviljho",
 		"description": "A mutated Deviljho variant, driven mad by its overpowering hunger. This variant is faster, stronger, and more tenacious, capable of Larger breath attacks and complex uses of the Dragon Element regardless of rage state.",
-		"ecology":"",
-		"title":["Terrifing Violent Wyvern"],
+		"ecology":"Savage Deviljho is a more powerful and aggressive variant of Deviljho, characterized by its increased speed, strength, and tenacity. It exhibits larger breath attacks and more advanced uses of the Dragon Element, regardless of its rage state. This variant is almost always in a state of rage, which intensifies its offensive capabilities while also making it more vulnerable to attacks. Savage Deviljho is driven by constant starvation, leading it to attack indiscriminately and aggressively, often attempting to deplete entire ecosystems in its relentless quest for food.",
+		"title":["Terrifying Violent Wyvern"],
 		"generation":"Third",
 		"ailments": [
 			{
@@ -8227,7 +8415,7 @@
 		],
 		"name": "Blackveil Vaal Hazak",
 		"description": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
-		"ecology":"",
+		"ecology":"Blackveil Vaal Hazak, a variant of Vaal Hazak, features a distinct green and milky-white color scheme, covered in moss-like pustules that constantly emit Effluvium. These pustules also cover its head, making it blind, though it can regain sight if they are removed or broken. Unlike its standard counterpart, Blackveil Vaal Hazak is more passive and only attacks when provoked. It uses Effluvium both as an offensive tool and to find prey, infecting other monsters and spreading its moss to alter the surrounding environment. The creature's breath attack has changed to a smog-like gas that temporarily adheres to the ground, creating a thick green fog that signals its presence and affects the area.",
 		"title":["Corpse Coat Dragon"],
 		"generation":"Fifth",
 		"ailments": [
@@ -8349,7 +8537,7 @@
 		],
 		"name": "Seething Bazelgeuse",
 		"description": "A Bazelgeuse variant whose body seems to smolder, like it could go critical at any moment. The heat of their explosive scales have grown, their pale blue glow worthy of the \"Seething\" moniker. Their scales are blisteringly hot in this state, capable of scorching the very earth with their volatile force.",
-		"ecology":"",
+		"ecology":"Seething Bazelgeuse is a variant with highly advanced explosive scales. When enraged, it enters the Seething State, dropping explosive scales that are more widespread and intense. In its second powered-up phase, scales glow purple-hot and cause massive explosions. It can fling scales from its head or tail, bypassing the need for bombing runs. Its most powerful attack involves scattering scales in the air and crashing down for a huge explosion, using up all its explosive scales.",
 		"title":["Explosive Scale Wyvern", "Party Crasher", "Bomber Wyvern", "The Invading Tyrant", "Death from Above", "Great Calamity"],
 		"generation":"Fifth",
 		"ailments": [
@@ -8477,7 +8665,7 @@
 		],
 		"name": "Scarred Yian Garuga",
 		"description": "A tempered Yian Garuga that has survived a grueling battle with just a scar on its head. It is just as aggressive as Yian Garuga, but can execute more consecutive air attacks and unleash a barrage of small fireballs while airborne.",
-		"ecology":"",
+		"ecology":"Scarred Yian Garuga is a highly aggressive Bird Wyvern, distinguished by a large scar on its head. It shares the same fierce behavior as Yian Garuga, attacking relentlessly and using its fiery tail and toxic breath. In Monster Hunter World: Iceborne, Scarred Yian Garuga's combat abilities are enhanced, allowing it to perform more consecutive aerial attacks and unleash a barrage of small fireballs while airborne, making it a formidable opponent with its increased aggression and offensive capabilities.",
 		"title":["Black Wolf Bird"],
 		"generation":"First",
 		"ailments": [
@@ -8620,7 +8808,7 @@
 		],
 		"name": "Gold Rathian",
 		"description": "A rare species of Rathian covered in shimmering golden scales. Known as the Gold Fire Wyvern, or alternatively the Golden Moon, as inspired by their divine appearance. These wyverns are infamous for their strong scales and attacks with their reinforced tails, giving these beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
-		"ecology":"",
+		"ecology":"Gold Rathian, a rare species of Rathian, is distinguished by its exceptionally strong golden shell that covers its entire body, making attacks difficult without causing weapon bounce. Slightly larger than the average Rathian, it enters an “Incandescent” state where blue flames cover its head, chest, and neck area, increasing its offensive capabilities. Weak to Thunder Element, Gold Rathian can inflict Poison and launch fireballs with heightened control and aggression. Its increased aggression is crucial for survival, making it more formidable than common Rathian species.",
 		"title":["Gold Fire Wyvern", "Golden Moon", "Illustrious Moon"],
 		"generation":"First",
 		"ailments": [
@@ -8789,7 +8977,7 @@
 		],
 		"name": "Silver Rathalos",
 		"description": "A rare species of Rathalos covered in shimmering silver scales. Known as the Silver Fire Wyvern, or alternatively the Silver Sun, as inspired by their majestic appearance. These wyverns are known for their fierce breath and even fiercer claws, giving these threatening beasts exceptional combat ability. In battle, their attacks grow only more intense when in their Incandescent state.",
-		"ecology":"",
+		"ecology":"Silver Rathalos is a rare specie of Rathalos, characterized by its striking silver carapace adorned with black markings along its spine. Slightly larger than the typical Rathalos, it exhibits blue flames on its head, chest, and neck when it enters its “Incandescent” state. This variant is markedly more aggressive, favoring aerial attacks such as triple fireballs and claw strikes over ground-based combat. On the ground, it relies more on tail whips rather than bites and charges less frequently. Silver Rathalos is also more prone to entering rage states, and in its Incandescent state, its attacks become even more ferocious, making it a significantly greater threat than standard Rathalos.",
 		"title":["Sliver Fire Wyvern", "Sliver Sun", "Argent Emperor"],
 		"generation":"First",
 		"ailments": [
@@ -8932,9 +9120,9 @@
 		],
 		"name": "Brute Tigrex",
 		"description": "A black subspecies of Tigrex. The force and range of their roar is far more fearsome than that of their Tigrex cousins. Extremely vicious with a practically insatiable appetite. Just like regular Tigrex, there have been reports of them traveling incredibly far distances to hunt for prey.",
-		"ecology":"",
-		"title":[""],
-		"generation":"",
+		"ecology":"Brute Tigrex is a formidable subspecies of the Tigrex with a significantly darker and muted color palette of greys, browns, and beiges. This variant is equipped with an enhanced set of lungs that enable it to produce more powerful roars, which can send nearby objects flying. It has also developed stronger forelimbs, allowing it to trample opponents with increased force. Adapted to harsh environments, Brute Tigrex exhibits a more brutal and aggressive behavior compared to its common counterpart. Its attacks are more ferocious, using its powerful limbs and concussive roars to dominate and overwhelm prey and attackers alike.",
+		"title":["Black Roaring Wyvern"],
+		"generation":"Third",
 		"ailments": [
 			{
 				"id": 21,
@@ -9069,6 +9257,11 @@
 		],
 		"locations": [
 			{
+				"id": 5,
+				"name": "Elder's Recess",
+				"zoneCount": 9
+			},
+			{
 				"id": 11,
 				"name": "Guiding Lands",
 				"zoneCount": 15
@@ -9088,7 +9281,7 @@
 	],
 	"name": "Popo",
 	"description": "Docile herbivores that travel in herds. They inhabit colder regions like Hoarfrost Reach and are known for their long tusks, which they use to dig through the snow for food.",
-	"ecology":"",
+	"ecology":"Popo are large, herbivorous creatures resembling a mix between a woolly mammoth and a bison. They are covered in thick, white fur, with tusks extending from their heads. These creatures are primarily found in the Hoarfrost Reach, where they graze on the region's sparse vegetation. Popo are generally passive and non-aggressive unless provoked, in which case they can become defensive and use their tusks for protection. They travel in herds, and their large size and tough hide make them resilient to many forms of attack.",
 	"title":["N/A"],
 	"generation":"First",	
 	"ailments": [
@@ -9142,7 +9335,7 @@
 		],
 		"name": "Wulg",
 		"description": "Small, wolf-like creatures that travel in packs. They inhabit the colder regions of the Hoarfrost Reach and are known for their agility and coordination when hunting prey.",
-		"ecology":"",
+		"ecology":"Wulg are small, fanged wyverns found in the Hoarfrost Reach, characterized by their compact, agile bodies and predatory nature. They possess a long, bushy tail and a sleek, striped coat, with distinctive long, blue claws on their shins. Their faces are elongated and covered in black fur. Despite their size, Wulgs are highly aggressive and will not hesitate to attack prey or hunters much larger than themselves. They are known for their pack behavior, often coordinating attacks in groups. Their combat tactics include lunging, biting, and an acrobatic grapple attack, which can be particularly dangerous if hunters are caught off guard.",
 		"title":["N/A"],
 		"generation":"Fifth",	
 		"ailments": [
@@ -9175,7 +9368,13 @@
 				"id": 10,
 			"name": "Hoarfrost Reach",
 			"zoneCount": 12
+			},
+			{
+				"id": 11,
+				"name": "Guiding Lands",
+				"zoneCount": 15
 			}
+			
 		],
 		"rewards": []
 	}
@@ -9192,7 +9391,7 @@
 		],
 		"name": "Raging Brachydios",
 		"description": "A Brachydios variant that is much Larger than the normal species. The slime on its body will activate over time and detonate, turning red when enraged and producing stronger blasts.",
-		"ecology":"",
+		"ecology":"Raging Brachydios is a larger, more aggressive variant of Brachydios with a green shell and yellow-orange slime mold that turns red when enraged. It has a tougher carapace and more volatile slime that detonates faster and with greater force. When further enraged, it sheds its slime, revealing a cracked, smoking body that uses a molten, lava-like substance in place of explosive slime. This state makes it highly aggressive and dangerous, attacking relentlessly and even risking self-harm to defeat its foes.",
 		"title":["Crushing Wyvern"],
 		"generation":"Fourth",
 		"ailments": [
@@ -9280,7 +9479,7 @@
 		],
 		"name": "Furious Rajang",
 		"description": "Furious Rajang are Rajang variants that are covered in golden fur. Normally Rajang return to their black-furred state after being agitated for a time to conserve energy, but these beasts have lost their ability to curb their anger. Outclassing the standard Rajang's attack power, they assault with seething rage. At the apex of their fury they become enraged and turn into destructive demons with electrified manes.",
-		"ecology":"",
+		"ecology":"Furious Rajang is a variant of Rajang that has lost its tail, which allows it to maximize its abilities. It defaults to an enraged state, with fur standing on end and an electric aura during its Rage mode. Furious Rajang is even more aggressive, strong, and fast than its normal counterpart. It has access to new thunder-based attacks, including electric ball barrages and ground slams that produce shockwaves. Unlike standard Rajang, its tail cannot be targeted to break its rampage mode; instead, it must be struck in the head to be subdued.",
 		"title":["Gold Lion", "Super Simian"],
 		"generation":"Second",
 		"ailments": [
@@ -9361,6 +9560,17 @@
 		],
 		"locations": [
 			{
+				"id":4,
+				"name": "Rotten Vale",
+				"zoneCount":6
+
+			},
+			{
+				"id": 10,
+				"zoneCount": 15,
+				"name": "Hoarfrost Reach"
+			},
+			{
 				"id": 11,
 				"name": "Guiding Lands",
 				"zoneCount": 15
@@ -9393,7 +9603,7 @@
 	],
 		"name": "Alatreon",
 		"description": "Known as a symbol of destruction, people fear even uttering its name. It's rumored to control all of the elements, but most, if not all, records of its existence have been burned.",
-		"ecology":"",
+		"ecology":"Alatreon is a formidable Elder Dragon with control over multiple elements: fire, ice, thunder, and water. It can unleash fiery blasts, breathe freezing air and ice crystals, summon lightning bolts, spray flammable fluid, and channel draconic energy. Its scales leak elemental energy, causing them to change properties spontaneously and allowing it to transition between elemental states. During combat, Alatreon’s elemental transformations alter its attacks and behavior, making it an unpredictable and powerful adversary. When shifting between Dragon Active and Fire or Ice Active states, Alatreon can unleash the Escaton Judgment, a devastating burst of elemental energy that can obliterate everything in its vicinity.",
 		"title":["Blazing Black Dragon"],
 		"generation":"Third",
 		"ailments": [
@@ -9575,7 +9785,7 @@
 		],
 		"name": "Frostfang Barioth",
 		"description": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. It is more aggressive than the standard Barioth and its fangs and claws are coated with frost.",
-		"ecology":"",
+		"ecology":"Frostfang Barioth, a formidable variant of Barioth, is notable for its chilling adaptations and striking appearance. It features dark-tinted tusks with icy white tips, thicker fur on its forelimbs and face, and a frosty covering on its body, reflecting its enhanced ice abilities. Frostfang Barioth’s sub-zero breath attack resembles that of Velkhana's, leaving a lingering frost trail that slows down and covers hunters in frost, making them sluggish. It can also launch explosive ice projectiles that send hunters flying. Despite maintaining its original physical prowess, Frostfang Barioth relies more on its breath attacks and jumps around less frequently, using its icy powers to control the battlefield and inflict severe cold damage.",
 		"title":["Frostfang Wyvern"],
 		"generation":"Fifth",
 		"ailments": [
@@ -9755,7 +9965,7 @@
 		],
 		"name": "Grimalkyne",
 		"description": "A tribe of Lynians allied with the Hunter's Palico. They offer assistance in battle and are found in various regions.",
-		"ecology":"",
+		"ecology":"Grimalkyne are a race of small, feline-like creatures in the Monster Hunter series, known for their agility and cleverness. They often serve as supporting characters, providing various services to hunters. Grimalkyne have a distinct appearance with cat-like features, such as whiskers and tails, and typically wear tribal or adventurer-style gear. They are generally non-aggressive and prefer to avoid conflict, instead relying on their agility and knowledge of the environment to outmaneuver threats. In some games, they can assist hunters by providing buffs, scouting, or even fighting alongside them",
 		"title":["N/A"],
 		"generation":"First",	
 		"ailments": [
@@ -9819,7 +10029,7 @@
 		],
 		"name": "Gajalaka",
 		"description": "A tribe of Lynians native to the Elder's Recess. They are known for their aggressive behavior and use of primitive weapons.",
-		"ecology":"",
+		"ecology":"Gajalaka are small, mischievous, and often hostile creatures found in the Elder's Recess. They resemble bipedal, feline-like beings with a somewhat ragged appearance and are known for their cunning and erratic behavior. Gajalaka typically appear in groups and are known for their tendency to steal items from hunters and cause general mayhem. They often use basic weapons and tools, such as makeshift spears and slingshots, and can be seen setting traps or ambushing prey. Despite their small size, Gajalaka can be surprisingly aggressive and persistent, particularly when defending their territory or resources.",
 		"title":["Odd Mask Tribe"],
 		"generation":"Fifth",	
 		"ailments": [
