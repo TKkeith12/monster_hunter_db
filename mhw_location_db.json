@@ -1103,21 +1103,6 @@
       "hazard":"None",
   "numOfAreas":1,
       "smallMonsters":[ 
-        
-    ],
-    "largeMonsters":[
-
-    ],
-      "camps": []
-    },
-    {
-      "id": 12,
-      "zoneCount": 17,
-      "name": "Hoarfrost Reach",
-      "description":"An icy, snow-covered region introduced in the Iceborne expansion. Hoarfrost Reach is a frozen wilderness with deep snowdrifts, frozen lakes, and towering icebergs. The cold environment adds new challenges for hunters, and the area is inhabited by creatures adapted to the frigid climate, like the Banbaro and Velkhana.",
-     "hazard":"Extreme Cold",
-  "numOfAreas":17,
-      "smallMonsters": [
         {
           "id": 1,
           "name": "Barnos"
@@ -1138,172 +1123,294 @@
           "id": 5,
           "name": "Mosswine"
         }
+  
+
+        
+    ],
+    "largeMonsters":[
+      {
+        "id": 1,
+        "name": "Anjanath"
+      },
+      {
+        "id": 2,
+        "name": "Fulgur Anjanath"
+      },
+      {
+        "id": 3,
+        "name": "Banbaro"
+      },
+      {
+        "id": 4,
+        "name": "Barioth"
+      },
+      {
+        "id": 5,
+        "name": "Frostfang Barioth"
+      },
+      {
+        "id": 6,
+        "name": "Barroth"
+      },
+      {
+        "id": 7,
+        "name": "Bazelgeuse"
+      },
+      {
+        "id": 8,
+        "name": "Deviljho"
+      },
+      {
+        "id": 9,
+        "name": "Savage Deviljho"
+      },
+      {
+        "id": 10,
+        "name": "Dodogama"
+      },
+      {
+        "id": 11,
+        "name": "Acidic Glavenus"
+      },
+      {
+        "id": 12,
+        "name": "Great Jagras"
+      },
+      {
+        "id": 13,
+        "name": "Kulu-Ya-Ku"
+      },
+      {
+        "id": 14,
+        "name": "Kushala Daora"
+      },
+      {
+        "id": 15,
+        "name": "Legiana"
+      },
+      {
+        "id": 16,
+        "name": "Lunastra"
+      },
+      {
+        "id": 17,
+        "name": "Namielle"
+      },
+      {
+        "id": 18,
+        "name": "Nargacuga"
+      },
+      {
+        "id": 19,
+        "name": "Nergigante"
+      },
+      {
+        "id": 20,
+        "name": "Ruiner Nergigante"
+      },
+      {
+        "id": 21,
+        "name": "Odogaron"
+      },
+      {
+        "id": 22,
+        "name": "Paolumu"
+      },
+      {
+        "id": 23,
+        "name": "Nightshade Paolumu"
+      },
+      {
+        "id": 24,
+        "name": "Pukei-Pukei"
+      },
+      {
+        "id": 25,
+        "name": "Rajang"
+      },
+      {
+        "id": 26,
+        "name": "Furious Rajang"
+      },
+      {
+        "id": 27,
+        "name": "Rathalos"
+      },
+      {
+        "id": 28,
+        "name": "Azure Rathalos"
+      },
+      {
+        "id": 29,
+        "name": "Rathian"
+      },
+      {
+        "id": 30,
+        "name": "Pink Rathian"
+      },
+      {
+        "id": 31,
+        "name": "Teostra"
+      },
+      {
+        "id": 32,
+        "name": "Tigrex"
+      },
+      {
+        "id": 33,
+        "name": "Brute Tigrex"
+      },
+      {
+        "id": 34,
+        "name": "Tobi-Kadachi"
+      },
+      {
+        "id": 35,
+        "name": "Viper Tobi-Kadachi"
+      },
+      {
+        "id": 36,
+        "name": "Tzitzi-Ya-Ku"
+      },
+      {
+        "id": 37,
+        "name": "Uragaan"
+      },
+      {
+        "id": 38,
+        "name": "Velkhana"
+      },
+      {
+        "id": 39,
+        "name": "Yian Garuga"
+      },
+      {
+        "id": 40,
+        "name": "Scarred Yian Garuga"
+      },
+      {
+        "id": 41,
+        "name": "Zinogre"
+      }
+
+    ],
+      "camps": []
+    },
+    {
+      "id": 12,
+      "zoneCount": 17,
+      "name": "Hoarfrost Reach",
+      "description":"An icy, snow-covered region introduced in the Iceborne expansion. Hoarfrost Reach is a frozen wilderness with deep snowdrifts, frozen lakes, and towering icebergs. The cold environment adds new challenges for hunters, and the area is inhabited by creatures adapted to the frigid climate, like the Banbaro and Velkhana.",
+     "hazard":"Extreme Cold",
+  "numOfAreas":17,
+      "smallMonsters": [
+        {
+          "id":1,
+          "name":"Anteka"
+        },
+        {
+          "id":2,
+          "name":"Boaboa"
+        },
+        {
+          "id":3,
+          "name":"Cortos"
+        },
+        {
+          "id":4,
+          "name":"Gajalaka"
+        },
+        {
+          "id":5,
+          "name":"Grimalkyne"
+        },
+        {
+          "id":6,
+          "name":"Popo"
+        },
+        {
+          "id":7,
+          "name":"Wulg"
+        },
+        {
+          "id":8,
+          "name":"Vespoid"
+        }
+  
       ],
       "largeMonsters": [
-        {
-          "id": 1,
-          "name": "Anjanath"
-        },
-        {
-          "id": 2,
-          "name": "Fulgur Anjanath"
-        },
-        {
-          "id": 3,
-          "name": "Banbaro"
-        },
-        {
-          "id": 4,
-          "name": "Barioth"
-        },
-        {
-          "id": 5,
-          "name": "Frostfang Barioth"
-        },
-        {
-          "id": 6,
-          "name": "Barroth"
-        },
-        {
-          "id": 7,
-          "name": "Bazelgeuse"
-        },
-        {
-          "id": 8,
-          "name": "Deviljho"
-        },
-        {
-          "id": 9,
-          "name": "Savage Deviljho"
-        },
-        {
-          "id": 10,
-          "name": "Dodogama"
-        },
-        {
-          "id": 11,
-          "name": "Acidic Glavenus"
-        },
-        {
-          "id": 12,
-          "name": "Great Jagras"
-        },
-        {
-          "id": 13,
-          "name": "Kulu-Ya-Ku"
-        },
-        {
-          "id": 14,
-          "name": "Kushala Daora"
-        },
-        {
-          "id": 15,
-          "name": "Legiana"
-        },
-        {
-          "id": 16,
-          "name": "Lunastra"
-        },
-        {
-          "id": 17,
-          "name": "Namielle"
-        },
-        {
-          "id": 18,
-          "name": "Nargacuga"
-        },
-        {
-          "id": 19,
-          "name": "Nergigante"
-        },
-        {
-          "id": 20,
-          "name": "Ruiner Nergigante"
-        },
-        {
-          "id": 21,
-          "name": "Odogaron"
-        },
-        {
-          "id": 22,
-          "name": "Paolumu"
-        },
-        {
-          "id": 23,
-          "name": "Nightshade Paolumu"
-        },
-        {
-          "id": 24,
-          "name": "Pukei-Pukei"
-        },
-        {
-          "id": 25,
-          "name": "Rajang"
-        },
-        {
-          "id": 26,
-          "name": "Furious Rajang"
-        },
-        {
-          "id": 27,
-          "name": "Rathalos"
-        },
-        {
-          "id": 28,
-          "name": "Azure Rathalos"
-        },
-        {
-          "id": 29,
-          "name": "Rathian"
-        },
-        {
-          "id": 30,
-          "name": "Pink Rathian"
-        },
-        {
-          "id": 31,
-          "name": "Teostra"
-        },
-        {
-          "id": 32,
-          "name": "Tigrex"
-        },
-        {
-          "id": 33,
-          "name": "Brute Tigrex"
-        },
-        {
-          "id": 34,
-          "name": "Tobi-Kadachi"
-        },
-        {
-          "id": 35,
-          "name": "Viper Tobi-Kadachi"
-        },
-        {
-          "id": 36,
-          "name": "Tzitzi-Ya-Ku"
-        },
-        {
-          "id": 37,
-          "name": "Uragaan"
-        },
-        {
-          "id": 38,
-          "name": "Velkhana"
-        },
-        {
-          "id": 39,
-          "name": "Yian Garuga"
-        },
-        {
-          "id": 40,
-          "name": "Scarred Yian Garuga"
-        },
-        {
-          "id": 41,
-          "name": "Zinogre"
-        }
+       {
+        "id":1,
+        "name":"Banbaro"
+       },
+       {
+        "id":2,
+        "name":"Barioth"
+       },
+       {
+        "id":3,
+        "name":"Frostfang Barioth"
+       },
+       {
+        "id":4,
+        "name":"Beotodus"
+       },
+       {
+        "id":5,
+        "name":"Ebony Odogaron"
+       },
+       {
+        "id":6,
+        "name":"Fulgur Anjanath"
+       },
+       {
+        "id":7,
+        "name":"Kirin"
+       },
+       {
+        "id":8,
+        "name":"Legiana"
+       },
+       {
+        "id":9,
+        "name":"Shrieking Legiana"
+       },
+       {
+        "id":10,
+        "name":"Rajang"
+       },
+       {
+        "id":11,
+        "name":"Furious Rajang"
+       },
+       {
+        "id":12,
+        "name":"Ruiner Nergigante"
+       },
+       {
+        "id":13,
+        "name":"Savage Deviljho"
+       },
+       {
+        "id":14,
+        "name":"Tigrex"
+       },
+       {
+        "id":15,
+        "name":"Viper Tobi-Kadachi"
+       },
+       {
+        "id":16,
+        "name":"Velkhana"
+       },
+       {
+        "id":17,
+        "name":"Zinogre"
+       },
+       {
+        "id":18,
+        "name":"Stygian Zinogre"
+       }
     ],
       "camps": [
         {
@@ -1341,9 +1448,291 @@
       "hazard":"Effluvium, Extreme Heat, Extreme Cold",
   "numOfAreas":17,
       "smallMonsters":[ 
+        {
+          "id":1,
+          "name":"Anteka"
+        },
+        {
+          "id":2,
+          "name":"Apceros"
+
+        },
+        {
+          "id":3,
+          "name":"Aptonoth"
+        },
+        {
+          "id":4,
+          "name":"Barnos"
+
+        },
+        {
+          "id":5,
+          "name":"Boaboa"
+        },
+        {
+          "id":6,
+          "name":"Cortos"
+        },
+        {
+          "id":7,
+          "name":"Gajalaka"
+        },
+        {
+          "id":8,
+          "name":"Grimalkyne"
+        },
+        {
+          "id":9,
+          "name":"Jagras"
+        },
+        {
+          "id":10,
+          "name":"Kelbi"
+        },
+        {
+          "id":11,
+          "name":"Kestodon"
+        },
+        {
+          "id":12,
+          "name":"Mernos"
+        },
+        {
+          "id":13,
+          "name":"Noios"
+        },
+        {
+          "id":14,
+          "name":"Raphinos"
+        },
+        {
+          "id":15,
+          "name":"Shamos"
+        },
+        {
+          "id":16,
+          "name":"Vespoid"
+        },
+        {
+          "id":17,
+          "name":"Vespoid"
+        }
         
     ],
     "largeMonsters":[
+      {
+        "id":1,
+        "name":"Anjanath"
+      },
+      {
+        "id":2,
+        "name":"Fulgur Anjanath"
+      },
+      {
+        "id":3,
+        "name":"Banbaro"
+      },
+      {
+        "id":4,
+        "name":"Barioth"
+      },
+      {
+        "id":5,
+        "name":"Barroth"
+      },
+      {
+        "id":6,
+        "name":"Blackveil Vaal Hazak"
+      },
+      {
+        "id":7,
+        "name":"Brachydios"
+      },
+      {
+        "id":8,
+        "name":"Raging Brachydios"
+      },
+      {
+        "id":9,
+        "name":"Diablos"
+      },
+      {
+        "id":10,
+        "name":"Black Diablos"
+      },
+      {
+        "id":11,
+        "name":"Dodogama"
+      },
+      {
+        "id":12,
+        "name":"Glavenus"
+      },
+      {
+        "id":13,
+        "name":"Acidic Glavenus"
+      },
+      {
+        "id":14,
+        "name":"Great Girros"
+      },
+      {
+        "id":15,
+        "name":"Great Jagras"
+      },
+      {
+        "id":16,
+        "name":"Kirin"
+      },
+      {
+        "id":17,
+        "name":"Kulu-Ya-Ku"
+      },
+      {
+        "id":18,
+        "name":"Kushala Daora"
+      },
+      {
+        "id":19,
+        "name":"Lavasioth"
+      },
+      {
+        "id":20,
+        "name":"Legiana"
+      },
+      {
+        "id":21,
+        "name":"Shrieking Legiana"
+      },
+      {
+        "id":22,
+        "name":"Lunastra"
+      },
+      {
+        "id":23,
+        "name":"Namielle"
+      },
+      {
+        "id":24,
+        "name":"Nargacuga"
+      },
+      {
+        "id":24,
+        "name":"Odogaron"
+      },
+      {
+        "id":25,
+        "name":"Ebony Odogaron"
+      },
+      {
+        "id":26,
+        "name":"Paolumu"
+      },
+      {
+        "id":27,
+        "name":"Nightshade Paolumu"
+      },
+      {
+        "id":28,
+        "name":"Pukei-Pukei"
+      },
+      {
+        "id":29,
+        "name":"Coral Pukei-Pukei"
+      },
+      {
+        "id":30,
+        "name":"Radobaan"
+      },
+      {
+        "id":31,
+        "name":"Rajang"
+      },
+      {
+        "id":32,
+        "name":"Rathalos"
+      },
+      {
+        "id":33,
+        "name":"Azure Rathalos"
+      },
+      {
+        "id":34,
+        "name":"Silver Rathalos"
+      },
+      {
+        "id":35,
+        "name":"Rathian"
+      },
+      {
+        "id":36,
+        "name":"Pink Rathian"
+      },
+      {
+        "id":37,
+        "name":"Gold Rathian"
+      },
+      {
+        "id":38,
+        "name":"Ruiner Nergigante"
+      },
+      {
+        "id":39,
+        "name":"Savage Deviljho"
+      },
+      {
+        "id":40,
+        "name":"Seething Bazelgeuse"
+      },
+      {
+        "id":41,
+        "name":"Teostra"
+      },
+      {
+        "id":42,
+        "name":"Tigrex"
+      },
+      {
+        "id":43,
+        "name":"Brute Tigrex"
+      },
+      {
+        "id":44,
+        "name":"Tobi-Kadachi"
+      },
+      {
+        "id":45,
+        "name":"Viper Tobi-Kadachi"
+      },
+      {
+        "id":46,
+        "name":"Tzitzi-Ya-Ku"
+      },
+      {
+        "id":47,
+        "name":"Uragaan"
+      },
+      {
+        "id":48,
+        "name":"Velkhana"
+      },
+      {
+        "id":49,
+        "name":"Yian Garuga"
+      },
+      {
+        "id":50,
+        "name":"Scarred Yian Garuga"
+      },
+      {
+        "id":51,
+        "name":"Zinogre"
+      },
+      {
+        "id":52,
+        "name":"Stygian Zinogre"
+      }
 
     ],
       "camps": [
